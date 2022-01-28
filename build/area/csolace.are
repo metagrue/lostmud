@@ -1,0 +1,2224 @@
+#AREADATA
+Name The Sea of Solace~
+Builders Chaos~
+VNUMs 900 999
+Credits { 20  40} Chaos   - The Sea of Solace~
+Security 9
+RepopMsg A hard wind blows through the dunes.~
+End
+
+
+
+#MOBILES
+#900
+sand snake~
+a sand snake~
+A black snake slithers in the sand.
+~
+~
+lizard~
+AG DF 0 -800 0
+30 18 0 38d6+164 18d9+1 1d2+1 bite
+-1 -1 -1 1
+FHM 0 L I
+stand stand female 0
+GXc AKQV medium unknown
+F for A
+F par CDEFH
+#901
+vulture bird~
+a vulture~
+A black feathered bird with a bald head glares at you menacingly.
+~
+~
+song bird~
+AG DFJLT 0 -500 0
+32 20 0 50d6+203 20d10+4 3d2+5 bite
+-3 -3 -3 0
+FH 0 J LQ
+stand stand either 0
+AGW ACDEFHJKP medium unknown
+#902
+coyote~
+a coyote~
+A coyote shies away from you.
+~
+~
+dog~
+AGH 0 0 200 0
+32 34 0 52d7+213 21d10+4 3d2+5 bite
+-4 -4 -4 0
+H 0 0 0
+stand stand either 0
+AGV ACDEFHJKUV medium unknown
+#903
+giant iguana lizard~
+a giant iguana~
+A huge lizard rests here, paying you no mind.
+~
+~
+lizard~
+A F 0 200 0
+34 25 0 62d8+253 25d10+5 3d2+6 bite
+-7 -7 -7 -1
+0 0 L I
+stand stand either 0
+AGXc ACDEFHKQV medium unknown
+#904
+pit viper snake~
+A huge pit viper~
+A large brown snake rests here, almost invisible in the sand.
+~
+~
+snake~
+ABF DFMPQ 0 -1000 0
+38 30 1 90d11+304 30d11+12 8d2+19 bite
+-12 -12 -12 -6
+FHMN AB L I
+stand stand either 0
+AGXYc ADEFKLQVX large unknown
+#905
+giant sand worm~
+a giant sandworm~
+A giant sandworm is pushing through the sand like it's water.
+~
+~
+unique~
+AFUW DF H 0 0
+41 30 1 90d11+304 30d11+12 8d2+19 digestion
+-12 -12 -12 -6
+HO AB HQ I
+stand stand either 0
+AGR DEF giant unknown
+#906
+giant sand rat~
+a giant sandrat~
+There is a giant rat burrowed here.
+~
+~
+rodent~
+ACS PQ 0 -200 0
+33 24 0 51d8+219 24d9+2 2d2+2 none
+-5 -5 -5 0
+FHR G 0 0
+stand stand either 0
+AGV ACDEFHJK small unknown
+#0
+
+
+
+#OBJECTS
+#900
+serpentine bracelet~
+a serpentine bracelet~
+There is a small bracelet fashioned from a snake here.~
+onyx~
+armor G AM
+BC BC BC AB 0
+22 22 26 0 P
+A
+20 -1
+A
+2 1
+#901
+coyote paw~
+a coyote paw~
+A severed coyote's paw has been strung on a rope.~
+coyote~
+jewelry 0 AC
+0 0 0 0 0
+18 18 0 0 P
+A
+2 1
+A
+20 -2
+#902
+vulture eye~
+a vulture's eye~
+A vultures eye is floating here.~
+cursed~
+jewelry AG AQ
+0 0 0 0 0
+20 20 1 1000 P
+F
+A 0 100 L
+#904
+lizard skin cloak~
+a lizard skin cloak~
+A reptile hide on a drawstring has been left here.~
+lizardhide~
+armor 0 AK
+BC BC BC AB 0
+25 25 26 50 P
+A
+20 -1
+#905
+glow cactus~
+a glow cactus~
+There is a florescent cactus growing here.~
+plant~
+container A 0
+10 E 0 1 0
+0 0 0 0 P
+#906
+glowing prickly pear fruit~
+a glowing prickly pear~
+There is a small glowing fruit here.~
+plant~
+pill AV A
+20 'haste' 'heal' 'refresh' 'poison'
+0 0 2 100 P
+#909
+viper fang~
+a viper fang~
+A giant fang which has been fashioned into a dagger has been discarded here.~
+unknown~
+weapon 0 AN
+dagger 3 11 stab H
+25 35 1 15 P
+A
+19 2
+A
+18 2
+#0
+
+
+
+#ROOMS
+#900
+In The Sea of Solace~
+~
+0 4 10
+D1
+~
+~
+0 0 910
+D2
+~
+~
+0 0 901
+S
+#901
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 900
+D1
+~
+~
+0 0 920
+D2
+~
+~
+0 0 902
+S
+#902
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 901
+D1
+~
+~
+0 0 930
+D2
+~
+~
+0 0 903
+D3
+~
+~
+0 0 733
+S
+#903
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 902
+D1
+~
+~
+0 0 940
+D2
+~
+~
+0 0 904
+S
+#904
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 903
+D1
+~
+~
+0 0 950
+D2
+~
+~
+0 0 905
+S
+#905
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 904
+D1
+~
+~
+0 0 960
+D2
+~
+~
+0 0 906
+S
+#906
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 905
+D1
+~
+~
+0 0 970
+D2
+~
+~
+0 0 907
+S
+#907
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 906
+D1
+~
+~
+0 0 980
+D2
+~
+~
+0 0 908
+S
+#908
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 907
+D1
+~
+~
+0 0 990
+S
+#909
+A Hidden Cave~
+~
+0 0 11
+D0
+~
+wall~
+5 0 1800
+D4
+~
+secret~
+5 0 964
+S
+#910
+In The Sea of Solace~
+~
+0 0 10
+D1
+~
+~
+0 0 911
+D2
+~
+~
+0 0 920
+D3
+~
+~
+0 0 900
+S
+#911
+In The Sea of Solace~
+~
+0 0 10
+D1
+~
+~
+0 0 912
+D2
+~
+~
+0 0 921
+D3
+~
+~
+0 0 910
+S
+#912
+In The Sea of Solace~
+~
+0 0 10
+D1
+~
+~
+0 0 913
+D2
+~
+~
+0 0 922
+D3
+~
+~
+0 0 911
+S
+#913
+In The Sea of Solace~
+~
+0 0 10
+D1
+~
+~
+0 0 914
+D2
+~
+~
+0 0 923
+D3
+~
+~
+0 0 912
+S
+#914
+In The Sea of Solace~
+~
+0 0 10
+D1
+~
+~
+0 0 915
+D2
+~
+~
+0 0 924
+D3
+~
+~
+0 0 913
+S
+#915
+In The Sea of Solace~
+~
+0 0 10
+D1
+~
+~
+0 0 916
+D2
+~
+~
+0 0 925
+D3
+~
+~
+0 0 914
+S
+#916
+In The Sea of Solace~
+~
+0 0 10
+D1
+~
+~
+0 0 917
+D2
+~
+~
+0 0 926
+D3
+~
+~
+0 0 915
+S
+#917
+In The Sea of Solace~
+~
+0 0 10
+D1
+~
+~
+0 0 918
+D2
+~
+~
+0 0 927
+D3
+~
+~
+0 0 916
+S
+#918
+In The Sea of Solace~
+~
+0 0 10
+D1
+~
+~
+0 0 919
+D2
+~
+~
+0 0 928
+D3
+~
+~
+0 0 917
+S
+#919
+In The Sea of Solace~
+~
+0 0 10
+D2
+~
+~
+0 0 929
+D3
+~
+~
+0 0 918
+S
+#920
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 910
+D1
+~
+~
+0 0 921
+D2
+~
+~
+0 0 930
+D3
+~
+~
+0 0 901
+S
+#921
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 911
+D1
+~
+~
+0 0 922
+D2
+~
+~
+0 0 931
+D3
+~
+~
+0 0 920
+S
+#922
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 912
+D1
+~
+~
+0 0 923
+D2
+~
+~
+0 0 932
+D3
+~
+~
+0 0 921
+S
+#923
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 913
+D1
+~
+~
+0 0 924
+D2
+~
+~
+0 0 933
+D3
+~
+~
+0 0 922
+S
+#924
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 914
+D1
+~
+~
+0 0 925
+D2
+~
+~
+0 0 934
+D3
+~
+~
+0 0 923
+S
+#925
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 915
+D1
+~
+~
+0 0 926
+D2
+~
+~
+0 0 935
+D3
+~
+~
+0 0 924
+S
+#926
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 916
+D1
+~
+~
+0 0 927
+D2
+~
+~
+0 0 936
+D3
+~
+~
+0 0 925
+S
+#927
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 917
+D1
+~
+~
+0 0 928
+D2
+~
+~
+0 0 937
+D3
+~
+~
+0 0 926
+S
+#928
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 918
+D1
+~
+~
+0 0 929
+D2
+~
+~
+0 0 938
+D3
+~
+~
+0 0 927
+S
+#929
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 919
+D2
+~
+~
+0 0 939
+D3
+~
+~
+0 0 928
+S
+#930
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 920
+D1
+~
+~
+0 0 931
+D2
+~
+~
+0 0 940
+D3
+~
+~
+0 0 902
+S
+#931
+The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 921
+D1
+~
+~
+0 0 932
+D2
+~
+~
+0 0 941
+D3
+~
+~
+0 0 930
+S
+#932
+Deep In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 922
+D1
+~
+~
+0 0 933
+D2
+~
+~
+0 0 942
+D3
+~
+~
+0 0 931
+S
+#933
+Deep In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 923
+D1
+~
+~
+0 0 934
+D2
+~
+~
+0 0 943
+D3
+~
+~
+0 0 932
+S
+#934
+Deep In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 924
+D1
+~
+~
+0 0 935
+D2
+~
+~
+0 0 944
+D3
+~
+~
+0 0 933
+S
+#935
+Deep In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 925
+D1
+~
+~
+0 0 936
+D2
+~
+~
+0 0 945
+D3
+~
+~
+0 0 934
+S
+#936
+Deep In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 926
+D1
+~
+~
+0 0 937
+D2
+~
+~
+0 0 946
+D3
+~
+~
+0 0 935
+S
+#937
+Deep In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 927
+D1
+~
+~
+0 0 938
+D2
+~
+~
+0 0 947
+D3
+~
+~
+0 0 936
+S
+#938
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 928
+D1
+~
+~
+0 0 939
+D2
+~
+~
+0 0 948
+D3
+~
+~
+0 0 937
+S
+#939
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 929
+D2
+~
+~
+0 0 949
+D3
+~
+~
+0 0 938
+S
+#940
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 930
+D1
+~
+~
+0 0 941
+D2
+~
+~
+0 0 950
+D3
+~
+~
+0 0 903
+S
+#941
+The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 931
+D1
+~
+~
+0 0 942
+D2
+~
+~
+0 0 951
+D3
+~
+~
+0 0 940
+S
+#942
+Deep In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 932
+D1
+~
+~
+0 0 943
+D2
+~
+~
+0 0 952
+D3
+~
+~
+0 0 941
+S
+#943
+Deep In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 933
+D1
+~
+~
+0 0 944
+D2
+~
+~
+0 0 953
+D3
+~
+~
+0 0 942
+S
+#944
+Deep In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 934
+D1
+~
+~
+0 0 945
+D2
+~
+~
+0 0 954
+D3
+~
+~
+0 0 943
+S
+#945
+Deep In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 935
+D1
+~
+~
+0 0 946
+D2
+~
+~
+0 0 955
+D3
+~
+~
+0 0 944
+S
+#946
+Deep In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 936
+D1
+~
+~
+0 0 947
+D2
+~
+~
+0 0 956
+D3
+~
+~
+0 0 945
+S
+#947
+Deep In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 937
+D1
+~
+~
+0 0 948
+D2
+~
+~
+0 0 957
+D3
+~
+~
+0 0 946
+S
+#948
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 938
+D1
+~
+~
+0 0 949
+D2
+~
+~
+0 0 958
+D3
+~
+~
+0 0 947
+S
+#949
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 939
+D2
+~
+~
+0 0 959
+D3
+~
+~
+0 0 948
+S
+#950
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 940
+D1
+~
+~
+0 0 951
+D2
+~
+~
+0 0 960
+D3
+~
+~
+0 0 904
+S
+#951
+The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 941
+D1
+~
+~
+0 0 952
+D2
+~
+~
+0 0 961
+D3
+~
+~
+0 0 950
+S
+#952
+Deep In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 942
+D1
+~
+~
+0 0 953
+D2
+~
+~
+0 0 962
+D3
+~
+~
+0 0 951
+S
+#953
+Deep In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 943
+D1
+~
+~
+0 0 954
+D2
+~
+~
+0 0 963
+D3
+~
+~
+0 0 952
+S
+#954
+Deep In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 944
+D1
+~
+~
+0 0 955
+D2
+~
+~
+0 0 964
+D3
+~
+~
+0 0 953
+S
+#955
+Deep In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 945
+D1
+~
+~
+0 0 956
+D2
+~
+~
+0 0 965
+D3
+~
+~
+0 0 954
+S
+#956
+Deep In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 946
+D1
+~
+~
+0 0 957
+D2
+~
+~
+0 0 966
+D3
+~
+~
+0 0 955
+S
+#957
+Deep In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 947
+D1
+~
+~
+0 0 958
+D2
+~
+~
+0 0 967
+D3
+~
+~
+0 0 956
+S
+#958
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 948
+D1
+~
+~
+0 0 959
+D2
+~
+~
+0 0 968
+D3
+~
+~
+0 0 957
+S
+#959
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 949
+D2
+~
+~
+0 0 969
+D3
+~
+~
+0 0 958
+S
+#960
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 950
+D1
+~
+~
+0 0 961
+D2
+~
+~
+0 0 970
+D3
+~
+~
+0 0 905
+S
+#961
+The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 951
+D1
+~
+~
+0 0 962
+D2
+~
+~
+0 0 971
+D3
+~
+~
+0 0 960
+S
+#962
+Deep In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 952
+D1
+~
+~
+0 0 963
+D2
+~
+~
+0 0 972
+D3
+~
+~
+0 0 961
+S
+#963
+Deep In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 953
+D1
+~
+~
+0 0 964
+D2
+~
+~
+0 0 973
+D3
+~
+~
+0 0 962
+S
+#964
+Deep In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 954
+D1
+~
+~
+0 0 965
+D2
+~
+~
+0 0 974
+D3
+~
+~
+0 0 963
+D5
+~
+sandtrap~
+5 0 909
+S
+#965
+Deep In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 955
+D1
+~
+~
+0 0 966
+D2
+~
+~
+0 0 975
+D3
+~
+~
+0 0 964
+S
+#966
+Deep In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 956
+D1
+~
+~
+0 0 967
+D2
+~
+~
+0 0 976
+D3
+~
+~
+0 0 965
+S
+#967
+Deep In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 957
+D1
+~
+~
+0 0 968
+D2
+~
+~
+0 0 977
+D3
+~
+~
+0 0 966
+S
+#968
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 958
+D1
+~
+~
+0 0 969
+D2
+~
+~
+0 0 978
+D3
+~
+~
+0 0 967
+S
+#969
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 959
+D2
+~
+~
+0 0 979
+D3
+~
+~
+0 0 968
+S
+#970
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 960
+D1
+~
+~
+0 0 971
+D2
+~
+~
+0 0 980
+D3
+~
+~
+0 0 906
+S
+#971
+The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 961
+D1
+~
+~
+0 0 972
+D2
+~
+~
+0 0 981
+D3
+~
+~
+0 0 970
+S
+#972
+Deep In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 962
+D1
+~
+~
+0 0 973
+D2
+~
+~
+0 0 982
+D3
+~
+~
+0 0 971
+S
+#973
+Deep In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 963
+D1
+~
+~
+0 0 974
+D2
+~
+~
+0 0 983
+D3
+~
+~
+0 0 972
+S
+#974
+Deep In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 964
+D1
+~
+~
+0 0 975
+D2
+~
+~
+0 0 984
+D3
+~
+~
+0 0 973
+S
+#975
+Deep In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 965
+D1
+~
+~
+0 0 976
+D2
+~
+~
+0 0 985
+D3
+~
+~
+0 0 974
+S
+#976
+Deep In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 966
+D1
+~
+~
+0 0 977
+D2
+~
+~
+0 0 986
+D3
+~
+~
+0 0 975
+S
+#977
+Deep In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 967
+D1
+~
+~
+0 0 978
+D2
+~
+~
+0 0 987
+D3
+~
+~
+0 0 976
+S
+#978
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 968
+D1
+~
+~
+0 0 979
+D2
+~
+~
+0 0 988
+D3
+~
+~
+0 0 977
+S
+#979
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 969
+D2
+~
+~
+0 0 989
+D3
+~
+~
+0 0 978
+S
+#980
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 970
+D1
+~
+~
+0 0 981
+D2
+~
+~
+0 0 990
+D3
+~
+~
+0 0 907
+S
+#981
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 971
+D1
+~
+~
+0 0 982
+D2
+~
+~
+0 0 991
+D3
+~
+~
+0 0 980
+S
+#982
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 972
+D1
+~
+~
+0 0 983
+D2
+~
+~
+0 0 992
+D3
+~
+~
+0 0 981
+S
+#983
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 973
+D1
+~
+~
+0 0 984
+D2
+~
+~
+0 0 993
+D3
+~
+~
+0 0 982
+S
+#984
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 974
+D1
+~
+~
+0 0 985
+D2
+~
+~
+0 0 994
+D3
+~
+~
+0 0 983
+S
+#985
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 975
+D1
+~
+~
+0 0 986
+D2
+~
+~
+0 0 995
+D3
+~
+~
+0 0 984
+S
+#986
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 976
+D1
+~
+~
+0 0 987
+D2
+~
+~
+0 0 996
+D3
+~
+~
+0 0 985
+S
+#987
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 977
+D1
+~
+~
+0 0 988
+D2
+~
+~
+0 0 997
+D3
+~
+~
+0 0 986
+S
+#988
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 978
+D1
+~
+~
+0 0 989
+D2
+~
+~
+0 0 998
+D3
+~
+~
+0 0 987
+S
+#989
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 979
+D2
+~
+~
+0 0 999
+D3
+~
+~
+0 0 988
+S
+#990
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 980
+D1
+~
+~
+0 0 991
+D3
+~
+~
+0 0 908
+S
+#991
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 981
+D1
+~
+~
+0 0 992
+D3
+~
+~
+0 0 990
+S
+#992
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 982
+D1
+~
+~
+0 0 993
+D3
+~
+~
+0 0 991
+S
+#993
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 983
+D1
+~
+~
+0 0 994
+D3
+~
+~
+0 0 992
+S
+#994
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 984
+D1
+~
+~
+0 0 995
+D3
+~
+~
+0 0 993
+S
+#995
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 985
+D1
+~
+~
+0 0 996
+D3
+~
+~
+0 0 994
+S
+#996
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 986
+D1
+~
+~
+0 0 997
+D3
+~
+~
+0 0 995
+S
+#997
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 987
+D1
+~
+~
+0 0 998
+D3
+~
+~
+0 0 996
+S
+#998
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 988
+D1
+~
+~
+0 0 999
+D3
+~
+~
+0 0 997
+S
+#999
+In The Sea of Solace~
+~
+0 0 10
+D0
+~
+~
+0 0 989
+D3
+~
+~
+0 0 998
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 909 0 5
+D 0 909 4 5
+D 0 964 5 5
+M 0 906 40 900 2
+M 0 906 40 900 2
+M 0 904 4 909 4
+G 0 909 0
+M 0 900 30 914 1
+M 0 901 30 915 1
+M 0 902 30 917 1
+M 0 906 40 920 2
+M 0 902 30 920 1
+M 0 901 30 922 1
+G 0 902 0
+M 0 902 30 923 1
+M 0 905 2 927 1
+M 0 906 40 928 2
+M 0 906 40 928 2
+M 0 902 30 931 1
+G 0 901 0
+M 0 901 30 932 1
+M 0 906 40 933 2
+M 0 906 40 933 2
+M 0 900 30 933 1
+O 0 905 0 934
+P 0 906 4 905 1
+M 0 903 10 935 1
+M 0 900 30 936 1
+M 0 901 30 937 1
+M 0 902 30 941 1
+M 0 900 30 942 1
+M 0 901 30 943 1
+M 0 900 30 944 1
+G 0 900 0
+M 0 900 30 945 1
+M 0 903 10 951 1
+M 0 901 30 952 1
+M 0 900 30 954 1
+M 0 902 30 954 1
+G 0 901 0
+M 0 906 40 956 2
+M 0 906 40 957 2
+M 0 901 30 958 1
+M 0 902 30 962 1
+G 0 901 0
+M 0 900 30 963 1
+M 0 902 30 966 1
+M 0 901 30 970 1
+M 0 905 2 971 1
+M 0 900 30 972 1
+M 0 903 10 973 1
+M 0 902 30 974 1
+G 0 901 0
+M 0 901 30 975 1
+M 0 900 30 976 1
+M 0 906 40 977 2
+M 0 906 40 977 2
+M 0 906 40 980 2
+M 0 906 40 980 2
+M 0 901 30 984 1
+M 0 903 10 986 1
+G 0 904 0
+M 0 902 30 987 1
+G 0 901 0
+O 0 905 0 988
+M 0 901 30 988 1
+P 0 906 4 905 1
+M 0 900 30 990 1
+M 0 906 40 991 2
+M 0 903 10 993 1
+M 0 906 40 994 2
+M 0 902 30 994 1
+G 0 901 0
+M 0 900 30 996 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

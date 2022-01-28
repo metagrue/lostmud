@@ -1,0 +1,3533 @@
+#AREADATA
+Name Dawncrest Township~
+Builders Chaos~
+VNUMs 300 599
+Credits {  ALL  } Chaos   - Dawncrest Township~
+Security 9
+RepopMsg A belltower chimes in the distance.~
+End
+
+
+
+#MOBILES
+#300
+joe general storekeep~
+Joe, the General Storekeep~
+A short man in an apron stands behind a counter, smiling.
+~
+He was an adventurer in his youth, now he sells food to adventurers,
+primarily.  
+~
+human~
+AB DF 0 0 0
+300 300 600 900d101+18181 300d11+120 151d37+155 slap
+-205 -205 -205 -144
+0 ABCD 0 0
+stand stand none 10000
+AHMV ABCDEFGHIJK medium unknown
+#301
+clive blacksmith storekeep~
+Clive, the Blacksmith~
+A huge ox of a man dressed in nothing but an apron stands here.
+~
+~
+human~
+AB DF 0 0 0
+300 300 1080 900d101+18181 300d11+120 76d15+910 none
+-205 -205 -205 -144
+0 ABCD 0 0
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#310
+stray dog~
+a stray dog~
+A dog stands here, sniffing for trash.
+~
+~
+dog~
+ACW FGHLO 0 0 0
+15 20 0 50d6+83 20d10+4 3d2+5 bite
+-3 -3 -3 0
+H JSUW JSUW AB
+stand stand either 0
+AGV ACDEFHJKUV medium unknown
+#311
+huge rat~
+a huge rat~
+There is a rat is here. It is huge.
+~
+~
+rodent~
+A DF 0 -250 0
+15 15 0 32d5+32 15d9+1 1d2+1 none
+0 0 0 3
+FH 0 0 0
+stand stand either 0
+AGV ACDEFHJK medium unknown
+#330
+dawncrest city guard~
+Dawncrest cityguard~
+A member of the Dawncrest city guard is here, watching the gate.
+~
+~
+human~
+AB F 0 500 0
+40 25 0 75d9+303 25d11+10 7d2+16 none
+-8 -8 -8 -3
+CQRTU AB 0 0
+stand stand either 500
+AHMV ABCDEFGHIJK medium unknown
+#331
+dawncrest city guard~
+Dawncrest cityguard~
+A member of the Dawncrest city guard is here, patrolling the streets.
+~
+~
+human~
+AG DF 0 500 0
+30 25 0 75d9+303 25d11+10 7d2+16 none
+-8 -8 -8 -3
+CQRTU AB 0 0
+stand stand either 500
+AHMV ABCDEFGHIJK medium unknown
+#340
+janitor~
+a janitor~
+A scruffy looking janitor is here, looking for things to clean.
+~
+~
+human~
+ACG 0 0 320 0
+20 10 0 25d3+102 10d10+2 1d2+3 none
+2 2 2 4
+I 0 0 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#501
+defender gaia giant~
+The Defender of Gaia~
+A huge man wielding a tree trunk is leaning against the temple.
+~
+~
+giant~
+AB 0 0 870 0
+190 190 380 570d64+7677 190d11+76 238d2+134 pound
+-126 -126 -126 -88
+CIK 0 HI JP
+stand stand male 0
+AHMV ABCDEFGHIJK giant unknown
+#502
+woman priestess gaia~
+The {WPriestess{x of {YGaia{x~
+There is a beautiful woman here, dressed scant in wisps of golden silk.
+~
+It's a very beautiful woman and she's wearing little more than a thin
+silken robe.  She notices your glance and beams a smile at you.  
+~
+human~
+ABQVZa DF H 1000 0
+201 201 402 603d68+8121 201d11+80 252d2+141 wrath
+-135 -135 -135 -94
+FHIK ABCD 0 0
+stand stand female 10000
+AHMV ABCDEFGHIJK medium unknown
+#503
+acolyte troll~
+The Acolyte of Chaos~
+A large troll in black robes stands here, picking his teeth.
+~
+~
+troll~
+AB FJc 0 -1000 0
+190 190 380 570d64+7677 190d11+76 238d2+134 chomp
+-126 -126 -126 -88
+DEFH 0 BE HK
+stand stand male 0
+ABHMV ABCDEFGHIJKUV large unknown
+#504
+disciple healer~
+The {mDisciple{x of {DChaos{x~
+A frail looking old man stands here.
+~
+~
+human~
+ABQVXa DF H -1000 0
+201 201 402 603d68+8121 201d11+80 252d2+141 none
+-135 -135 -135 -94
+FHIK ABCD 0 0
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#300
+water fountain~
+a marble water fountain~
+A massive fountain of marble gushes with fresh water here.~
+marble~
+fountain 0 0
+0 0 'water' 0 0
+0 0 0 0 P
+#301
+waterskin~
+a waterskin~
+A waterskin~
+lambskin~
+drink 0 A
+100 100 'water' 0 0
+0 0 5 150 P
+#302
+water barrel~
+a water barrel~
+A large barrel has been discarded here.~
+wood~
+drink 0 A
+300 300 'water' 0 0
+0 0 10 500 P
+#303
+hardtack biscuit~
+a hardtack biscuit~
+A small square biscuit sits here collecting dust.~
+unknown~
+food 0 A
+C C 0 0 0
+0 0 1 75 P
+#304
+travel rations~
+travel rations~
+A small fragrant pouch sits here undisturbed.~
+nuts and jerky~
+food 0 A
+BD BD 0 0 0
+0 0 1 150 P
+#305
+burlap sack~
+a burlap sack~
+A large burlap sack has been left here.~
+burlap~
+container 0 AO
+50 0 0 20 95
+0 0 2 100 P
+#306
+travelers backpack~
+a traveler's backpack~
+A large backpack has been left here.~
+leather~
+container OY AD
+1000 0 0 100 90
+0 0 5 750 P
+#307
+soap rope~
+soap on a roap~
+A bar of soap attached to a rope is laying here.~
+lye~
+jewelry Y AC
+0 0 0 0 0
+0 0 1 100 P
+A
+5 1
+#308
+deer jerky~
+some {rdeer jerky{x~
+A pile of jerky is laying here, still good.~
+jerky~
+food 0 A
+D D 0 0 0
+1 1 1 100 P
+#330
+chain mail chainmail coif~
+a chainmail coif~
+A small pile of chain mail has been discarded here.~
+iron~
+armor 0 AE
+ABC ABC ABC AB 0
+20 30 1 5 P
+A
+1 1
+#331
+chain mail chainmail shirt~
+a chainmail shirt~
+A large pile of chainmail and burlap has been left here.~
+iron~
+armor 0 AD
+D D D C 0
+20 35 1 5 P
+A
+5 1
+#332
+iron long sword longsword~
+an iron longsword~
+A battered old longsword rests here, unclaimed.~
+iron~
+weapon 0 AN
+sword 4 12 slash 0
+20 35 1 15 P
+A
+19 2
+A
+18 2
+#333
+dawnguard signet pendant~
+a Dawnguard Signet Pendant~
+A large redstone pendant has been left here.~
+redstone~
+jewelry 0 C
+0 0 0 0 0
+20 30 0 0 P
+A
+5 1
+A
+1 1
+#340
+mop~
+a mop~
+A mop has been left here.~
+wood~
+weapon 0 AN
+exotic 3 9 slap F
+20 20 1 5 P
+A
+18 1
+A
+19 1
+#341
+dirty leather jacket~
+a dirty leather jacket~
+A dirty leather jacket has been left here.~
+leather~
+armor 0 AK
+BC BC BC AB 0
+20 25 1 5 P
+A
+2 1
+#500
+donation pit don donpit~
+the donation pit~
+A large pit for donations sits in the center of the room.~
+unknown~
+pit 0 0
+10000 0 0 10000 0
+0 0 0 0 P
+#501
+gaia branch~
+{YGaia's {yBranch{x~
+A huge petrified tree trunk lays here.~
+unknown~
+weapon GIKLY AN
+mace 16 42 beating F
+150 150 35 0 P
+A
+19 14
+A
+18 14
+#502
+regeneration pool~
+a {Bblue {xregeneration pool~
+A pool of a pristine clear blue liquid sits in the center of the room.~
+goo~
+furniture A 0
+CFG EIJKN FI BCEH DEFG
+0 0 0 0 P
+#503
+dread spike~
+{DThe {rDread {DSpike{x~
+A twisted black sliver of metal lies here.~
+unknown~
+weapon BCGJLMY AN
+dagger 15 42 stab CDH
+150 150 15 0 P
+A
+19 14
+A
+18 14
+#504
+regeneration pool~
+a {ggreen{x regeneration pool~
+A green pool of viscous goo sits in the center of the room.~
+goo~
+furniture A 0
+CFG EIJKN FI BCEH DEFG
+0 0 0 0 P
+#0
+
+
+
+#ROOMS
+#300
+Center of Dawncrest Square~
+~
+0 0 1
+D0
+~
+~
+0 0 301
+D1
+~
+~
+0 0 303
+D2
+~
+~
+0 0 305
+D3
+~
+~
+0 0 307
+S
+#301
+North Dawncrest Square~
+~
+0 0 1
+D0
+~
+~
+0 0 323
+D1
+~
+~
+0 0 302
+D2
+~
+~
+0 0 300
+D3
+~
+~
+0 0 308
+S
+#302
+Northeast Dawncrest Square~
+~
+0 0 1
+D1
+~
+~
+0 0 4
+D2
+~
+~
+0 0 303
+D3
+~
+~
+0 0 301
+S
+#303
+East Dawncrest Square~
+~
+0 0 1
+D0
+~
+~
+0 0 302
+D1
+~
+~
+0 0 309
+D2
+~
+~
+0 0 304
+D3
+~
+~
+0 0 300
+S
+#304
+Southeast Dawncrest Square~
+~
+0 0 1
+D0
+~
+~
+0 0 303
+D1
+~
+~
+0 0 333
+D3
+~
+~
+0 0 305
+S
+#305
+South Dawncrest Square~
+~
+0 0 1
+D0
+~
+~
+0 0 300
+D1
+~
+~
+0 0 304
+D2
+~
+~
+0 0 327
+D3
+~
+~
+0 0 306
+S
+#306
+Southwest Dawncrest Square~
+~
+0 0 1
+D0
+~
+~
+0 0 307
+D1
+~
+~
+0 0 305
+S
+#307
+West Dawncrest Square~
+~
+0 0 1
+D0
+~
+~
+0 0 308
+D1
+~
+~
+0 0 300
+D2
+~
+~
+0 0 306
+D3
+~
+~
+0 0 316
+S
+#308
+Northwest Dawncrest Square~
+~
+0 0 1
+D1
+~
+~
+0 0 301
+D2
+~
+~
+0 0 307
+S
+#309
+East Main Street~
+~
+0 0 1
+D1
+~
+~
+0 0 310
+D3
+~
+~
+0 0 303
+S
+#310
+East Main Street~
+~
+0 0 1
+D0
+~
+~
+0 0 381
+D1
+~
+~
+0 0 311
+D2
+~
+~
+0 0 384
+D3
+~
+~
+0 0 309
+S
+#311
+East Main Street~
+~
+0 0 1
+D0
+~
+~
+0 0 334
+D1
+~
+~
+0 0 312
+D3
+~
+~
+0 0 310
+S
+#312
+East Main Street~
+~
+0 0 1
+D1
+~
+~
+0 0 313
+D3
+~
+~
+0 0 311
+S
+#313
+East Main Street~
+~
+0 0 1
+D1
+~
+~
+0 0 314
+D3
+~
+~
+0 0 312
+S
+#314
+Eastern Gate of Dawncrest~
+~
+0 0 1
+D0
+~
+~
+0 0 361
+D1
+~
+gate~
+1 0 315
+D2
+~
+~
+0 0 344
+D3
+~
+~
+0 0 313
+S
+#315
+Winding Path~
+~
+0 0 3
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+
+~
+D0
+~
+~
+0 0 1300
+D3
+~
+gate~
+1 0 314
+S
+#316
+West Main Street~
+~
+0 0 1
+D1
+~
+~
+0 0 307
+D3
+~
+~
+0 0 317
+S
+#317
+West Main Street~
+~
+0 0 1
+D1
+~
+~
+0 0 316
+D3
+~
+~
+0 0 318
+S
+#318
+West Main Street~
+~
+0 0 1
+D1
+~
+~
+0 0 317
+D3
+~
+~
+0 0 319
+S
+#319
+West Main Street~
+~
+0 0 1
+D1
+~
+~
+0 0 318
+D3
+~
+~
+0 0 320
+S
+#320
+West Main Street~
+~
+0 0 1
+D1
+~
+~
+0 0 319
+D3
+~
+~
+0 0 321
+S
+#321
+Western Gate of Dawncrest~
+~
+0 0 1
+D0
+~
+~
+0 0 378
+D1
+~
+~
+0 0 320
+D2
+~
+~
+0 0 355
+D3
+~
+gate~
+1 0 322
+S
+#322
+Outside the Western Gate of Dawncrest~
+~
+0 0 3
+D1
+~
+gate~
+1 0 321
+S
+#323
+North Dawn Road~
+~
+0 0 1
+D0
+~
+~
+0 0 324
+D1
+~
+~
+0 0 503
+D2
+~
+~
+0 0 301
+D3
+~
+~
+0 0 501
+S
+#324
+North Dawn Road~
+~
+0 0 1
+D0
+~
+~
+0 0 325
+D2
+~
+~
+0 0 323
+S
+#325
+Northern Gate of Dawncrest~
+~
+0 0 1
+D0
+~
+gate~
+1 0 326
+D1
+~
+~
+0 0 364
+D2
+~
+~
+0 0 324
+D3
+~
+~
+0 0 371
+S
+#326
+Outside the Northern Gate of Dawncrest~
+~
+0 0 1
+D0
+~
+~
+0 0 229
+D1
+~
+~
+0 0 275
+D2
+~
+gate~
+1 0 325
+D3
+~
+~
+0 0 276
+S
+#327
+Dawn Road~
+~
+0 0 1
+D0
+~
+~
+0 0 305
+D1
+~
+~
+0 0 6
+D2
+~
+~
+0 0 328
+S
+#328
+Dawn Road~
+~
+0 0 1
+D0
+~
+~
+0 0 327
+D2
+~
+~
+0 0 329
+S
+#329
+Dawn Road~
+~
+0 0 1
+D0
+~
+~
+0 0 328
+D1
+~
+~
+0 0 391
+D2
+~
+~
+0 0 330
+S
+#330
+Dawn Road~
+~
+0 0 1
+D0
+~
+~
+0 0 329
+D2
+~
+~
+0 0 331
+S
+#331
+Dawn Road~
+~
+0 0 1
+D0
+~
+~
+0 0 330
+D2
+~
+~
+0 0 332
+S
+#332
+Southern Gate of Dawncrest~
+~
+0 0 1
+D0
+~
+~
+0 0 331
+D1
+~
+~
+0 0 335
+D2
+~
+gate~
+1 0 396
+D3
+~
+~
+0 0 348
+S
+#333
+Joe's General Store~
+~
+0 0 0
+D3
+~
+~
+0 0 304
+S
+#334
+The Blacksmithy~
+~
+0 0 0
+D2
+~
+~
+0 0 311
+S
+#335
+Southwall Road~
+~
+0 0 1
+D1
+~
+~
+0 0 336
+D3
+~
+~
+0 0 332
+S
+#336
+Southwall Road~
+~
+0 0 1
+D1
+~
+~
+0 0 337
+D3
+~
+~
+0 0 335
+S
+#337
+Southwall Road~
+~
+0 0 1
+D0
+~
+~
+0 0 389
+D1
+~
+~
+0 0 338
+D3
+~
+~
+0 0 336
+S
+#338
+Southwall Road~
+~
+0 0 1
+D1
+~
+~
+0 0 339
+D3
+~
+~
+0 0 337
+S
+#339
+Southwall Road~
+~
+0 0 1
+D1
+~
+~
+0 0 340
+D3
+~
+~
+0 0 338
+S
+#340
+Southwall Road~
+~
+0 0 1
+D1
+~
+~
+0 0 341
+D3
+~
+~
+0 0 339
+S
+#341
+Southwall Road~
+~
+0 0 1
+D0
+~
+~
+0 0 347
+D3
+~
+~
+0 0 340
+S
+#342
+Along the East Wall~
+~
+0 0 1
+D0
+~
+~
+0 0 343
+D2
+~
+~
+0 0 345
+S
+#343
+Along the East Wall~
+~
+0 0 1
+D0
+~
+~
+0 0 344
+D2
+~
+~
+0 0 342
+S
+#344
+Along the East Wall~
+~
+0 0 1
+D0
+~
+~
+0 0 314
+D2
+~
+~
+0 0 343
+S
+#345
+Along the East Wall~
+~
+0 0 1
+D0
+~
+~
+0 0 342
+D2
+~
+~
+0 0 346
+D3
+~
+~
+0 0 395
+S
+#346
+Along the East Wall~
+~
+0 0 1
+D0
+~
+~
+0 0 345
+D2
+~
+~
+0 0 347
+S
+#347
+Along the East Wall~
+~
+0 0 1
+D0
+~
+~
+0 0 346
+D2
+~
+~
+0 0 341
+S
+#348
+Southwall Road~
+~
+0 0 1
+D1
+~
+~
+0 0 332
+D3
+~
+~
+0 0 349
+S
+#349
+Southwall Road~
+~
+0 0 1
+D1
+~
+~
+0 0 348
+D3
+~
+~
+0 0 350
+S
+#350
+Southwall Road~
+~
+0 0 1
+D1
+~
+~
+0 0 349
+D3
+~
+~
+0 0 351
+S
+#351
+Southwall Road~
+~
+0 0 1
+D1
+~
+~
+0 0 350
+D3
+~
+~
+0 0 352
+S
+#352
+Southwall Road~
+~
+0 0 1
+D1
+~
+~
+0 0 351
+D3
+~
+~
+0 0 353
+S
+#353
+Southwall Road~
+~
+0 0 1
+D1
+~
+~
+0 0 352
+D3
+~
+~
+0 0 354
+S
+#354
+Southwall Road~
+~
+0 0 1
+D0
+~
+~
+0 0 360
+D1
+~
+~
+0 0 353
+S
+#355
+Along the West Wall~
+~
+0 0 1
+D0
+~
+~
+0 0 321
+D2
+~
+~
+0 0 356
+S
+#356
+Along the West Wall~
+~
+0 0 1
+D0
+~
+~
+0 0 355
+D2
+~
+~
+0 0 357
+S
+#357
+Along the West Wall~
+~
+0 0 1
+D0
+~
+~
+0 0 356
+D2
+~
+~
+0 0 358
+S
+#358
+Along the West Wall~
+~
+0 0 1
+D0
+~
+~
+0 0 357
+D2
+~
+~
+0 0 359
+S
+#359
+Along the West Wall~
+~
+0 0 1
+D0
+~
+~
+0 0 358
+D2
+~
+~
+0 0 360
+S
+#360
+Along the West Wall~
+~
+0 0 1
+D0
+~
+~
+0 0 359
+D2
+~
+~
+0 0 354
+S
+#361
+Along the East Wall~
+~
+0 0 1
+D0
+~
+~
+0 0 362
+D2
+~
+~
+0 0 314
+S
+#362
+Along the East Wall~
+~
+0 0 1
+D0
+~
+~
+0 0 363
+D2
+~
+~
+0 0 361
+S
+#363
+Along the East Wall~
+~
+0 0 1
+D0
+~
+~
+0 0 370
+D2
+~
+~
+0 0 362
+S
+#364
+North Row~
+~
+0 0 1
+D1
+~
+~
+0 0 365
+D3
+~
+~
+0 0 325
+S
+#365
+North Row~
+~
+0 0 1
+D1
+~
+~
+0 0 366
+D2
+~
+~
+0 0 500
+D3
+~
+~
+0 0 364
+S
+#366
+North Row~
+~
+0 0 1
+D1
+~
+~
+0 0 367
+D2
+~
+~
+0 0 383
+D3
+~
+~
+0 0 365
+S
+#367
+North Row~
+~
+0 0 1
+D1
+~
+~
+0 0 368
+D3
+~
+~
+0 0 366
+S
+#368
+North Row~
+~
+0 0 1
+D1
+~
+~
+0 0 369
+D3
+~
+~
+0 0 367
+S
+#369
+North Row~
+~
+0 0 1
+D1
+~
+~
+0 0 370
+D3
+~
+~
+0 0 368
+S
+#370
+North Row~
+~
+0 0 1
+D2
+~
+~
+0 0 363
+D3
+~
+~
+0 0 369
+S
+#371
+North Row~
+~
+0 0 1
+D1
+~
+~
+0 0 325
+D3
+~
+~
+0 0 372
+S
+#372
+North Row~
+~
+0 0 1
+D1
+~
+~
+0 0 371
+D3
+~
+~
+0 0 373
+S
+#373
+North Row~
+~
+0 0 1
+D1
+~
+~
+0 0 372
+D3
+~
+~
+0 0 374
+S
+#374
+North Row~
+~
+0 0 1
+D1
+~
+~
+0 0 373
+D3
+~
+~
+0 0 375
+S
+#375
+North Row~
+~
+0 0 1
+D1
+~
+~
+0 0 374
+D3
+~
+~
+0 0 376
+S
+#376
+North Row~
+~
+0 0 1
+D1
+~
+~
+0 0 375
+D3
+~
+~
+0 0 377
+S
+#377
+North Row~
+~
+0 0 1
+D1
+~
+~
+0 0 376
+D2
+~
+~
+0 0 380
+S
+#378
+Along the West Wall~
+~
+0 0 1
+D0
+~
+~
+0 0 379
+D2
+~
+~
+0 0 321
+S
+#379
+Along the West Wall~
+~
+0 0 1
+D0
+~
+~
+0 0 380
+D2
+~
+~
+0 0 378
+S
+#380
+Along the West Wall~
+~
+0 0 1
+D0
+~
+~
+0 0 377
+D2
+~
+~
+0 0 379
+S
+#381
+Common Row~
+~
+0 0 1
+D0
+~
+~
+0 0 382
+D2
+~
+~
+0 0 310
+S
+#382
+Common Row~
+~
+0 0 1
+D0
+~
+~
+0 0 383
+D1
+~
+~
+0 0 390
+D2
+~
+~
+0 0 381
+S
+#383
+Common Row~
+~
+0 0 1
+D0
+~
+~
+0 0 366
+D2
+~
+~
+0 0 382
+D3
+~
+~
+0 0 500
+S
+#384
+Common Row~
+~
+0 0 1
+D0
+~
+~
+0 0 310
+D2
+~
+~
+0 0 385
+S
+#385
+Common Row~
+~
+0 0 1
+D0
+~
+~
+0 0 384
+D2
+~
+~
+0 0 386
+S
+#386
+Common Row~
+~
+0 0 1
+D0
+~
+~
+0 0 385
+D2
+~
+~
+0 0 387
+S
+#387
+Common Market~
+~
+0 0 1
+D0
+~
+~
+0 0 386
+D1
+~
+~
+0 0 393
+D2
+~
+~
+0 0 388
+D3
+~
+~
+0 0 392
+S
+#388
+Common Row~
+~
+0 0 1
+D0
+~
+~
+0 0 387
+D2
+~
+~
+0 0 389
+S
+#389
+Common Row~
+~
+0 0 1
+D0
+~
+~
+0 0 388
+D2
+~
+~
+0 0 337
+S
+#390
+~
+~
+0 4 0
+D3
+~
+~
+0 0 382
+S
+#391
+Bazaar Row~
+~
+0 0 1
+D1
+~
+~
+0 0 392
+D3
+~
+~
+0 0 329
+S
+#392
+Bazaar Row~
+~
+0 0 1
+D1
+~
+~
+0 0 387
+D3
+~
+~
+0 0 391
+S
+#393
+Bazaar Row~
+~
+0 0 1
+D1
+~
+~
+0 0 394
+D3
+~
+~
+0 0 387
+S
+#394
+Bazaar Row~
+~
+0 0 1
+D1
+~
+~
+0 0 395
+D3
+~
+~
+0 0 393
+S
+#395
+Bazaar Row~
+~
+0 0 1
+D1
+~
+~
+0 0 345
+D3
+~
+~
+0 0 394
+S
+#396
+Outside the Southern Gate of Dawncrest~
+~
+0 0 3
+D0
+~
+gate~
+1 0 332
+D2
+~
+~
+0 0 700
+S
+#500
+The Donation Pit~
+~
+0 262144 1
+D0
+~
+~
+0 0 365
+D1
+~
+~
+0 0 383
+S
+#501
+Shrine to Gaia~
+~
+0 8192 0
+D0
+~
+~
+0 0 502
+D1
+~
+~
+0 0 323
+S
+#502
+Temple to Gaia~
+~
+0 270336 0
+D2
+~
+~
+0 0 501
+S
+#503
+Shrine to Chaos~
+~
+0 8192 0
+D0
+~
+~
+0 0 504
+D3
+~
+~
+0 0 323
+S
+#504
+Temple to Chaos~
+~
+0 270336 0
+D2
+~
+~
+0 0 503
+S
+#0
+
+
+
+#SPECIALS
+M 502 spec_cast_adept
+M 504 spec_cast_adept
+S
+
+
+
+#RESETS
+D 0 314 1 1
+D 0 315 3 1
+D 0 321 3 1
+D 0 322 1 1
+D 0 325 0 1
+D 0 326 2 1
+D 0 332 2 1
+D 0 396 0 1
+M 0 331 20 300 1
+E 0 332 0 16
+E 0 331 0 5
+E 0 330 0 6
+O 0 300 0 300
+M 0 310 20 310 1
+M 0 331 20 312 1
+M 0 330 16 314 2
+E 0 332 0 16
+E 0 331 0 5
+E 0 330 0 6
+M 0 330 16 314 2
+E 0 332 0 16
+E 0 331 0 5
+E 0 330 0 6
+M 0 310 20 319 1
+M 0 330 16 321 2
+E 0 332 0 16
+E 0 331 0 5
+E 0 330 0 6
+M 0 330 16 321 2
+E 0 330 0 6
+E 0 331 0 5
+E 0 332 0 16
+M 0 330 16 325 2
+E 0 332 0 16
+E 0 330 0 6
+E 0 331 0 5
+M 0 330 16 325 2
+E 0 331 0 5
+E 0 330 0 6
+E 0 332 0 16
+M 0 331 20 328 1
+E 0 330 0 6
+E 0 331 0 5
+E 0 332 0 16
+M 0 340 20 331 1
+E 0 341 0 12
+E 0 340 0 16
+M 0 330 16 332 2
+E 0 331 0 5
+E 0 330 0 6
+E 0 332 0 16
+M 0 330 16 332 2
+E 0 331 0 5
+E 0 330 0 6
+E 0 332 0 16
+M 0 300 1 333 1
+G 0 307 0
+G 0 306 0
+G 0 305 0
+G 0 304 0
+G 0 303 0
+G 0 302 0
+G 0 301 0
+M 0 301 1 334 1
+M 0 310 20 335 1
+M 0 311 20 337 2
+M 0 331 20 341 1
+E 0 333 0 3
+E 0 332 0 16
+E 0 331 0 5
+E 0 330 0 6
+M 0 310 20 343 1
+M 0 311 20 351 2
+M 0 340 20 354 1
+E 0 341 0 12
+E 0 340 0 16
+M 0 311 20 355 2
+M 0 310 20 360 1
+M 0 340 20 362 1
+E 0 341 0 12
+E 0 340 0 16
+M 0 310 20 363 1
+M 0 340 20 365 1
+E 0 340 0 16
+E 0 341 0 12
+M 0 331 20 382 1
+E 0 333 0 3
+E 0 331 0 5
+E 0 330 0 6
+E 0 332 0 16
+M 0 340 20 385 1
+E 0 340 0 16
+E 0 341 0 12
+M 0 331 20 387 1
+E 0 332 0 16
+E 0 330 0 6
+E 0 331 0 5
+M 0 310 20 389 1
+M 0 310 20 392 1
+M 0 311 20 394 2
+M 0 331 20 395 1
+E 0 330 0 6
+E 0 331 0 5
+E 0 332 0 16
+O 0 500 0 500
+M 0 501 1 501 1
+E 0 501 0 16
+O 0 502 0 502
+M 0 502 1 502 1
+M 0 503 1 503 1
+E 0 503 0 16
+O 0 504 0 504
+M 0 504 1 504 1
+S
+
+
+
+#SHOPS
+300 0 19 17 15 0 100 50 5 20
+301 5 9 0 0 0 100 100 5 20
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

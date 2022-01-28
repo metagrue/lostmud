@@ -1,0 +1,425 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{94fabb15-e5a2-4b0a-ba8a-1de4488d19a8}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{1706ef39-0d33-4ede-b71f-5c4d03341135}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{1527b4ce-ef99-4ddf-9a93-577d830a8bc9}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\Classes">
+      <UniqueIdentifier>{2c4d64a5-c656-496c-bedd-4280482155a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Groups">
+      <UniqueIdentifier>{eeca3139-f97b-4b92-94c4-1703798af98a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\act_comm.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\act_enter.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\act_info.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\act_move.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\act_obj.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\act_wiz.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\alias.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ban.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\bit.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\clans.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\comm.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\const.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\curse.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\db.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\db2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\effects.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\fight.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\finger.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\flags.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\forget.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\handler.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\healer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\interp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\lookup.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\magic.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\magic2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\mem.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\mob_cmds.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\mob_prog.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\music.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\note.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\olc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\olc_act.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\olc_mpcode.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\olc_save.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\recycle.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\repent.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\save.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\scan.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sign.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\skills.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\special.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\string.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\tables.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\update.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\wizlist.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\math.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sedit.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\skedit.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\quest.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\asciimap.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\db.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\interp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\lookup.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\magic.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\merc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\mob_cmds.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\music.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\olc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\recycle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\tables.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\telnet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="data\class\ranger.class">
+      <Filter>Resource Files\Classes</Filter>
+    </None>
+    <None Include="data\class\sage.class">
+      <Filter>Resource Files\Classes</Filter>
+    </None>
+    <None Include="data\class\strider.class">
+      <Filter>Resource Files\Classes</Filter>
+    </None>
+    <None Include="data\class\swordsman.class">
+      <Filter>Resource Files\Classes</Filter>
+    </None>
+    <None Include="data\class\thief.class">
+      <Filter>Resource Files\Classes</Filter>
+    </None>
+    <None Include="data\class\vampire.class">
+      <Filter>Resource Files\Classes</Filter>
+    </None>
+    <None Include="data\class\wanderer.class">
+      <Filter>Resource Files\Classes</Filter>
+    </None>
+    <None Include="data\class\warlock.class">
+      <Filter>Resource Files\Classes</Filter>
+    </None>
+    <None Include="data\class\warrior.class">
+      <Filter>Resource Files\Classes</Filter>
+    </None>
+    <None Include="data\class\wizard.class">
+      <Filter>Resource Files\Classes</Filter>
+    </None>
+    <None Include="data\class\assassin.class">
+      <Filter>Resource Files\Classes</Filter>
+    </None>
+    <None Include="data\class\bishop.class">
+      <Filter>Resource Files\Classes</Filter>
+    </None>
+    <None Include="data\class\cleric.class">
+      <Filter>Resource Files\Classes</Filter>
+    </None>
+    <None Include="data\class\druid.class">
+      <Filter>Resource Files\Classes</Filter>
+    </None>
+    <None Include="data\class\forestling.class">
+      <Filter>Resource Files\Classes</Filter>
+    </None>
+    <None Include="data\class\gladiator.class">
+      <Filter>Resource Files\Classes</Filter>
+    </None>
+    <None Include="data\class\lich.class">
+      <Filter>Resource Files\Classes</Filter>
+    </None>
+    <None Include="data\class\mage.class">
+      <Filter>Resource Files\Classes</Filter>
+    </None>
+    <None Include="data\class\mercenary.class">
+      <Filter>Resource Files\Classes</Filter>
+    </None>
+    <None Include="data\class\necromancer.class">
+      <Filter>Resource Files\Classes</Filter>
+    </None>
+    <None Include="data\class\priest.class">
+      <Filter>Resource Files\Classes</Filter>
+    </None>
+    <None Include="data\group\vampire default.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\warrior basics.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\warrior default.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\weaponsmaster.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\weather.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\wizard basics.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\wizard default.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\group.lst">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\attack.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\beguiling.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\benedictions.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\cleric basics.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\cleric default.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\combat.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\creation.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\curative.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\detection.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\draconian.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\druid basics.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\druid default.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\enchantment.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\enhancement.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\gladiator basics.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\gladiator default.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\harmful.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\healing.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\illusion.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\lich basics.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\lich default.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\mage basics.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\mage default.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\maladictions.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\mercenary basics.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\mercenary default.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\priest basics.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\priest default.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\protective.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\ranger basics.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\ranger default.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\rom basics.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\sage basics.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\sage default.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\shielding.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\strider basics.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\strider default.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\thief basics.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\thief default.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\transportation.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+    <None Include="data\group\vampire basics.group">
+      <Filter>Resource Files\Groups</Filter>
+    </None>
+  </ItemGroup>
+</Project>

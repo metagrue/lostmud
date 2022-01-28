@@ -1,0 +1,1884 @@
+#AREADATA
+Name Floating Island~
+Builders None~
+VNUMs 1000 1099
+Credits { 40  80} Chaos   - The Floating Island~
+Security 1
+RepopMsg A gust of wind nearly knocks you over.~
+End
+
+
+
+#MOBILES
+#1000
+avi king birdman~
+{cThe {CKing{c of the Avi{x~
+A huge and brightly plumed birdman glances at you.
+~
+~
+avian~
+AB DFJLT 0 800 0
+80 70 13 210d24+1695 70d11+28 18d2+59 wrath
+-41 -41 -41 -26
+FHI 0 J LQ
+stand stand male 2300
+AHMV ABCDEFGHIJKP large unknown
+#1001
+avi sentinel birdman~
+{cAn Elite Avi {WSentinel{x~
+A large and bulky birdman dressed in black armor stands here, glaring at you.
+~
+~
+avian~
+AB DFJLT 0 400 0
+65 55 3 137d18+451 55d10+11 8d2+17 claw
+-27 -27 -27 -16
+HIR 0 J LQ
+stand stand either 1200
+AHMW ABCDEFGHIJKP large unknown
+F for V
+#1002
+avi citizen birdman~
+{cAn Avi Citizen{x~
+There is a birdman dressed in colorful flowing robes here.
+~
+~
+avian~
+AG DFJLT 0 400 0
+60 40 1 100d13+165 40d10+8 6d2+11 claw
+-17 -17 -17 -9
+R 0 J LQ
+stand stand either 630
+AHMW ABCDEFGHIJKP medium unknown
+F for V
+#1003
+avi serf birdman~
+{cAn Avi Serf{x~
+There is a thin birdman here, clad in leather rags.
+~
+~
+avian~
+AGH DFHJLOT 0 600 0
+55 35 0 87d11+144 35d10+7 5d2+8 peck
+-13 -13 -13 -6
+HR SUW JSUW LQ
+stand stand either 250
+AHMW ABCDEFGHIJKP medium unknown
+F for V
+#1004
+indentured avi servant~
+{cAn indentured Avi servant{x~
+A lean and heavily molted birdman is here, and wearing only a loincloth no less.
+~
+He's a giant near-featherless birdman that strongly resembles an
+under-cooked turkey.  It's at the same time disgusting and very intriguing. 
+~
+avian~
+AFSY DFJLT 0 -200 0
+60 40 1 100d13+165 40d10+8 6d2+11 slap
+-17 -17 -17 -9
+FHR AB J LQ
+stand stand male 1000
+ABHMW ABCDEFGHIJKP medium unknown
+F for V
+#1005
+avi mage birdman~
+{cAn Avi {CMage{x~
+A huge birdman is here, clad in decorative robes.
+~
+~
+avian~
+ABCFR DFJLT DE -600 0
+65 55 3 137d18+451 55d10+11 8d2+17 none
+-27 -27 -27 -16
+R 0 J LQ
+stand stand either 1250
+AHMV ABCDEFGHIJKP medium unknown
+#1006
+avi wingknight birdman~
+{cAn Avi {WWingknight{x~
+There is a large and armored birdman here, patrolling the streets.
+~
+~
+avian~
+AW HLO 0 200 0
+58 50 2 125d16+411 50d10+10 7d2+15 peck
+-24 -24 -24 -14
+ACR SUW JSUW LQ
+stand stand either 0
+AHMW ABCDEFGHIJKP medium unknown
+F aff DFJT
+F for V
+#1007
+avi royal guard~
+{cAn Avi {WRoyal Guard{x~
+A huge heavily armored birdman is here glaring at you.
+~
+~
+avian~
+A DFJLT 0 0 0
+70 60 8 180d21+1453 60d11+24 16d2+46 none
+-33 -33 -33 -21
+CKR 0 J LQ
+stand stand either 0
+AHMV ABCDEFGHIJKP huge unknown
+#1008
+avi princess~
+{cAn Avi {CPrincess{x~
+A colorful female bird in a frilly pink dress waddles about uncomfortably.
+~
+~
+avian~
+AY DFJLT 0 0 0
+75 65 10 195d22+1573 65d11+26 17d2+51 slap
+-37 -37 -37 -24
+0 0 J LQ
+stand stand none 0
+AHMV ABCDEFGHIJKP medium unknown
+#0
+
+
+
+#OBJECTS
+#1000
+avi skeleton key~
+an ornate golden key~
+A slender golden key topped with a red gemstone has been dropped here.~
+gold~
+key G AO
+0 0 0 0 0
+0 0 1 1000 P
+#1001
+avi crown~
+the Avi Crown~
+A huge feathered headdress decorated with gems is here.~
+gold~
+jewelry GM AE
+0 0 0 0 0
+80 80 8 2100 P
+A
+20 -3
+A
+5 2
+#1002
+winged blade sword~
+{xa {Wwinged{w blade{x~
+There's a sword here, but it literally has wings. Still looks mean.~
+steel~
+weapon 0 AN
+sword 4 10 slice E
+30 40 1 120 P
+A
+19 2
+A
+18 2
+#1003
+servants loincloth~
+a servant's loincloth~
+There is a smelly old rag laying here.~
+burlap~
+armor 0 AF
+BD BD BD AC 0
+40 45 2 20 P
+A
+2 2
+A
+4 -1
+#1004
+purple robes~
+{mpurple {xrobes~
+A large pile of purple cloth is here.~
+linen~
+armor 0 AK
+AD AD AD C 0
+40 40 2 200 P
+A
+5 1
+#1005
+ethereal feather~
+{can {Cethereal{c feather{x~
+A translucent blue feather flutters weightlessly in the wind.~
+nether~
+jewelry Y AC
+0 0 0 0 0
+55 60 0 500 P
+A
+3 1
+F
+A 0 0 L
+#1006
+flowing red robes~
+{rflowing {Rred{x {rrobes{x~
+A huge pile of red cloth lays slumped on the floor.~
+unknown~
+armor G AK
+ACD ACD ACD BC 0
+60 60 4 500 P
+A
+5 -1
+A
+4 1
+A
+3 2
+#1007
+steel ankle bracelet~
+a set of steel ankle bracelets~
+A bulky but protective looking set of ankle guards have been left behind.~
+steel~
+armor Y AG
+ACD ACD ACD BC 0
+50 60 4 200 P
+A
+5 1
+A
+13 50
+A
+14 100
+#1008
+storm pillar spear~
+{bS{Btor{bm {CP{cilla{Cr{x~
+A jagged blue spear lays here, discarded.~
+steel~
+weapon G AN
+staff 9 15 stab DFG
+70 80 8 300 P
+A
+19 7
+A
+18 7
+#1009
+kitchen knife~
+a kitchen knife~
+A sharp looking kitchen knife has been left here.~
+steel~
+weapon Y AN
+dagger 6 12 stab DH
+65 65 5 200 P
+A
+18 5
+A
+19 5
+#1010
+jewel encrusted ring~
+{cA {CJewel {WEncrusted {cRing{x~
+A small hoop of silver just covered in gemstones lays here, abandoned.~
+unknown~
+jewelry Y AB
+0 0 0 0 0
+60 60 2 1200 P
+A
+20 2
+A
+5 2
+#1011
+jade owl~
+{cA {gjade{c owl{x~
+A large jade owl sits here, untouched.~
+jade~
+treasure 0 A
+0 0 0 0 0
+1 1 1 1000 P
+#1012
+strange potion~
+a {Mstrange{x potion~
+There is a strange vial filled with viscous pink goo here.~
+pink goo~
+potion ABG AO
+74 'heal' 'heal' 'refresh' 'shockshield'
+70 70 1 650 P
+#1099
+enchanted well~
+an {cenchanted{x well~
+A peculiar looking well sits in the middle of the square.~
+arkstone~
+fountain AB 0
+-1 0 'water' 0 0
+0 0 0 0 P
+E
+well~
+Where is the water coming from?
+~
+#0
+
+
+
+#ROOMS
+#1024
+Atop a Floating Island~
+~
+0 0 2
+D1
+~
+~
+0 0 1018
+D2
+~
+~
+0 0 1010
+D3
+~
+~
+0 0 1023
+S
+#1025
+Atop a Floating Island~
+~
+0 0 2
+D1
+~
+~
+0 0 1026
+S
+#1026
+Atop a Floating Island~
+~
+0 0 2
+D1
+~
+~
+0 0 1027
+D3
+~
+~
+0 0 1025
+S
+#1027
+Atop a Floating Island~
+~
+0 0 2
+D1
+~
+~
+0 0 1020
+D2
+~
+~
+0 0 1014
+D3
+~
+~
+0 0 1026
+S
+#1028
+Gatehouse~
+~
+0 0 1
+D0
+~
+gate~
+1 0 1029
+D2
+~
+~
+0 0 1021
+S
+#1029
+Empire Way~
+~
+0 0 1
+D0
+~
+~
+0 0 1058
+D1
+~
+~
+0 0 1046
+D2
+~
+gate~
+1 0 1028
+D3
+~
+~
+0 0 1030
+S
+#1030
+Gateway~
+~
+0 0 1
+D0
+~
+door~
+1 0 1071
+D1
+~
+~
+0 0 1029
+D3
+~
+~
+0 0 1059
+S
+#1031
+Gateway~
+~
+0 0 1
+D0
+~
+~
+0 0 1032
+D1
+~
+~
+0 0 1059
+D3
+~
+~
+0 0 1084
+S
+#1032
+West Wall~
+~
+0 0 1
+D0
+~
+~
+0 0 1060
+D2
+~
+~
+0 0 1031
+S
+#1033
+West Wall~
+~
+0 0 1
+D0
+~
+~
+0 0 1034
+D1
+~
+~
+0 0 1051
+D2
+~
+~
+0 0 1060
+S
+#1034
+West Wall~
+~
+0 0 1
+D0
+~
+~
+0 0 1035
+D2
+~
+~
+0 0 1033
+S
+#1035
+West Wall~
+~
+0 0 1
+D0
+~
+~
+0 0 1036
+D1
+~
+door~
+1 0 1077
+D2
+~
+~
+0 0 1034
+S
+#1036
+North Wall~
+~
+0 0 1
+D0
+~
+~
+0 0 1081
+D1
+~
+~
+0 0 1056
+D2
+~
+~
+0 0 1035
+S
+#1037
+North Wall~
+~
+0 0 1
+D1
+~
+~
+0 0 1038
+D2
+~
+door~
+1 0 1076
+D3
+~
+~
+0 0 1056
+S
+#1038
+Empire Square~
+~
+0 0 1
+D0
+~
+gate~
+1 0 1096
+D1
+~
+~
+0 0 1039
+D2
+~
+~
+0 0 1055
+D3
+~
+~
+0 0 1037
+S
+#1039
+North Wall~
+~
+0 0 1
+D1
+~
+~
+0 0 1040
+D2
+~
+door~
+1 0 1075
+D3
+~
+~
+0 0 1038
+S
+#1040
+North Wall~
+~
+0 0 1
+D0
+~
+gate~
+1 0 1085
+D1
+~
+~
+0 0 1041
+D2
+~
+door~
+1 0 1074
+D3
+~
+~
+0 0 1039
+S
+#1041
+North Wall~
+~
+0 0 1
+D1
+~
+~
+0 0 1082
+D2
+~
+~
+0 0 1062
+D3
+~
+~
+0 0 1040
+S
+#1042
+East Wall~
+~
+0 0 1
+D0
+~
+~
+0 0 1062
+D2
+~
+~
+0 0 1043
+S
+#1043
+East Wall~
+~
+0 0 1
+D0
+~
+~
+0 0 1042
+D2
+~
+~
+0 0 1044
+D3
+~
+~
+0 0 1047
+S
+#1044
+East Wall~
+~
+0 0 1
+D0
+~
+~
+0 0 1043
+D2
+~
+~
+0 0 1061
+S
+#1045
+Gateway~
+~
+0 0 1
+D0
+~
+~
+0 0 1061
+D2
+~
+~
+0 0 1083
+D3
+~
+~
+0 0 1052
+S
+#1046
+Gateway~
+~
+0 0 1
+D1
+~
+~
+0 0 1052
+D2
+~
+~
+0 0 1088
+D3
+~
+~
+0 0 1029
+S
+#1047
+Common Road~
+~
+0 0 1
+D0
+~
+~
+0 0 1069
+D1
+~
+~
+0 0 1043
+D2
+~
+~
+0 0 1068
+D3
+~
+~
+0 0 1048
+S
+#1048
+Common Road~
+~
+0 0 1
+D1
+~
+~
+0 0 1047
+D2
+~
+~
+0 0 1067
+D3
+~
+~
+0 0 1049
+S
+#1049
+Common Square~
+~
+0 0 1
+D0
+~
+~
+0 0 1054
+D1
+~
+~
+0 0 1048
+D2
+~
+~
+0 0 1053
+D3
+~
+~
+0 0 1050
+S
+#1050
+Common Road~
+~
+0 0 1
+D0
+~
+~
+0 0 1065
+D1
+~
+~
+0 0 1049
+D3
+~
+~
+0 0 1051
+S
+#1051
+Common Road~
+~
+0 0 1
+D0
+~
+~
+0 0 1066
+D1
+~
+~
+0 0 1050
+D2
+~
+~
+0 0 1064
+D3
+~
+~
+0 0 1033
+S
+#1052
+Gateway~
+~
+0 0 1
+D1
+~
+~
+0 0 1045
+D3
+~
+~
+0 0 1046
+S
+#1053
+Empire Way~
+~
+0 0 1
+D0
+~
+~
+0 0 1049
+D2
+~
+~
+0 0 1058
+D3
+~
+~
+0 0 1057
+S
+#1054
+Empire Way~
+~
+0 0 1
+D0
+~
+~
+0 0 1055
+D1
+~
+~
+0 0 1070
+D2
+~
+~
+0 0 1049
+S
+#1055
+Empire Way~
+~
+0 0 1
+D0
+~
+~
+0 0 1038
+D2
+~
+~
+0 0 1054
+S
+#1056
+North Wall~
+~
+0 0 1
+D1
+~
+~
+0 0 1037
+D3
+~
+~
+0 0 1036
+S
+#1057
+Weapon Shop~
+~
+0 0 0
+D1
+~
+~
+0 0 1053
+S
+#1058
+Empire Way~
+~
+0 0 1
+D0
+~
+~
+0 0 1053
+D1
+~
+~
+0 0 1072
+D2
+~
+~
+0 0 1029
+S
+#1059
+Gateway~
+~
+0 0 1
+D1
+~
+~
+0 0 1030
+D3
+~
+~
+0 0 1031
+S
+#1060
+West Wall~
+~
+0 0 1
+D0
+~
+~
+0 0 1033
+D2
+~
+~
+0 0 1032
+S
+#1061
+East Wall~
+~
+0 0 1
+D0
+~
+~
+0 0 1044
+D2
+~
+~
+0 0 1045
+D3
+~
+door~
+1 0 1073
+S
+#1062
+East Wall~
+~
+0 0 1
+D0
+~
+~
+0 0 1041
+D2
+~
+~
+0 0 1042
+S
+#1063
+Bar~
+~
+0 0 0
+D0
+~
+~
+0 0 1064
+S
+#1064
+Bar~
+~
+0 0 0
+D0
+~
+~
+0 0 1051
+D2
+~
+~
+0 0 1063
+S
+#1065
+Adventurers Supplies~
+~
+0 0 0
+D2
+~
+~
+0 0 1050
+S
+#1066
+Magic Shop~
+~
+0 0 0
+D2
+~
+~
+0 0 1051
+S
+#1067
+Gemshop~
+~
+0 0 0
+D0
+~
+~
+0 0 1048
+S
+#1068
+Armorsmith~
+~
+0 0 0
+D0
+~
+~
+0 0 1047
+S
+#1069
+General Goods~
+~
+0 0 0
+D2
+~
+~
+0 0 1047
+S
+#1070
+Fresh Food Store~
+~
+0 0 0
+D3
+~
+~
+0 0 1054
+S
+#1071
+Shoddy Home~
+~
+0 0 0
+D2
+~
+door~
+1 0 1030
+S
+#1072
+Pawnshop~
+~
+0 0 0
+D3
+~
+~
+0 0 1058
+S
+#1073
+Shoddy Home~
+~
+0 0 0
+D1
+~
+door~
+1 0 1061
+S
+#1074
+Common Home~
+~
+0 0 0
+D0
+~
+door~
+1 0 1040
+S
+#1075
+Common Home~
+~
+0 0 0
+D0
+~
+door~
+1 0 1039
+S
+#1076
+Common Home~
+~
+0 0 0
+D0
+~
+door~
+1 0 1037
+S
+#1077
+Common Home~
+~
+0 0 0
+D3
+~
+door~
+1 0 1035
+S
+#1078
+Throne Room~
+~
+0 8192 0
+D0
+~
+door~
+5 1000 1079
+D2
+~
+gate~
+1 0 1089
+S
+#1079
+Secret Stairwell~
+~
+0 0 0
+D2
+~
+door~
+5 1000 1078
+D5
+~
+~
+0 0 1080
+S
+#1080
+Treasury~
+~
+0 8192 0
+D4
+~
+~
+0 0 1079
+S
+#1081
+North Guardhouse~
+~
+0 0 0
+D2
+~
+~
+0 0 1036
+S
+#1082
+East Guardhouse~
+~
+0 0 0
+D3
+~
+~
+0 0 1041
+S
+#1083
+South Guardhouse~
+~
+0 0 0
+D0
+~
+~
+0 0 1045
+S
+#1084
+West Guardhouse~
+~
+0 0 0
+D1
+~
+~
+0 0 1031
+S
+#1085
+Base of the Tower~
+~
+0 0 0
+D2
+~
+door~
+1 0 1040
+D4
+~
+~
+0 0 1086
+S
+#1086
+In a Tower~
+~
+0 0 0
+D4
+~
+~
+0 0 1087
+D5
+~
+~
+0 0 1085
+S
+#1087
+Top of the Tower~
+~
+0 0 0
+D5
+~
+~
+0 0 1086
+S
+#1088
+Shoddy Home~
+~
+0 0 0
+D0
+~
+~
+0 0 1046
+S
+#1089
+Royal Palace~
+~
+0 0 0
+D0
+~
+gate~
+1 0 1078
+D1
+~
+~
+0 0 1091
+D2
+~
+~
+0 0 1093
+D3
+~
+~
+0 0 1090
+S
+#1090
+Royal Palace~
+~
+0 0 0
+D1
+~
+~
+0 0 1089
+D2
+~
+~
+0 0 1094
+S
+#1091
+Royal Palace~
+~
+0 0 0
+D2
+~
+~
+0 0 1092
+D3
+~
+~
+0 0 1089
+S
+#1092
+Royal Palace~
+~
+0 0 0
+D0
+~
+~
+0 0 1091
+D1
+~
+~
+0 0 1098
+D2
+~
+~
+0 0 1095
+D3
+~
+~
+0 0 1093
+S
+#1093
+Courtyard~
+~
+0 0 2
+D0
+~
+~
+0 0 1089
+D1
+~
+~
+0 0 1092
+D2
+~
+~
+0 0 1096
+D3
+~
+~
+0 0 1094
+S
+#1094
+Royal Palace~
+~
+0 0 0
+D0
+~
+~
+0 0 1090
+D1
+~
+~
+0 0 1093
+D2
+~
+~
+0 0 1097
+S
+#1095
+Royal Palace~
+~
+0 0 0
+D0
+~
+~
+0 0 1092
+D3
+~
+~
+0 0 1096
+S
+#1096
+Royal Palace~
+~
+0 0 0
+D0
+~
+~
+0 0 1093
+D1
+~
+~
+0 0 1095
+D2
+~
+gate~
+1 0 1038
+D3
+~
+~
+0 0 1097
+S
+#1097
+Royal Palace~
+~
+0 0 0
+D0
+~
+~
+0 0 1094
+D1
+~
+~
+0 0 1096
+S
+#1098
+Dining Room~
+~
+0 0 0
+D0
+~
+~
+0 0 1099
+D3
+~
+~
+0 0 1092
+S
+#1099
+Kitchen~
+~
+0 0 0
+D2
+~
+~
+0 0 1098
+S
+#1000
+On The Chain~
+There is a chain here. It just keeps going and going. It must go on for miles.
+~
+0 1048580 0
+D4
+~
+~
+0 0 1001
+S
+#1001
+On The Chain~
+There is a chain here. It just keeps going and going. It must go on for miles.
+~
+0 1048576 0
+D4
+~
+~
+0 0 1002
+D5
+~
+~
+0 0 1000
+S
+#1002
+On The Chain~
+There is a chain here. It just keeps going and going. It must go on for miles.
+~
+0 1048576 0
+D4
+~
+~
+0 0 1003
+D5
+~
+~
+0 0 1001
+S
+#1003
+On The Chain~
+There is a chain here. It just keeps going and going. It must go on for miles.
+~
+0 1048576 0
+D4
+~
+~
+0 0 1004
+D5
+~
+~
+0 0 1002
+S
+#1004
+On The Chain~
+There is a chain here. It just keeps going and going. It must go on for miles.
+~
+0 1048576 0
+D4
+~
+~
+0 0 1005
+D5
+~
+~
+0 0 1003
+S
+#1005
+On The Chain~
+There is a chain here. It must go on for miles underneath you. You can see the top.
+~
+0 1048576 0
+D4
+~
+~
+0 0 1006
+D5
+~
+~
+0 0 1004
+S
+#1006
+Top of the Chain~
+~
+0 0 2
+D0
+~
+~
+0 0 1009
+D1
+~
+~
+0 0 1007
+D3
+~
+~
+0 0 1008
+D5
+~
+~
+0 0 1005
+S
+#1007
+Atop a Floating Island~
+~
+0 0 2
+D0
+~
+~
+0 0 1010
+D3
+~
+~
+0 0 1006
+S
+#1008
+Atop a Floating Island~
+~
+0 0 2
+D0
+~
+~
+0 0 1011
+D1
+~
+~
+0 0 1006
+D3
+~
+~
+0 0 1015
+S
+#1009
+Atop a Floating Island~
+~
+0 0 2
+D0
+~
+~
+0 0 1023
+D1
+~
+~
+0 0 1010
+D2
+~
+~
+0 0 1006
+D3
+~
+~
+0 0 1011
+S
+#1010
+Atop a Floating Island~
+~
+0 0 2
+D0
+~
+~
+0 0 1024
+D1
+~
+~
+0 0 1017
+D2
+~
+~
+0 0 1007
+D3
+~
+~
+0 0 1009
+S
+#1011
+Atop a Floating Island~
+~
+0 0 2
+D0
+~
+~
+0 0 1022
+D1
+~
+~
+0 0 1009
+D2
+~
+~
+0 0 1008
+D3
+~
+~
+0 0 1012
+S
+#1012
+Atop a Floating Island~
+~
+0 0 2
+D0
+~
+~
+0 0 1021
+D1
+~
+~
+0 0 1011
+D2
+~
+~
+0 0 1015
+D3
+~
+~
+0 0 1013
+S
+#1013
+Atop a Floating Island~
+~
+0 0 2
+D0
+~
+~
+0 0 1020
+D1
+~
+~
+0 0 1012
+D2
+~
+~
+0 0 1016
+D3
+~
+~
+0 0 1014
+S
+#1014
+Atop a Floating Island~
+~
+0 0 2
+D0
+~
+~
+0 0 1027
+D1
+~
+~
+0 0 1013
+S
+#1015
+Atop a Floating Island~
+~
+0 0 2
+D0
+~
+~
+0 0 1012
+D1
+~
+~
+0 0 1008
+D3
+~
+~
+0 0 1016
+S
+#1016
+Atop a Floating Island~
+~
+0 0 2
+D0
+~
+~
+0 0 1013
+D1
+~
+~
+0 0 1015
+S
+#1017
+Atop a Floating Island~
+~
+0 0 2
+D0
+~
+~
+0 0 1018
+D3
+~
+~
+0 0 1010
+S
+#1018
+Atop a Floating Island~
+~
+0 0 2
+D0
+~
+~
+0 0 1019
+D2
+~
+~
+0 0 1017
+D3
+~
+~
+0 0 1024
+S
+#1019
+Atop a Floating Island~
+~
+0 0 2
+D2
+~
+~
+0 0 1018
+S
+#1020
+Atop a Floating Island~
+~
+0 0 2
+D1
+~
+~
+0 0 1021
+D2
+~
+~
+0 0 1013
+D3
+~
+~
+0 0 1027
+S
+#1021
+Atop a Floating Island~
+~
+0 0 2
+D0
+~
+gate~
+0 0 1028
+D1
+~
+~
+0 0 1022
+D2
+~
+~
+0 0 1012
+D3
+~
+~
+0 0 1020
+S
+#1022
+Atop a Floating Island~
+~
+0 0 2
+D1
+~
+~
+0 0 1023
+D2
+~
+~
+0 0 1011
+D3
+~
+~
+0 0 1021
+S
+#1023
+Atop a Floating Island~
+~
+0 0 2
+D1
+~
+~
+0 0 1024
+D2
+~
+~
+0 0 1009
+D3
+~
+~
+0 0 1022
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 1028 0 1
+D 0 1029 2 1
+D 0 1030 0 1
+D 0 1035 1 1
+D 0 1037 2 1
+D 0 1038 0 1
+D 0 1039 2 1
+D 0 1040 0 1
+D 0 1040 2 1
+D 0 1061 3 1
+D 0 1071 2 1
+D 0 1073 1 1
+D 0 1074 0 1
+D 0 1075 0 1
+D 0 1076 0 1
+D 0 1077 3 1
+D 0 1078 0 2
+D 0 1078 2 1
+D 0 1079 2 2
+D 0 1085 2 1
+D 0 1089 0 1
+D 0 1096 2 1
+M 0 1001 30 1028 4
+M 0 1001 30 1028 4
+M 0 1003 40 1029 2
+M 0 1006 30 1030 4
+E 0 1002 0 16
+M 0 1002 40 1038 2
+E 0 1004 0 12
+O 0 1099 0 1038
+M 0 1006 30 1041 4
+E 0 1002 0 16
+M 0 1006 30 1046 4
+E 0 1002 0 16
+M 0 1006 30 1048 4
+E 0 1002 0 16
+M 0 1002 40 1049 2
+E 0 1004 0 12
+M 0 1003 40 1049 2
+M 0 1002 40 1050 2
+E 0 1004 0 12
+M 0 1006 30 1051 4
+E 0 1002 0 16
+M 0 1002 40 1052 2
+E 0 1004 0 12
+M 0 1003 40 1053 2
+M 0 1006 30 1055 4
+E 0 1002 0 16
+M 0 1006 30 1058 4
+E 0 1002 0 16
+M 0 1002 40 1059 2
+E 0 1004 0 12
+M 0 1003 40 1063 2
+M 0 1003 40 1063 2
+M 0 1002 40 1063 2
+E 0 1004 0 12
+M 0 1003 40 1064 2
+M 0 1002 40 1064 2
+E 0 1004 0 12
+M 0 1002 40 1064 2
+E 0 1004 0 12
+M 0 1003 1 1071 40
+M 0 1003 1 1071 40
+M 0 1003 40 1073 2
+M 0 1003 40 1073 2
+M 0 1002 40 1074 2
+E 0 1004 0 12
+M 0 1002 40 1075 2
+E 0 1004 0 12
+M 0 1002 40 1076 2
+E 0 1004 0 12
+M 0 1002 40 1077 2
+E 0 1004 0 12
+M 0 1002 40 1077 2
+E 0 1004 0 12
+M 0 1007 10 1078 2
+E 0 1007 0 8
+E 0 1008 0 16
+M 0 1000 1 1078 1
+E 0 1001 0 6
+G 0 1000 0
+M 0 1007 10 1079 2
+E 0 1007 0 8
+E 0 1008 0 16
+M 0 1007 10 1079 2
+E 0 1007 0 8
+E 0 1008 0 16
+O 0 1012 0 1080
+O 0 1011 0 1080
+M 0 1001 30 1081 2
+E 0 1002 0 16
+M 0 1001 30 1082 2
+E 0 1002 0 16
+M 0 1001 30 1083 2
+E 0 1002 0 16
+M 0 1001 30 1084 2
+E 0 1002 0 16
+M 0 1001 30 1085 2
+E 0 1002 0 16
+M 0 1004 3 1086 1
+E 0 1003 0 7
+M 0 1005 1 1087 1
+E 0 1006 0 12
+E 0 1005 0 3
+M 0 1003 40 1088 2
+M 0 1003 40 1088 2
+M 0 1008 1 1094 1
+E 0 1010 0 1
+M 0 1007 10 1096 2
+E 0 1007 0 8
+E 0 1008 0 16
+M 0 1004 3 1099 1
+E 0 1009 0 16
+E 0 1003 0 7
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

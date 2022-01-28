@@ -1,0 +1,762 @@
+#AREADATA
+Name The Den~
+Builders Chaos~
+VNUMs 1 99
+Credits { QUEST } Chaos   - The Den~
+Security 9
+RepopMsg 0~
+End
+
+
+
+#MOBILES
+#6
+jeweller~
+the {Wjeweller{x~
+The jeweller is standing behind a desk.
+~
+He is fat and has a content though watchful demeanor.
+~
+human~
+ABV 0 0 0 0
+300 300 600 900d101+18181 300d11+120 376d2+207 none
+-205 -205 -205 -144
+AF ABCD 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK medium unknown
+#10
+zombie undead pet~
+the zombie~
+A corpse is standing here.
+~
+The zombie follows its vampire master.
+~
+human~
+ABIMNUV F 0 0 0
+1 1 3 1d1+499 1d1+99 2d5+1 none
+4 4 4 4
+CO M CFG N
+stand stand none 0
+ABHIMV ABCDEFGHIJKLV medium unknown
+#11
+animated~
+an animation~
+An animated body part is here.
+~
+An animated body part is here.
+~
+unique~
+ABMNU FT 0 -800 0
+10 10 0 2d6+60 1d1+99 1d6+1 none
+4 4 4 4
+U M CF N
+stand stand none 0
+0 0 tiny unknown
+#12
+demon undead pet~
+a demon~
+A demon is standing here.
+~
+The demon follows its master.
+~
+human~
+ABIMNUV F 0 0 0
+1 1 3 1d1+499 1d1+99 25d4+49 drain
+4 4 4 4
+CO M CFG N
+stand stand none 0
+ABHIMV ABCDEFGHIJK medium unknown
+#13
+kitten cat pet~
+the kitten~
+A small loyal kitten is here.
+~
+The kitten looks like a cute, little, fierce fighter.
+~
+cat~
+AFUV 0 0 400 0
+1 1 2 2d6+11 1d1+99 1d4+0 scratch
+8 8 8 8
+FH 0 0 0
+stand stand either 0
+AGV ACDEFHJKQUV tiny unknown
+F aff Z
+#60
+the autoquester~
+the autoquester~
+The autoquester stands here.
+~
+~
+human~
+ABIJKVb DEFJVa CDEHNO 0 0
+301 301 301 1d1+31999 1d1+31999 100d10+500 punch
+-206 -206 -206 -145
+0 CEFG 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M GREET 60 100~
+#0
+
+
+
+#OBJECTS
+#1
+coin silver gcash~
+{xa {Ws{wilve{Wr {xcoin~
+{xA single {Ws{wilve{Wr {xcoin is here.~
+silver~
+money 0 A
+A 0 0 0 0
+0 0 10 0 P
+#2
+coin gold gcash~
+{xa {ygold {xcoin~
+{xA single {ygold {xcoin is here.~
+gold~
+money 0 A
+0 A 0 0 0
+0 0 10 0 P
+#3
+coins gold gcash~
+{x%d {ygold {xcoins~
+{xA pile of {ygold {xcoins is here.~
+gold~
+money 0 A
+0 0 0 0 0
+0 0 10 0 P
+#4
+coins silver gcash~
+{x%d {Ws{wilve{Wr {xcoins~
+{xA pile of {Ws{wilve{Wr {xcoins is here.~
+silver~
+money 0 A
+0 0 0 0 0
+0 0 10 0 P
+#5
+coins money gcash~
+{xa {Ypile {xof coins~
+{xA {Ypile {xof coins is here.~
+gold~
+money 0 A
+0 0 0 0 0
+0 0 10 0 P
+#6
+coins platinum gcash~
+a {Wplatinum {xcoin~
+A single {Wplatinum{x coin is here.~
+platinum~
+money 0 A
+0 0 A 0 0
+0 0 10 0 P
+#7
+coins platinum gcash~
+%d {Wplatinum {xcoins~
+A pile of {Wplatinum{x coins is here.~
+platinum~
+money 0 A
+0 0 0 0 0
+0 0 10 0 P
+#8
+sign quest~
+a floating sign~
+There is a sign here, floating in space.~
+unknown~
+trash ABG 0
+0 0 0 0 0
+0 0 0 0 P
+#10
+corpse~
+{xthe {mcorpse {xof %s{x~
+{xThe {mcorpse {xof %s{x is here.~
+meat~
+npc_corpse 0 A
+0 0 0 A 0
+0 0 1000 0 D
+#11
+corpse~
+{xthe {mcorpse {xof %s{x~
+{xThe {mcorpse {xof %s{x is here.~
+meat~
+pc_corpse O A
+0 0 0 A 0
+0 0 1000 0 D
+#12
+%s head~
+{xthe {rhead {xof %s{x~
+{xThe {rsevered head {xof %s{x rests here.~
+meat~
+trash 0 AO
+0 0 0 0 0
+0 0 50 0 D
+#13
+%s heart still warm~
+{xthe {rstill-warm heart {xof %s{x~
+{xThe {rstill-warm heart {xof %s{x rests here.~
+meat~
+food 0 AO
+E E 0 0 0
+0 0 20 0 D
+#14
+%s arm severed~
+{xthe {rsevered arm{x of %s{x~
+{xThe {rsevered arm{x of %s{x is here.~
+meat~
+food 0 AO
+CE CE 0 0 0
+0 0 50 0 D
+#15
+%s leg mutilated~
+{xthe {rmutilated leg{x of %s{x~
+{xThe {rmutilated leg{x of %s{x rests here.~
+meat~
+food 0 AO
+CE CE 0 0 0
+0 0 50 0 D
+#16
+%s guts entrails~
+{xthe {rguts{x of %s{x~
+{xA steaming pile of %s{x's {rguts{x is here.~
+meat~
+food 0 AO
+AC AC 0 A 0
+0 0 20 0 D
+#17
+%s brains brain~
+{xthe {rbrains {xof %s~
+The splattered {rbrains{x of %s{x are here.~
+meat~
+food 0 AO
+BD BD 0 A 0
+0 0 20 0 D
+#18
+pool blood~
+a pool of {Rblood{x~
+A small pool of {Rblood{x has formed here.~
+~
+fountain PT 0
+1 1 'blood' 0 0
+0 0 0 0 G
+#20
+conjured turkey leg~
+a conjured {yturkey{x leg~
+A delicious looking {yturkey{x leg rests on a plate.~
+food~
+food 0 A
+D D 0 0 0
+0 0 10 0 P
+#21
+glowing ball light~
+a glowing ball of light~
+A small orb of light floats here.~
+light~
+light A A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+1 1 0 0 P
+#22
+glowing spring~
+a {Yglowing {cspring{x~
+{xA {Yglowing {cspring{x of water beckons to you.~
+water~
+fountain G 0
+100000 100000 'water' 0 0
+0 0 0 0 P
+#23
+magic black hole~
+{xa {Mmagic {Dhole{x~
+A strange looking oily black hole floats in space.~
+energy~
+container GMPUYZ AQ
+0 E 0 0 0
+0 0 0 0 P
+#24
+red rose~
+a red rose~
+A red rose wilts here.~
+plant~
+trash G AO
+0 0 0 0 0
+0 0 1 10 P
+#25
+shimmer shimmering black gate~
+{xa shimmering {Dblack {xgate~
+A shimmering {Dblack {xgate has floats before you.~
+shadow~
+portal GOT 0
+0 0 0 0 0
+0 0 0 0 P
+#26
+blue diamond gem~
+a {Bblue diamond{x~
+A large {Bblue diamond{x catches and reflects the light.~
+diamond~
+gem W AO
+0 0 0 0 0
+0 0 5 80000 P
+#27
+red diamond gem~
+a {Rred diamond{x~
+A large {Rred diamond{x catches and reflects the light.~
+diamond~
+gem W AO
+0 0 0 0 0
+0 0 1 150000 P
+#28
+cubic zirconium gem~
+a {Wcubic zirconium{x~
+A large {Wcubic zirconium{x catches and reflects the light.~
+zirconium~
+gem W AO
+0 0 0 0 0
+0 0 1 250000 P
+#29
+silk gem pouch~
+a {Msilk{x gem pouch~
+A silk gem pouch is laying on the ground.~
+silk~
+container GY AO
+2 0 0 1 100
+0 0 0 10000 P
+#30
+leather gem pouch~
+a {yleather{x gem pouch~
+A leather gem pouch has been discarded here.~
+leather~
+container GY AO
+40 0 0 10 90
+0 0 0 1000 P
+#31
+unused~
+a fountain of water~
+A small white fountain gushes forth here.~
+unknown~
+fountain 0 0
+0 0 'water' 0 0
+0 0 0 0 P
+#50
+glow glowing pill quest~
+a {Yglowing {Wpill{x~
+A {Yglowing {Wpill {xhas been discarded here.~
+jelly~
+pill AGHTa A
+110 'quest pill' '' '' ''
+0 0 1 0 P
+#51
+%s voodoo doll~
+{xa {mvoodoo doll{x of %s{x~
+{xA {mvoodoo doll{x of %s{x appears to be resting here.~
+energy~
+treasure G AO
+0 0 0 0 0
+20 20 5 50 P
+#52
+exit~
+exit~
+Nothing special there.~
+energy~
+exit ORTY 0
+A 0 0 0 0
+1 1 1 1 P
+#53
+exit chain up~
+the chain~
+A huge black iron chain disappears into the clouds.~
+iron~
+exit ORTY 0
+0 0 0 0 0
+1 1 1 1 P
+E
+chain~
+The chain reaches the clouds high above you, the bottom link is mangled,
+and almost scrapes the ground.
+~
+#54
+paper bag~
+{ya paper bag{x~
+A small {ypaper bag{x is here.~
+leather~
+container 0 A
+50 0 0 5 100
+0 0 10 0 G
+#55
+helm fallen crusader~
+the Helm of the Fallen Crusader~
+A rusty old helm has been left here.~
+quest~
+treasure ABP A
+0 0 0 0 0
+1 1 0 0 P
+#56
+magic mirror~
+a magic mirror~
+A silver hand-mirror sits here.~
+quest~
+treasure ABP A
+0 0 0 0 0
+1 1 0 0 P
+#57
+broken sword hilt~
+a broken sword hilt~
+A broken sword hilt is laying here.~
+quest~
+treasure ABP A
+0 0 0 0 0
+1 1 0 0 P
+#58
+shard lorestone~
+a shard of the lorestone~
+A sliver of some sort of glowing stone is here.~
+quest~
+treasure ABP A
+0 0 0 0 0
+1 1 0 0 P
+#59
+scepter lost king~
+the Scepter of the Lost King~
+A long-forgotten gold scepter has been discarded here.~
+quest~
+treasure ABP A
+0 0 0 0 0
+1 1 100 0 P
+#60
+quest lantern~
+an quest's lantern~
+An quest's lantern has been discarded here.~
+brass~
+light A AO
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+1 1 0 0 P
+#61
+quest coat~
+an quest's coat~
+An quest's coat has been discarded here.~
+linen~
+armor U AD
+AC AC AC B 0
+1 1 3 0 P
+#62
+quest pants~
+a pair of quest's pants~
+A pair of quest's pants have been discarded here.~
+linen~
+armor U AF
+AC AC AC B 0
+1 1 2 0 P
+#63
+quest shoes~
+a pair of quest's shoes~
+A pair of quest's shoes have been discarded here~
+linen~
+armor U AG
+AB AB AB AC 0
+1 1 2 0 P
+#64
+quest gloves~
+a pair of quest's gloves~
+A pair of quest's gloves have been discarded here.~
+linen~
+armor U AH
+B B B AC 0
+1 1 1 0 P
+#65
+quest hat~
+a quest hat~
+A quest hat has been discarded here.~
+linen~
+armor U AE
+AC AC AC B 0
+1 1 0 0 P
+#66
+quest bracelet~
+a quest bracelet~
+A quest bracelet has been discarded here.~
+linen~
+armor U AM
+B B B AC 0
+1 1 1 0 P
+#67
+quest cloak~
+a quest cloak~
+A quest cloak has been discarded here.~
+linen~
+armor U AK
+AC AC AC B 0
+1 1 5 0 P
+#68
+quest belt~
+a quest belt~
+A quest belt has been discarded here.~
+leather~
+armor U AL
+B B B AC 0
+1 1 2 0 P
+#69
+quest sleeves~
+a pair of quest sleeves~
+A pair of quest sleeves have been discarded here.~
+unknown~
+armor U AI
+AC AC AC B 0
+1 1 2 0 P
+#70
+quest ring~
+a quest  ring~
+a quest  ring has been discarded here.~
+bronze~
+jewelry U AB
+0 0 0 0 0
+1 1 1 0 P
+#71
+quest pendant~
+a quest pendant~
+A quest pendant has been discarded here.~
+bronze~
+jewelry U AC
+0 0 0 0 0
+1 1 1 0 P
+#72
+quest stone~
+a quest stone~
+A quest stone floats here.~
+stone~
+jewelry 0 AQ
+0 0 0 0 0
+1 1 0 0 P
+#73
+quest bandana~
+a quest bandana~
+A quest bandana has been discarded here.~
+linen~
+armor U A
+B B B AC 0
+1 1 1 0 P
+#80
+misery blade~
+{rMisery Blade{x~
+A jagged black dagger is resting here.~
+adamantine~
+weapon U AN
+dagger 20 59 stab EH
+1 1 202 0 P
+A
+19 19
+A
+18 19
+#81
+quest short sword~
+an quest's shortsword~
+An quest's shortsword has been discarded here.~
+bronze~
+weapon U AN
+sword 21 60 slash 0
+201 201 202 0 P
+A
+19 19
+A
+18 19
+#82
+quest club~
+an quest's club~
+An quest's club has been discarded here.~
+bronze~
+weapon U AN
+mace 21 59 crush 0
+1 1 202 0 P
+A
+19 19
+A
+18 19
+#83
+quest axe~
+an quest's axe~
+An quest's axe has been discarded here.~
+unknown~
+weapon U AN
+axe 3 4 cleave 0
+0 0 5 0 P
+#84
+quest spear~
+an quest's spear~
+An quest's spear has been discarded here.~
+bronze~
+weapon U AN
+staff 3 6 thrust F
+1 1 5 0 P
+#85
+quest whip~
+an quest's whip~
+An quest's whip has been discarded here.~
+leather~
+weapon U AN
+whip 2 6 slap 0
+1 1 5 0 P
+#86
+quest poleaxe~
+an quest's poleaxe~
+An quest's poleaxe has been discarded here.~
+bronze~
+weapon U AN
+polearm 3 6 cleave F
+1 1 5 0 P
+#87
+quest ball chain~
+an quest's ball and chain~
+An quest's ball and chain has been discarded here.~
+bronze~
+weapon U AN
+flail 3 4 crush 0
+1 1 5 0 P
+#88
+quest shield~
+an quest's shield~
+An quest's shield has been discarded here.~
+bronze~
+armor U AJ
+AC AC AC AC 0
+1 1 5 0 P
+#96
+potion rainbow~
+a {Rr{ya{Yi{Gn{Bb{bo{Mw{x potion of ~
+A small multicolored potion has carelessly been left here.~
+glass~
+potion G AO
+0 '' '' '' ''
+0 0 10 10 P
+#97
+scroll scorched~
+a {rscorched{x scroll of ~
+A scorched scroll is discarded here.~
+vellum~
+scroll G AO
+0 '' '' '' ''
+0 0 1 10 P
+#98
+an extra comfortable bedroll~
+an extra-comfortable bedroll~
+An extra comfortable bedroll is rolled up here.~
+down~
+furniture 0 A
+A 0 FIL DEFG DEFG
+0 0 50 0 P
+#99
+decanter endless water can~
+a decanter of endless water~
+A small tin decanter has been discarded here.~
+unknown~
+fountain B A
+0 0 'water' 0 0
+0 0 0 0 P
+#0
+
+
+
+#ROOMS
+#1
+The Void~
+You do not see anything special about the void.
+~
+0 1048588 1
+D4
+~
+~
+0 0 300
+S
+#2
+Limbo~
+You are floating in a formless void, detached from all sensation of physical
+matter, surrounded by swirling glowing light, which fades into the relative
+darkness around you without any trace of edges or shadow.
+   There is a "No Tipping" notice pinned to the darkness.
+~
+0 1048584 1
+D4
+~
+~
+0 0 300
+S
+#3
+The Corner~
+You are standing with your nose in the corner.  Every time you try to
+turn around, you get slapped upside the head and quickly resume your
+position.
+~
+0 1089540 1
+S
+#4
+The Adventurer's Den~
+~
+0 0 0
+D0
+~
+~
+0 0 5
+D3
+~
+~
+0 0 302
+S
+#5
+The Adventurer's Den~
+~
+0 0 0
+D2
+~
+~
+0 0 4
+D5
+~
+~
+0 0 60
+S
+#6
+The Jeweller's Shoppe~
+~
+0 262148 0
+D3
+~
+~
+0 0 327
+S
+#60
+The Adventurer's Den~
+~
+0 1310724 0
+D4
+~
+~
+0 0 5
+S
+#0
+
+
+
+#SPECIALS
+M 60 spec_questmaster
+S
+
+
+
+#RESETS
+M 0 6 1 6 1
+G 0 30 0
+G 0 29 0
+G 0 28 0
+G 0 27 0
+G 0 26 0
+M 0 60 1 60 1
+S
+
+
+
+#SHOPS
+6 32 30 8 33 0 110 100 0 23
+0
+
+
+
+#MOBPROGS
+#60
+say Hello $n, can I interest you in a QUEST?
+~
+#0
+
+#$

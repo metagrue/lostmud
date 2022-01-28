@@ -1,0 +1,450 @@
+#PLAYER
+Name Blake~
+Id   1461824467
+LogO 1462007725
+Vers 5
+Prom <%hhp %mm %vmv> {Y(%X) {R(%e){x>{x ~
+Race giant~
+Sex  1
+Clas warrior~
+Levl 31
+Tier 1
+Ctier 1
+Sec  0
+Plyd 15511
+Tpld 6
+Notb  0 0 0 0 0 0
+Scro 22
+Room 300
+HMV  1760 1760 545 545 460 460
+Plat 1
+Gold 72
+Silv 17
+Exp  42504
+Act  BCDEFGHJKOQ
+AfBy L
+Comm NOQb
+Pos  8
+Prac 3
+Save  -8
+Alig  1000
+Hit   2
+Dam   2
+ACs 1 1 1 54
+Wimp  319
+Attr 24 15 18 15 20
+AMod 0 1 0 4 0
+Pass michael15~
+Titl  the Newbie~
+Pnts 46
+TSex 1
+LLev 3
+Reca 0
+HMVP 1760 545 460
+Cnd  0 0 0 0
+Sk 75 'axe'
+Sk 75 'dagger'
+Sk 23 'flail'
+Sk 1 'mace'
+Sk 1 'polearm'
+Sk 75 'shield block'
+Sk 1 'spear'
+Sk 91 'sword'
+Sk 1 'whip'
+Sk 75 'bash'
+Sk 75 'berserk'
+Sk 1 'dirt kicking'
+Sk 75 'disarm'
+Sk 77 'dodge'
+Sk 86 'dual wield'
+Sk 1 'enhanced damage'
+Sk 75 'grip'
+Sk 1 'hand to hand'
+Sk 75 'kick'
+Sk 78 'parry'
+Sk 1 'rescue'
+Sk 1 'trip'
+Sk 1 'stun'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'fourth attack'
+Sk 1 'fast healing'
+Sk 1 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'warrior basics'
+Gr 'warrior default'
+Gr 'weaponsmaster'
+End
+
+#O
+Vnum 250
+Nest 0
+Cond 0
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 250
+Nest 0
+Cond 0
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 236
+Nest 0
+Cond 0
+Wear 0
+Cost 500
+End
+
+#O
+Vnum 715
+Nest 0
+Cond 0
+Wear 8
+Cost 100
+End
+
+#O
+Vnum 709
+Nest 0
+Cond 0
+Wear 19
+Cost 75
+End
+
+#O
+Vnum 711
+Nest 0
+Cond 0
+Wear 5
+Cost 100
+End
+
+#O
+Vnum 709
+Nest 0
+Cond 0
+Wear 16
+Cost 75
+End
+
+#O
+Vnum 710
+Nest 0
+Cond 0
+Wear 20
+Cost 50
+End
+
+#O
+Vnum 706
+Nest 0
+Cond 0
+Wear 9
+Cost 25
+End
+
+#O
+Vnum 900
+Nest 0
+Cond 0
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 902
+Nest 0
+Cond 0
+Wear 18
+Cost 1000
+End
+
+#O
+Vnum 900
+Nest 0
+Cond 0
+Wear 14
+Cost 0
+End
+
+#O
+Vnum 716
+Nest 0
+Cond 0
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 712
+Nest 0
+Cond 0
+Wear 12
+Cost 200
+End
+
+#O
+Vnum 713
+Nest 0
+Cond 0
+Wear 6
+Cost 200
+End
+
+#O
+Vnum 901
+Nest 0
+Cond 0
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 901
+Nest 0
+Cond 0
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 714
+Nest 0
+Cond 0
+Wear 7
+Cost 50
+End
+
+#O
+Vnum 703
+Nest 0
+Cond 0
+Wear 10
+Cost 0
+End
+
+#O
+Vnum 306
+Nest 0
+Cond 0
+Wear -1
+Cost 750
+End
+
+#O
+Vnum 303
+Nest 1
+Cond 0
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 303
+Nest 1
+Cond 0
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 303
+Nest 1
+Cond 0
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 303
+Nest 1
+Cond 0
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 303
+Nest 1
+Cond 0
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 303
+Nest 1
+Cond 0
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 303
+Nest 1
+Cond 0
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 303
+Nest 1
+Cond 0
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 303
+Nest 1
+Cond 0
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 303
+Nest 1
+Cond 0
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 303
+Nest 1
+Cond 0
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 303
+Nest 1
+Cond 0
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 303
+Nest 1
+Cond 0
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 303
+Nest 1
+Cond 0
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 303
+Nest 1
+Cond 0
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 303
+Nest 1
+Cond 0
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 303
+Nest 1
+Cond 0
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 303
+Nest 1
+Cond 0
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 303
+Nest 1
+Cond 0
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 303
+Nest 1
+Cond 0
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 303
+Nest 1
+Cond 0
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 303
+Nest 1
+Cond 0
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 303
+Nest 1
+Cond 0
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 303
+Nest 1
+Cond 0
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 303
+Nest 1
+Cond 0
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 235
+Nest 1
+Cond 0
+Wear -1
+Cost 500
+End
+
+#END

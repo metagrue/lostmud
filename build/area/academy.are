@@ -1,0 +1,2257 @@
+#AREADATA
+Name Nightingale Academy~
+Builders Chaos~
+VNUMs 200 299
+Credits {  1  15} Chaos   - The Academy~
+Security 9
+RepopMsg 0~
+End
+
+
+
+#MOBILES
+#200
+nightingale greeter~
+the Nightingale Greeter~
+The Nightingale Academy's greeter is here.
+~
+~
+human~
+ABZ DFJVa CDEHNO 751 0
+301 301 500 1d1+19999 1d1+9999 100d10+500 none
+-100 -100 -100 -100
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+M RANDOM 201 10~
+M GREET 200 100~
+#201
+instructor~
+The Instructor of {8Chaos{x~
+The instructor of {8Chaos{x is here, willing to {Wtrain{x new students.
+~
+~
+human~
+ABJ DFJVa CDEHNO 751 0
+301 301 500 1d1+19999 1d1+9999 100d10+500 none
+-100 -100 -100 -100
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+M GREET 200 100~
+#202
+instructor gaia~
+The Instructor of {YGaia{x~
+The instructor of {YGaia{x is here, helping new students {Wpractice{x their skills.
+~
+~
+human~
+ABK DFJVa CDEHNO 751 0
+301 301 500 1d1+19999 1d1+9999 100d10+500 none
+-100 -100 -100 -100
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+M GREET 200 100~
+#203
+instructor 4~
+the Disciple of {YGaia{x~
+The disciple of {YGaia{x is here, willing to {Wheal{x students in need.
+~
+~
+human~
+ABZa DFJVa CDEHNO 751 0
+301 301 500 1d1+19999 1d1+9999 100d10+500 none
+-100 -100 -100 -100
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#204
+nightingale student store clerk~
+the Nightingale Student Store Clerk~
+A student stands behind the counter, working for extra credit.
+~
+~
+human~
+ABC DFJV CDEHNO 0 0
+301 301 0 1d1+19999 1d1+1999 100d10+500 none
+-100 -100 -100 -100
+0 0 0 0
+stand stand none 10000
+AHMV ABCDEFGHIJK medium unknown
+#210
+trainee rogue~
+a Nightingale Rogue Trainee~
+A nightingale trainee rogue sharpens some blades.
+~
+~
+human~
+ABCU 0 0 -250 0
+3 3 0 7d2+31 3d10+0 1d2+3 stab
+7 7 7 7
+H AB 0 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#211
+trainee mage~
+a Nightingale Mage Trainee~
+A Nightingale trainee mage stands here, pondering.
+~
+~
+elf~
+ABU J C 0 0
+4 3 0 7d2+31 1d1+99 1d2+3 whip
+7 7 7 7
+0 AB 0 Z
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+F res B
+#212
+trainee cleric~
+a Nightingale Trainee Cleric~
+A nightingale trainee cleric stands at the ready.
+~
+~
+human~
+ABQU 0 0 250 0
+3 3 0 7d2+31 1d1+99 1d2+3 crush
+7 7 7 7
+0 AB 0 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#213
+trainee ranger~
+a Nightingale Trainee Ranger~
+A nightingale trainee ranger is here.
+~
+~
+halfelf~
+ABTU L 0 0 0
+4 4 0 10d2+41 4d10+0 1d2+3 none
+6 6 6 7
+N AB 0 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#214
+fighter trainee~
+A Nightingale Trainee Fighter~
+A Nightingale trainee fighter stands here, preparing for battle.
+~
+~
+dwarf~
+ABCTU J 0 0 0
+4 4 0 12d3+41 4d11+1 2d4+4 crush
+5 5 5 6
+I AB LQ R
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#215
+trainee druid~
+a nightingale trainee druid~
+A nightingale trainee druid stands here, your final test.
+~
+~
+elf~
+ABQRU J 0 0 0
+4 5 2 15d3+51 1d1+199 2d6+6 wrath
+5 5 5 6
+0 AB B Z
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#216
+trainee vampire~
+a nightingale trainee vampire~
+A Nightingale Trainee Vampire has been chained to the wall.
+~
+~
+human~
+ABFP GJ 0 0 0
+5 4 1 12d3+41 4d11+1 2d4+6 none
+5 5 5 6
+FG AQ 0 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#220
+apprentice~
+a Nightingale apprentice~
+A nightingale apprentice stands here.
+~
+~
+human~
+ACR 0 0 -250 0
+12 20 0 43d6+182 20d9+2 2d2+2 stab
+-2 -2 -2 1
+I 0 0 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#221
+student~
+a Nightingale student~
+A nightingale student stands here.
+~
+~
+human~
+ACT 0 0 -250 0
+15 20 0 43d6+182 20d9+2 2d2+2 pound
+-2 -2 -2 1
+I 0 0 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#222
+lazy student~
+A lazy Nightingale student~
+A lazy student is here, hiding from class.
+~
+~
+human~
+ACS 0 0 -500 0
+15 20 0 43d6+182 20d9+2 2d2+2 stab
+-2 -2 -2 1
+F 0 0 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#224
+dutiful student~
+A dutiful Nightingale student~
+A student wanders here, looking focused.
+~
+~
+human~
+ACQ 0 0 500 0
+15 20 0 43d6+182 20d9+2 2d2+2 pound
+-2 -2 -2 1
+K 0 0 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#250
+snow fox~
+a {Wsnow fox{x~
+A small white fox is playing coy with you.
+~
+It's a tiny little bit of white fluff.
+~
+fox~
+AG Z 0 600 0
+10 10 0 25d3+102 10d10+2 1d2+3 bite
+2 2 2 4
+FH 0 0 0
+stand stand either 0
+AGV ACDEFHJKQV small unknown
+#251
+timber wolf~
+A timber wolf~
+A wolf is here, protecting her den.
+~
+~
+wolf~
+ABFG Z 0 -600 0
+15 10 0 30d4+102 10d11+4 3d2+11 bite
+1 1 1 3
+F 0 0 0
+stand stand female 0
+AGV ACDEFJKQV medium unknown
+F off H
+#252
+boar~
+a boar~
+A boar is here, rooting for tubers.
+~
+~
+pig~
+AG 0 0 600 0
+15 10 0 30d4+102 10d11+4 3d2+11 charge
+1 1 1 3
+0 0 0 0
+stand stand either 0
+AGV ACDEFHJK medium unknown
+#253
+rabbit~
+a fluffy white rabbit~
+A fluffy white rabbit hops through the snow.
+~
+~
+rabbit~
+AG 0 0 -600 0
+10 10 0 25d3+102 10d10+2 1d2+3 claw
+2 2 2 4
+0 0 0 0
+stand stand none 0
+AGV ACDEFHJK medium unknown
+F off FH
+#254
+deer doe~
+a doe~
+A doe stands here.
+~
+~
+deer~
+AG 0 0 0 0
+10 10 0 25d3+102 10d10+2 1d2+3 pound
+2 2 2 4
+HI 0 0 0
+stand stand female 0
+AGV ACDEFHJKQW medium unknown
+#255
+huge buck~
+a huge buck~
+A huge buck stands here.
+~
+~
+deer~
+AT 0 0 600 0
+15 10 0 30d4+102 10d11+4 3d2+11 charge
+1 1 1 3
+IR 0 0 0
+stand stand male 0
+AGV ACDEFHJKQW large unknown
+F off H
+#256
+penguin~
+a penguin~
+A slick black bird is standing here.
+~
+~
+avian~
+AGHW DFHLOP 0 0 0
+12 7 0 15d2+64 7d9+0 1d2+1 peck
+5 5 5 6
+C CDEGHILOPQRSUW CDEGHIJLOPQRSUW ABLQ
+stand stand either 0
+AMWb ABCDEFGHIJKP small unknown
+F aff JT
+F for HV
+#0
+
+
+
+#OBJECTS
+#200
+trainee dagger~
+a trainee's dagger~
+A trainee's dagger has been discarded here.~
+bronze~
+weapon U AN
+dagger 1 7 stab 0
+0 3 1 5 P
+#201
+trainee short sword~
+a trainee's shortsword~
+A trainee's shortsword has been discarded here.~
+bronze~
+weapon U AN
+sword 1 8 slash 0
+0 3 1 5 P
+#202
+trainee club~
+a trainee's club~
+A trainee's club has been discarded here.~
+bronze~
+weapon U AN
+mace 1 7 crush 0
+0 3 1 5 P
+#203
+trainee axe~
+a trainee's axe~
+A trainee's axe has been discarded here.~
+unknown~
+weapon U AN
+axe 1 7 cleave 0
+0 3 1 5 P
+#204
+trainee spear~
+a trainee's spear~
+A trainee's spear has been discarded here.~
+bronze~
+weapon U AN
+staff 1 10 thrust F
+0 3 1 5 P
+#205
+trainee whip~
+a trainee's whip~
+A trainee's whip has been discarded here.~
+leather~
+weapon U AN
+whip 1 8 slap 0
+0 3 1 5 P
+#206
+trainee poleaxe~
+a trainee's poleaxe~
+A trainee's poleaxe has been discarded here.~
+bronze~
+weapon U AN
+polearm 1 10 cleave F
+0 3 1 5 P
+#207
+trainee ball chain~
+a trainee's ball and chain~
+A trainee's ball and chain has been discarded here.~
+bronze~
+weapon U AN
+flail 1 9 crush F
+0 3 1 5 P
+#208
+trainee shield~
+a trainee's shield~
+A trainee's shield has been discarded here.~
+bronze~
+armor U AJ
+B B B A 0
+0 5 1 5 P
+#209
+trainee spear~
+a trainee's staff~
+A long pointed stick has been left here.~
+wood~
+weapon U AN
+staff 1 10 smash F
+0 3 1 5 P
+#210
+apprentice dagger~
+an apprentice's dagger~
+An apprentice's dagger has been discarded here.~
+bronze~
+weapon 0 AN
+dagger 1 7 stab 0
+0 6 1 5 P
+A
+19 1
+A
+18 1
+#211
+apprentice short sword~
+an apprentice's shortsword~
+An apprentice's shortsword has been discarded here.~
+bronze~
+weapon 0 AN
+sword 2 8 slash 0
+0 6 1 5 P
+#212
+apprentice club~
+an apprentice's club~
+An apprentice's club has been discarded here.~
+bronze~
+weapon 0 AN
+mace 2 7 crush 0
+0 6 1 5 P
+#213
+apprentice axe~
+an apprentice's axe~
+An apprentice's axe has been discarded here.~
+unknown~
+weapon 0 AN
+axe 2 7 cleave 0
+0 6 1 5 P
+#214
+apprentice spear~
+an apprentice's spear~
+An apprentice's spear has been discarded here.~
+bronze~
+weapon 0 AN
+staff 2 10 thrust F
+0 6 1 5 P
+#215
+apprentice whip~
+an apprentice's whip~
+An apprentice's whip has been discarded here.~
+leather~
+weapon 0 AN
+whip 1 8 slap 0
+0 6 1 5 P
+#216
+apprentice poleaxe~
+an apprentice's poleaxe~
+An apprentice's poleaxe has been discarded here.~
+bronze~
+weapon 0 AN
+polearm 2 10 cleave F
+0 6 1 5 P
+#217
+apprentice ball chain~
+an apprentice's ball and chain~
+An apprentice's ball and chain has been discarded here.~
+bronze~
+weapon 0 AN
+flail 1 8 crush 0
+0 6 1 5 P
+#218
+apprentice shield~
+an apprentice's shield~
+An apprentice's shield has been discarded here.~
+bronze~
+armor 0 AJ
+AB AB AB A 0
+0 6 1 5 P
+#219
+nightingale adventurer backpack~
+a Nightingale Adventurer's Backpack~
+A small leather backpack with a large N insignia has been left here.~
+leather~
+container OY A
+1000 0 0 100 85
+0 15 2 100 P
+#220
+trainee lantern~
+a trainee's lantern~
+A trainee's lantern has been discarded here.~
+brass~
+light A AO
+0 0 CFG 0 0
+1 1 0 0 P
+#221
+trainee coat~
+a trainee's coat~
+A trainee's coat has been discarded here.~
+linen~
+armor U AD
+B B B A 0
+0 5 1 0 P
+#222
+trainee pants~
+a pair of trainee's pants~
+A pair of trainee's pants have been discarded here.~
+linen~
+armor U AF
+B B B A 0
+0 5 1 0 P
+#223
+trainee shoes~
+a pair of trainee's shoes~
+A pair of trainee's shoes have been discarded here~
+linen~
+armor U AG
+B B B A 0
+0 5 1 0 P
+#224
+trainee gloves~
+a pair of trainee's gloves~
+A pair of trainee's gloves have been discarded here.~
+linen~
+armor U AH
+B B B A 0
+0 5 1 0 P
+#225
+trainee hat~
+a trainee's hat~
+A trainee's hat has been discarded here.~
+linen~
+armor U AE
+B B B A 0
+0 5 1 0 P
+#226
+trainee bracelet~
+a trainee's bracelet~
+A trainee's bracelet has been discarded here.~
+linen~
+armor U AM
+B B B A 0
+0 5 1 0 P
+#227
+trainee cloak~
+a trainee's cloak~
+A trainee's cloak has been discarded here.~
+linen~
+armor U AK
+B B B A 0
+0 5 1 0 P
+#228
+trainee belt~
+a trainee's belt~
+A trainee's belt has been discarded here.~
+leather~
+armor U AL
+B B B A 0
+0 5 1 0 P
+#229
+trainee sleeves~
+a pair of trainee's sleeves~
+A pair of trainee's sleeves have been discarded here.~
+unknown~
+armor U AI
+B B B A 0
+0 5 1 0 P
+#230
+trainee ring~
+a trainee's ring~
+A trainee's ring has been discarded here.~
+bronze~
+jewelry U AB
+0 0 0 0 0
+0 5 1 0 P
+A
+20 -1
+A
+17 -1
+#231
+trainee pendant~
+a trainee's pendant~
+A trainee's pendant has been discarded here.~
+bronze~
+jewelry U AC
+0 0 0 0 0
+1 1 1 0 P
+A
+17 -1
+A
+20 -1
+#232
+trainee stone~
+a trainee's stone~
+A trainee's stone floats here.~
+stone~
+jewelry 0 AQ
+0 0 0 0 0
+1 1 0 0 P
+A
+20 -3
+#233
+trainee bandana~
+a trainee's bandana~
+A trainee's bandana has been discarded here.~
+linen~
+armor U AR
+B B B A 0
+0 5 1 0 P
+A
+18 2
+#234
+nightingale biscuit~
+a Nightingale Academy Biscuit~
+A crusty old biscuit has been discarded here.~
+bread~
+food V A
+C C 0 0 0
+1 1 1 50 P
+#235
+nightingale canteen~
+a Nightingale Academy canteen~
+An old tin canteen is here, collecting dust.~
+tin~
+drink 0 A
+120 120 'water' 0 0
+0 0 5 250 P
+#236
+glowing nightingale flag~
+a {YGlowing{x Nightingale Flag~
+A flag of the Nightingale Academy has been left here.~
+silk~
+light A AO
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+10 10 1 100 P
+#237
+apprentice spear~
+an apprentice's spear~
+A long wooden pointed stick is here.~
+wood~
+weapon 0 AN
+staff 2 10 thrust DF
+0 6 1 5 P
+#240
+apprentice lantern~
+an apprentice's lantern~
+An apprentice's lantern has been discarded here.~
+brass~
+light A AO
+0 0 DGH 0 0
+1 1 0 0 P
+#241
+apprentice coat~
+an apprentice's coat~
+An apprentice's coat has been discarded here.~
+linen~
+armor 0 AD
+AB AB AB A 0
+0 10 1 0 P
+#242
+apprentice pants~
+a pair of apprentice's pants~
+A pair of apprentice's pants have been discarded here.~
+linen~
+armor 0 AF
+AB AB AB A 0
+1 1 11 0 P
+#243
+apprentice shoes~
+a pair of apprentice's shoes~
+A pair of apprentice's shoes have been discarded here~
+linen~
+armor 0 AG
+AB AB AB A 0
+1 1 11 0 P
+#244
+apprentice gloves~
+a pair of apprentice's gloves~
+A pair of apprentice's gloves have been discarded here.~
+linen~
+armor 0 AH
+AB AB AB A 0
+1 1 11 0 P
+#245
+apprentice hat~
+an apprentice's hat~
+An apprentice's hat has been discarded here.~
+linen~
+armor 0 AE
+AB AB AB A 0
+1 1 11 0 P
+#246
+apprentice bracelet~
+an apprentice's bracelet~
+An apprentice's bracelet has been discarded here.~
+linen~
+armor 0 AM
+AB AB AB A 0
+1 1 11 0 P
+#247
+apprentice cloak~
+an apprentice's cloak~
+An apprentice's cloak has been discarded here.~
+linen~
+armor 0 AK
+AB AB AB A 0
+1 1 11 0 P
+#248
+apprentice belt~
+an apprentice's belt~
+An apprentice's belt has been discarded here.~
+leather~
+armor 0 AL
+AB AB AB A 0
+1 1 11 0 P
+#249
+apprentice sleeves~
+a pair of apprentice's sleeves~
+A pair of apprentice's sleeves have been discarded here.~
+unknown~
+armor 0 AI
+AB AB AB A 0
+1 1 11 0 P
+#250
+apprentice ring~
+an apprentice's ring~
+An apprentice's ring has been discarded here.~
+bronze~
+jewelry 0 AB
+0 0 0 0 0
+1 1 1 0 P
+A
+20 -1
+A
+17 -3
+#251
+apprentice pendant~
+an apprentice's pendant~
+An apprentice's pendant has been discarded here.~
+bronze~
+jewelry 0 AC
+0 0 0 0 0
+1 1 1 0 P
+A
+17 -3
+A
+20 -1
+#252
+apprentice stone~
+an apprentice's stone~
+An apprentice's stone floats here.~
+stone~
+jewelry 0 AQ
+0 0 0 0 0
+1 1 0 0 P
+A
+20 -5
+#253
+apprentice bandana~
+an apprentice's bandana~
+An apprentice's bandana has been discarded here.~
+linen~
+armor 0 AR
+AB AB AB A 0
+1 1 11 0 P
+A
+18 4
+#298
+silver silvery gate portal~
+a silvery gate~
+A shimmering, silvery gate floats in space here.~
+silvery nether~
+portal AB 0
+0 0 A ADGH 0
+0 0 0 0 P
+#299
+academy challenge key~
+academy challenge key~
+A small bronze key with a large N insignia rests here.~
+bronze~
+key U AO
+0 0 0 0 0
+1 1 1 0 P
+#0
+
+
+
+#ROOMS
+#200
+Orientation Room~
+The room appears to be a large lecture hall of some kind.  To one side of
+the room are rows upon rows of benches.  At the other end of the room is a
+stone table.  You can spot some strange magic scarring on one side of the
+stone table.  
+To the north, you see a door.
+~
+0 131080 0
+D3
+~
+~
+0 0 202
+S
+#201
+Academy Complex Enterance~
+A hallway continues to the west.  To the south, there is a door.  
+
+A plaque on the wall reads "NO ADMITTANCE to adventurers above level 15!"
+~
+0 12 0
+D1
+~
+~
+0 0 202
+D2
+~
+doorway~
+0 0 221
+S
+#202
+Training Wing~
+There is a door to the south.  A hall way continues east.  There are some
+stairs to the north.  
+~
+0 131080 0
+D0
+~
+~
+0 0 203
+D1
+~
+~
+0 0 200
+D3
+~
+~
+0 0 201
+S
+#203
+Bottom of the Stairs~
+A sign floats here.  You can see a pair of small alcoves to the east and
+the west.  And to the north you see some stairs.  
+~
+0 131080 0
+E
+sign~
+The sign reads:
+Before you head upstairs, it might be a good idea to check in with your
+skill and attribute trainers.  They can be found to the east and the west.  
+~
+D0
+~
+~
+0 0 204
+D1
+~
+~
+0 0 213
+D2
+~
+~
+0 0 202
+D3
+~
+~
+0 0 212
+S
+#204
+Academy Stairwell~
+The stairs continue to spiral upwards. To the south, you see a hallway.
+~
+0 131080 0
+D2
+~
+~
+0 0 203
+D4
+~
+~
+0 0 205
+S
+#205
+Hall of Study~
+The stairs continue to spiral upwards.  They also proceed downstairs. 
+There are obvious exits in every direction.  
+~
+0 131080 0
+D0
+~
+~
+0 0 208
+D1
+~
+~
+0 0 210
+D2
+~
+~
+0 0 209
+D3
+~
+~
+0 0 207
+D4
+~
+~
+0 0 211
+D5
+~
+~
+0 0 204
+S
+#206
+Student Room~
+It's an incredibly small room for two people.  But it does seem to have
+all the amenities.  
+~
+0 8 0
+D3
+~
+~
+1 0 236
+S
+#207
+Western Closet~
+It's fairly drafty for a tiny linen closet.  It's clean.  There's a lot
+of folded up linens and this room seems fairly undisturbed.  The floor of
+the closet creaks under your weight.  
+~
+0 131080 0
+E
+panel~
+It looks like there might be a handle.
+~
+D1
+~
+~
+0 0 205
+D5
+~
+~
+5 0 299
+S
+#208
+North-Facing Window~
+~
+0 131080 0
+D2
+~
+~
+0 0 205
+S
+#209
+Southern Alcove~
+~
+0 131080 0
+D0
+~
+~
+0 0 205
+S
+#210
+Library~
+The room is covered wall to wall in shelves.  Those shelves are
+themselves covered in books.  On the far eastern wall is a large window,
+though it has been boarded up for reasons unknown.  In the center of the
+room sits a great stone table.  
+
+On the table sits a lone page.
+~
+0 131080 0
+E
+page~
+On the page is written in blood:
+Please help me.  I am trapped in one of the rooms on this floor.  The
+academy is not what it seems!  
+
+Signed,
+A student
+~
+D3
+~
+~
+0 0 205
+S
+#211
+Hall of Combat~
+The stairs continue to spiral upwards.  They also proceed downstairs. 
+There are obvious exits in every direction.  
+~
+0 131080 0
+D0
+~
+~
+0 0 214
+D1
+~
+~
+0 0 215
+D2
+~
+~
+0 0 217
+D3
+~
+~
+0 0 216
+D4
+~
+~
+0 0 218
+D5
+~
+~
+0 0 205
+S
+#212
+Training Hall~
+~
+0 131080 0
+D1
+~
+~
+0 0 203
+S
+#213
+Practice Hall~
+~
+0 131080 0
+D3
+~
+~
+0 0 203
+S
+#214
+Northern Training Room~
+~
+0 131080 0
+D2
+~
+~
+0 0 211
+S
+#215
+Eastern Training Room~
+~
+0 131080 0
+D3
+~
+~
+0 0 211
+S
+#216
+Western Training Room~
+~
+0 131080 0
+D1
+~
+~
+0 0 211
+S
+#217
+Southern Training Room~
+~
+0 131080 0
+D0
+~
+~
+0 0 211
+S
+#218
+Before the Final Challenge~
+~
+0 131080 0
+D0
+~
+~
+0 0 219
+D2
+~
+~
+1 0 230
+D5
+~
+~
+0 0 211
+S
+#219
+Challenge Room~
+There is a door to the south. As well as a large white stairwell proceeding up the tower.
+~
+0 131080 0
+D2
+~
+~
+0 0 218
+D4
+~
+stairwell~
+1 299 220
+S
+#220
+Top of the Tower~
+There is a gate floating here. Stairs also proceed downstairs.
+~
+0 131080 0
+D5
+~
+~
+1 299 219
+S
+#221
+The Nightingale Academy~
+You stand in front of the great Nightingale Academy for Adventuring. 
+There is a large oak door to the north.  A well maintained road leads south.
+A snow covered dirt path continues east.  
+~
+0 4 1
+D0
+~
+doorway~
+0 0 201
+D1
+~
+~
+0 0 222
+D2
+~
+~
+0 0 226
+D3
+~
+~
+0 0 270
+S
+#222
+A Snowy Path~
+This has all the makings of a peaceful forest scene.  There is a long
+stony path which leads to the Dormitory building in the distance.  The
+ground is dusted with a light snow.  
+~
+0 0 1
+D1
+~
+~
+0 0 223
+D2
+~
+~
+0 0 254
+D3
+~
+~
+0 0 221
+S
+#223
+A Snowy Path~
+A long stony path continues in both directions.  To the east you see the
+Dormitory building in the distance.  Off to the west is the Academy Hall.  
+~
+0 0 1
+D1
+~
+~
+0 0 224
+D2
+~
+~
+0 0 258
+D3
+~
+~
+0 0 222
+S
+#224
+Corner of the Dormitory Building~
+A large black stone building juts out of the forest here.  It's warm
+lights and calm sounds beckon entry.  To the east you see a doorway.  Off in
+the distance you see the Academy Hall.  
+~
+0 0 1
+D1
+~
+~
+0 0 225
+D2
+~
+~
+0 0 262
+D3
+~
+~
+0 0 223
+S
+#225
+Dormitory Enterance~
+This is the student dormitory of Nightingale Academy for Adventurer's. 
+It's a black stone building with a great oaken doorway.  Square stone
+windows line the building every few measures.  
+~
+0 0 1
+D0
+~
+doorway~
+1 0 231
+D2
+~
+~
+0 0 266
+D3
+~
+~
+0 0 224
+S
+#226
+Road to Nightingale Academy~
+You can see the entrance to the Academy just ahead.  A well maintained
+road continues north and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 221
+D1
+~
+~
+0 0 254
+D2
+~
+~
+0 0 227
+D3
+~
+~
+0 0 271
+S
+#227
+Road to Nightingale Academy~
+A well maintained road continues north and south.  To the north you can
+see the Nightingale Academy for Adventurers.  
+~
+0 0 1
+D0
+~
+~
+0 0 226
+D1
+~
+~
+0 0 255
+D2
+~
+~
+0 0 228
+D3
+~
+~
+0 0 272
+S
+#228
+Road to Nightingale Academy~
+A well maintained road continues north and south.  To the south is a
+large gate.  North you can see the Academy Hall.  
+~
+0 0 1
+D0
+~
+~
+0 0 227
+D1
+~
+~
+0 0 256
+D2
+~
+~
+0 0 229
+D3
+~
+~
+0 0 273
+S
+#229
+Road to Nightingale Academy~
+There is a large iron-wrought gate in the fence here.  It doesn't appear
+to be locked.  A well maintained road continues north and in the distance
+you see the Nightingale Academy.  
+~
+0 0 1
+D0
+~
+~
+0 0 228
+D1
+~
+~
+0 0 257
+D2
+~
+~
+0 0 326
+D3
+~
+~
+0 0 274
+S
+#230
+Academy Student Store~
+This is a quaint wooden room which appears to have been built out of a
+hole in the tower.  Despite this it looks suprisingly secure, the floor only
+wobbles a bit when you move.  On one side of the room floats a large stone
+counter, apparently held up by magic.  
+~
+0 8 0
+D0
+~
+~
+1 0 218
+S
+#231
+Inside the Dormitory~
+The warmth of the hearth in the common room to the east is clearly felt,
+just as the cold air seeping through the old oaken door is.  The result is a
+strange antipodal pocket of biting warmth.  
+~
+0 8 0
+D0
+~
+~
+0 0 232
+D1
+~
+~
+0 0 233
+D2
+~
+doorway~
+1 0 225
+S
+#232
+Dormitory Stairwell~
+This is the base of a great stairwell which seems to climb forever.  The
+Dormitory certainly did look smaller from the outside.  
+~
+0 12 0
+D2
+~
+~
+0 0 231
+D4
+~
+~
+0 0 237
+S
+#233
+Common Room~
+There is a window here, at the southern wall of the common room.
+~
+0 8 0
+E
+window~
+It sure looks cold outside...
+~
+D0
+~
+~
+0 0 234
+D1
+~
+~
+0 0 236
+D3
+~
+~
+0 0 231
+S
+#234
+Common Room~
+A great hearth burns in this corner of the common room.  It seems to be
+warming the entire building.  
+~
+0 8 0
+D1
+~
+~
+0 0 235
+D2
+~
+~
+0 0 233
+S
+#235
+Common Room~
+There is a doorway to a student's room here.
+~
+0 8 0
+D1
+~
+doorway~
+1 0 243
+D2
+~
+~
+0 0 236
+D3
+~
+~
+0 0 234
+S
+#236
+Common Room~
+There is a doorway to a student's room here.
+~
+0 8 0
+D0
+~
+~
+0 0 235
+D1
+~
+doorway~
+1 0 206
+D3
+~
+~
+0 0 233
+S
+#237
+Dormitory Stairwell~
+The stairs continue in either direction. There is a small alcove to the south.
+~
+0 12 0
+D2
+~
+~
+0 0 238
+D4
+~
+~
+0 0 246
+D5
+~
+~
+0 0 232
+S
+#238
+Stairway Alcove~
+To the north you see a stairwell.  East is a large stone door.  
+~
+0 8 0
+D0
+~
+~
+0 0 237
+D1
+~
+doorway~
+1 0 239
+S
+#239
+Dormitory Hallway~
+A thin hallway, probably two persons wide continues to the east.  To the
+west is a large stone doorway.  North you see a smaller wooden door.  
+~
+0 8 0
+D0
+~
+doorway~
+1 0 241
+D1
+~
+~
+0 0 240
+D3
+~
+~
+1 0 238
+S
+#240
+Dormitory Hallway~
+You are standing in the middle of a long hallway for students of the
+Academy.  To the north is a door.  
+~
+0 8 0
+D0
+~
+doorway~
+1 0 242
+D1
+~
+~
+0 0 244
+D3
+~
+~
+0 0 239
+S
+#241
+Student Room~
+It's an incredibly small room for two people.  But it does seem to have
+all the amenities.  
+~
+0 8 0
+D2
+~
+~
+1 0 239
+S
+#242
+Student Room~
+It's an incredibly small room for two people.  But it does seem to have
+all the amenities.  To the south is a doorway.  
+~
+0 8 0
+D2
+~
+~
+1 0 240
+S
+#243
+Student Room~
+It's an incredibly small room for two people.  But it does seem to have
+all the amenities.  
+~
+0 8 0
+D3
+~
+~
+1 0 235
+S
+#244
+Dormitory Hallway~
+You are standing at the end of a long hallway for students of the
+Academy.  To the north is a door.  
+~
+0 8 0
+D0
+~
+doorway~
+1 0 245
+D3
+~
+~
+0 0 240
+S
+#245
+Student Room~
+It's an incredibly small room for two people.  But it does seem to have
+all the amenities.  To the south is a doorway.  
+~
+0 8 0
+D2
+~
+~
+1 0 244
+S
+#246
+Dormitory Stairwell~
+~
+0 12 0
+D2
+~
+~
+0 0 247
+D5
+~
+~
+0 0 237
+S
+#247
+Dormitory Hallway~
+~
+0 8 0
+D0
+~
+~
+0 0 246
+D1
+~
+doorway~
+1 0 248
+S
+#248
+Dormitory Hallway~
+~
+0 8 0
+D0
+~
+doorway~
+1 0 249
+D1
+~
+~
+0 0 250
+D3
+~
+~
+1 0 247
+S
+#249
+Student Room~
+~
+0 8 0
+D2
+~
+doorway~
+1 0 248
+S
+#250
+Dormitory Hallway~
+~
+0 8 0
+D0
+~
+doorway~
+1 0 251
+D1
+~
+~
+0 0 252
+D3
+~
+~
+0 0 248
+S
+#251
+Student Room~
+~
+0 8 0
+D2
+~
+doorway~
+1 0 250
+S
+#252
+Dormitory Hallway~
+~
+0 8 0
+D0
+~
+doorway~
+1 0 253
+D3
+~
+~
+0 0 250
+S
+#253
+Student Room~
+~
+0 8 0
+D2
+~
+doorway~
+1 0 252
+S
+#254
+Nightingale Forest~
+~
+0 0 3
+D0
+~
+~
+0 0 222
+D1
+~
+~
+0 0 258
+D2
+~
+~
+0 0 255
+D3
+~
+~
+0 0 226
+S
+#255
+Nightingale Forest~
+~
+0 0 3
+D0
+~
+~
+0 0 254
+D1
+~
+~
+0 0 259
+D2
+~
+~
+0 0 256
+D3
+~
+~
+0 0 227
+S
+#256
+Nightingale Forest~
+~
+0 0 3
+D0
+~
+~
+0 0 255
+D1
+~
+~
+0 0 260
+D2
+~
+~
+0 0 257
+D3
+~
+~
+0 0 228
+S
+#257
+Nightingale Forest~
+~
+0 0 3
+D0
+~
+~
+0 0 256
+D1
+~
+~
+0 0 261
+D2
+~
+~
+0 0 275
+D3
+~
+~
+0 0 229
+S
+#258
+Nightingale Forest~
+~
+0 0 3
+D0
+~
+~
+0 0 223
+D1
+~
+~
+0 0 262
+D2
+~
+~
+0 0 259
+D3
+~
+~
+0 0 254
+S
+#259
+Nightingale Forest~
+~
+0 0 3
+D0
+~
+~
+0 0 258
+D1
+~
+~
+0 0 263
+D2
+~
+~
+0 0 260
+D3
+~
+~
+0 0 255
+S
+#260
+Nightingale Forest~
+~
+0 0 3
+D0
+~
+~
+0 0 259
+D1
+~
+~
+0 0 264
+D2
+~
+~
+0 0 261
+D3
+~
+~
+0 0 256
+S
+#261
+Nightingale Forest~
+~
+0 0 3
+D0
+~
+~
+0 0 260
+D1
+~
+~
+0 0 265
+D3
+~
+~
+0 0 257
+S
+#262
+Nightingale Forest~
+~
+0 0 3
+D0
+~
+~
+0 0 224
+D1
+~
+~
+0 0 266
+D2
+~
+~
+0 0 263
+D3
+~
+~
+0 0 258
+S
+#263
+Nightingale Forest~
+~
+0 0 3
+D0
+~
+~
+0 0 262
+D1
+~
+~
+0 0 267
+D2
+~
+~
+0 0 264
+D3
+~
+~
+0 0 259
+S
+#264
+Nightingale Forest~
+~
+0 0 3
+D0
+~
+~
+0 0 263
+D1
+~
+~
+0 0 268
+D2
+~
+~
+0 0 265
+D3
+~
+~
+0 0 260
+S
+#265
+Nightingale Forest~
+~
+0 0 3
+D0
+~
+~
+0 0 264
+D1
+~
+~
+0 0 269
+D3
+~
+~
+0 0 261
+S
+#266
+Nightingale Forest~
+~
+0 0 3
+D0
+~
+~
+0 0 225
+D2
+~
+~
+0 0 267
+D3
+~
+~
+0 0 262
+S
+#267
+Nightingale Forest~
+~
+0 0 3
+D0
+~
+~
+0 0 266
+D2
+~
+~
+0 0 268
+D3
+~
+~
+0 0 263
+S
+#268
+Nightingale Forest~
+~
+0 0 3
+D0
+~
+~
+0 0 267
+D2
+~
+~
+0 0 269
+D3
+~
+~
+0 0 264
+S
+#269
+Nightingale Forest~
+~
+0 0 3
+D0
+~
+~
+0 0 268
+D3
+~
+~
+0 0 265
+D5
+~
+~
+5 0 277
+S
+#270
+Nightingale Forest~
+~
+0 0 3
+D1
+~
+~
+0 0 221
+D2
+~
+~
+0 0 271
+S
+#271
+Nightingale Forest~
+~
+0 0 3
+D0
+~
+~
+0 0 270
+D1
+~
+~
+0 0 226
+D2
+~
+~
+0 0 272
+S
+#272
+Nightingale Forest~
+~
+0 0 3
+D0
+~
+~
+0 0 271
+D1
+~
+~
+0 0 227
+D2
+~
+~
+0 0 273
+S
+#273
+Nightingale Forest~
+~
+0 0 3
+D0
+~
+~
+0 0 272
+D1
+~
+~
+0 0 228
+D2
+~
+~
+0 0 274
+S
+#274
+Nightingale Forest~
+~
+0 0 3
+D0
+~
+~
+0 0 273
+D1
+~
+~
+0 0 229
+D2
+~
+~
+0 0 276
+S
+#275
+Nightingale Forest~
+~
+0 0 3
+D0
+~
+~
+0 0 257
+D3
+~
+~
+0 0 326
+S
+#276
+Nightingale Forest~
+~
+0 0 3
+D0
+~
+~
+0 0 274
+D1
+~
+~
+0 0 326
+S
+#277
+Wolf Den~
+~
+0 4 11
+D4
+~
+~
+5 0 269
+S
+#299
+Dark Room~
+Very little light reaches this room.  It seems to have been fashioned as
+a prison chamber.  The walls are lined in manacles and a hole in the wall
+has let in the cold.  
+~
+0 1048584 0
+D4
+~
+~
+5 0 207
+S
+#0
+
+
+
+#SPECIALS
+M 203 spec_cast_adept
+S
+
+
+
+#RESETS
+D 0 206 3 1
+D 0 207 5 5
+D 0 218 2 1
+D 0 219 4 2
+D 0 220 5 2
+D 0 225 0 1
+D 0 230 0 1
+D 0 231 2 1
+D 0 235 1 1
+D 0 236 1 1
+D 0 238 1 1
+D 0 239 0 1
+D 0 239 3 1
+D 0 240 0 1
+D 0 241 2 1
+D 0 242 2 1
+D 0 243 3 1
+D 0 244 0 1
+D 0 245 2 1
+D 0 247 1 1
+D 0 248 0 1
+D 0 248 3 1
+D 0 249 2 1
+D 0 250 0 1
+D 0 251 2 1
+D 0 252 0 1
+D 0 253 2 1
+D 0 269 5 5
+D 0 277 4 5
+D 0 299 4 5
+M 0 200 1 200 1
+M 0 221 20 206 1
+E 0 247 0 12
+M 0 203 1 211 1
+M 0 201 1 212 1
+M 0 202 1 213 1
+E 0 224 0 9
+M 0 213 3 214 1
+E 0 225 0 6
+E 0 226 0 15
+M 0 211 3 215 1
+E 0 230 0 1
+E 0 224 0 9
+M 0 210 3 216 1
+E 0 226 0 15
+E 0 227 0 12
+M 0 212 3 217 1
+E 0 228 0 13
+E 0 231 0 3
+M 0 214 3 218 1
+E 0 222 0 7
+E 0 223 0 8
+E 0 233 0 20
+M 0 215 1 219 1
+E 0 231 0 3
+G 0 299 0
+E 0 232 0 17
+O 0 298 0 220
+M 0 255 10 227 1
+M 0 253 20 229 1
+M 0 204 1 230 1
+G 0 236 0
+G 0 235 0
+G 0 234 0
+G 0 219 0
+M 0 220 20 231 1
+E 0 212 0 16
+M 0 222 20 233 1
+E 0 249 0 10
+M 0 220 20 234 1
+E 0 250 0 1
+M 0 221 20 234 1
+E 0 244 0 9
+E 0 248 0 13
+M 0 222 20 235 1
+E 0 253 0 20
+M 0 224 20 236 1
+E 0 251 0 3
+M 0 222 20 239 1
+E 0 243 0 8
+M 0 221 20 241 1
+E 0 248 0 13
+M 0 224 20 242 1
+E 0 218 0 11
+M 0 220 20 243 1
+E 0 210 0 16
+M 0 221 20 245 1
+E 0 252 0 18
+M 0 220 20 247 1
+E 0 211 0 16
+M 0 221 20 249 1
+E 0 246 0 15
+M 0 221 20 249 1
+E 0 213 0 16
+M 0 221 20 250 1
+E 0 237 0 16
+M 0 220 20 251 1
+E 0 245 0 6
+M 0 221 20 251 1
+E 0 241 0 5
+M 0 221 20 253 1
+E 0 242 0 7
+M 0 222 20 253 1
+E 0 250 0 1
+M 0 253 20 254 1
+M 0 254 20 255 1
+M 0 250 20 258 1
+M 0 253 20 259 1
+M 0 250 20 260 1
+M 0 256 20 261 1
+M 0 252 20 261 1
+M 0 254 20 262 1
+M 0 253 20 264 1
+M 0 256 20 265 1
+M 0 253 20 265 1
+M 0 252 20 266 1
+M 0 252 20 270 1
+M 0 253 20 271 1
+M 0 250 20 272 1
+M 0 253 20 274 1
+M 0 254 20 275 1
+M 0 251 1 277 1
+M 0 216 1 299 1
+E 0 229 0 10
+E 0 230 0 1
+S
+
+
+
+#SHOPS
+204 15 19 17 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#200
+say Oh $N, you are just in time for another lesson!
+~
+#201
+say Welcome to to the Nightingale Academy for Adventurers!
+say To begin your lesson, please head WEST.
+~
+#0
+
+#$

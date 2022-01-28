@@ -1,0 +1,402 @@
+#PLAYER
+Name Dummy~
+Id   1461909357
+LogO 1461911258
+Vers 5
+Prom <%hhp %mm %vmv> {Y(%X) {R(%e){x> ~
+Race human~
+Sex  1
+Clas mage~
+Levl 15
+Tier 1
+Ctier 1
+Sec  0
+Plyd 1901
+Notb  0 0 0 0 0 0
+Scro 22
+Room 300
+HMV  566 573 848 848 199 268
+Plat 0
+Gold 19
+Silv 71
+Exp  15569
+Act  BCDEFGHKOQ
+Comm NOb
+Pos  8
+Prac 59
+Trai 13
+Save  -9
+Alig  0
+Hit   5
+Dam   1
+ACs 37 37 37 71
+Wimp  77
+Attr 17 21 18 18 18
+AMod 0 0 0 0 0
+Pass dummy1~
+Titl  the Newbie~
+Pnts 40
+TSex 1
+LLev 0
+Reca 0
+HMVP 573 848 268
+Cnd  0 0 0 0
+Sk 1 'acid blast'
+Sk 1 'animate'
+Sk 1 'armor'
+Sk 1 'blindness'
+Sk 1 'burning hands'
+Sk 1 'call lightning'
+Sk 1 'calm'
+Sk 1 'cancellation'
+Sk 1 'chain lightning'
+Sk 1 'change sex'
+Sk 1 'charm person'
+Sk 1 'chill touch'
+Sk 1 'colour spray'
+Sk 1 'control weather'
+Sk 1 'curse'
+Sk 1 'detect evil'
+Sk 1 'detect good'
+Sk 1 'detect hidden'
+Sk 1 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'detect poison'
+Sk 1 'dispel magic'
+Sk 1 'energy drain'
+Sk 1 'faerie fire'
+Sk 1 'faerie fog'
+Sk 1 'farsight'
+Sk 1 'fireball'
+Sk 1 'fireproof'
+Sk 1 'fireshield'
+Sk 1 'fly'
+Sk 1 'gate'
+Sk 1 'giant strength'
+Sk 1 'haste'
+Sk 1 'iceshield'
+Sk 1 'identify'
+Sk 1 'infravision'
+Sk 1 'invisibility'
+Sk 1 'know alignment'
+Sk 1 'lightning bolt'
+Sk 1 'locate object'
+Sk 78 'magic missile'
+Sk 1 'mass invis'
+Sk 1 'nexus'
+Sk 1 'pass door'
+Sk 1 'plague'
+Sk 1 'poison'
+Sk 1 'portal'
+Sk 1 'protection evil'
+Sk 1 'protection good'
+Sk 1 'refresh'
+Sk 1 'resurrect'
+Sk 1 'sanctuary'
+Sk 1 'shield'
+Sk 1 'shocking grasp'
+Sk 1 'shockshield'
+Sk 1 'sleep'
+Sk 1 'slow'
+Sk 1 'stone skin'
+Sk 1 'summon'
+Sk 1 'teleport'
+Sk 1 'transport'
+Sk 1 'ventriloquate'
+Sk 1 'voodoo'
+Sk 1 'weaken'
+Sk 1 'word of recall'
+Sk 79 'dagger'
+Sk 1 'lore'
+Sk 1 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'mage basics'
+Gr 'mage default'
+Gr 'beguiling'
+Gr 'combat'
+Gr 'detection'
+Gr 'enhancement'
+Gr 'illusion'
+Gr 'maladictions'
+Gr 'protective'
+Gr 'shielding'
+Gr 'transportation'
+Gr 'weather'
+End
+
+#O
+Vnum 211
+Nest 0
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 210
+Nest 0
+Cond 0
+Wear 16
+Cost 5
+End
+
+#O
+Vnum 246
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 246
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 246
+Nest 0
+Cond 0
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 210
+Nest 0
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 250
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 250
+Nest 0
+Cond 0
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 242
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 211
+Nest 0
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 246
+Nest 0
+Cond 0
+Wear 14
+Cost 0
+End
+
+#O
+Vnum 237
+Nest 0
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 250
+Nest 0
+Cond 0
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 242
+Nest 0
+Cond 0
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 241
+Nest 0
+Cond 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 245
+Nest 0
+Cond 0
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 246
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 211
+Nest 0
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 243
+Nest 0
+Cond 0
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 248
+Nest 0
+Cond 0
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 218
+Nest 0
+Cond 0
+Wear 11
+Cost 5
+End
+
+#O
+Vnum 252
+Nest 0
+Cond 0
+Wear 18
+Cost 0
+End
+
+#O
+Vnum 212
+Nest 0
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 249
+Nest 0
+Cond 0
+Wear 10
+Cost 0
+End
+
+#O
+Vnum 244
+Nest 0
+Cond 0
+Wear 9
+Cost 0
+End
+
+#O
+Vnum 248
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 253
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 250
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 253
+Nest 0
+Cond 0
+Wear 20
+Cost 0
+End
+
+#O
+Vnum 210
+Nest 0
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 247
+Nest 0
+Cond 0
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 249
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 251
+Nest 0
+Cond 0
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 251
+Nest 0
+Cond 0
+Wear 4
+Cost 0
+End
+
+#END

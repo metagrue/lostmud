@@ -1,0 +1,25 @@
+MSVSC solution
+Linux Makefile
+build environment with stripped area files
+live environment with stock area files
+
+201 mortal levels
+3 player tiers
+21 classes
+online skill editor
+online skill group editor
+online social editor
+olc
+new builder commands (fvlist, vlist)
+copyover
+tier based race restriction
+removed several cumbersome const.c structures
+more informative fight system
+more informative practicing
+more informative training
+streamlined channel system
+channel based gocials
+channel based emotes
+automap
+autorun
+enhanced build

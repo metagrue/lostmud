@@ -1,0 +1,858 @@
+#AREADATA
+Name The Undercroft~
+Builders Chaos~
+VNUMs 1800 1999
+Credits { 70 100} Chaos   - The Undercroft~
+Security 9
+RepopMsg You hear a {yrumble{x in the distance.~
+End
+
+
+
+#MOBILES
+#1800
+pegglepop peggle peg pop~
+Pegglepop~
+A short gnoll man is standing behind the counter.
+~
+~
+gnoll~
+AB FHOZ 0 -150 0
+300 300 1080 900d101+25411 300d11+120 76d15+910 none
+-205 -205 -205 -144
+AC SUW SUW Y
+stand stand male 100000
+AHMV ABCDEFGHIJKUV medium unknown
+#1801
+giant bat~
+{Da {yhairy {Dgiant bat{x~
+There is a fairly large hairy bat fluttering about.
+~
+~
+bat~
+AGH TZ 0 200 0
+75 65 1 139d21+271 65d9+6 6d2+11 bite
+-31 -31 -31 -18
+FHR 0 0 S
+stand stand either 0
+AGV ACDEFHJKP huge unknown
+#1802
+vampire bat~
+{Da {rvampire {Dbat{x~
+There is a large black bat resting in a quiet niche of the cave.
+~
+~
+bat~
+ABFG PQTZ 0 -800 0
+80 70 6 175d23+575 70d10+14 10d2+27 drain
+-37 -37 -37 -22
+FHR 0 0 S
+stand stand either 0
+AGV ACDEFHJKP medium unknown
+#1803
+creepy enchanted doll~
+{can {Cenchanted {cdoll{x~
+A strange looking doll floats here, looking at you menacingly.
+~
+~
+doll~
+ABFR DFT D 0 0
+90 70 13 210d24+1695 70d11+28 18d2+59 flbite
+-41 -41 -41 -26
+FG ILMNPQR ES GHJKO
+stand stand none 1000
+EJMc ABCGHK medium unknown
+#1804
+revenant~
+a revenant~
+A nondistinct reanimated corpse is standing here.
+~
+~
+unique~
+ADEFGHILMOPQRSW DEFGHILMOPQRSUW 0 -850 0
+82 95 17 237d31+779 95d10+19 14d2+47 none
+-54 -54 -54 -35
+AC JLMOPQRSUW JLMOPQRSUW AB
+stand stand male 0
+0 0 medium unknown
+#1805
+necromaster ed~
+{DNecromaster {xEd~
+A frail old man dressed in black robes stands behind the counter, grinning behind a single tooth.
+~
+~
+human~
+AB CDEFGc 0 -200 0
+202 202 329 606d68+12221 202d11+80 51d6+418 drain
+-135 -135 -135 -94
+0 AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#1806
+dark ranger~
+a {Ddark {xranger~
+A tall figure all dressed in black
+~
+~
+giant~
+AFGO 0 0 -850 0
+95 80 20 240d27+1937 80d11+32 21d2+74 none
+-48 -48 -48 -32
+0 0 HI JP
+stand stand none 0
+AHMV ABCDEFGHIJK large unknown
+#1807
+reanimated bride~
+a {mreanimated {Wbride{x~
+A reanimated corpse stands here, her dress long rotted to tatters.
+~
+~
+human~
+ABFO DF H -200 0
+95 80 20 240d27+1937 80d11+32 21d2+74 scratch
+-48 -48 -48 -32
+0 AB 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#1808
+trained vampire bat~
+a trained vampire bat~
+There is a large bat here, wearing a collar.
+~
+~
+bat~
+AI TZ 0 0 0
+75 70 6 175d23+575 70d10+14 10d2+27 bite
+-37 -37 -37 -22
+FH AB 0 S
+stand stand either 0
+AGV ACDEFHJKP medium unknown
+#1809
+fleshbeast~
+a {yfleshbeast{x~
+A grotesque abomination carved from flesh and sinew stands before you.
+~
+~
+unique~
+ABFO DF H -1000 0
+110 100 40 300d34+3631 100d11+40 26d2+110 beating
+-62 -62 -62 -42
+DH P 0 AB
+stand stand none 0
+ABIV ABCDEFGHIJK giant unknown
+#0
+
+
+
+#OBJECTS
+#1800
+cursed ring~
+{wa {Dcursed onyx {wring{x~
+There is a black hoop laying in the dirt.~
+onxy~
+jewelry MU AB
+0 0 0 0 0
+70 70 1 1500 P
+A
+3 2
+A
+4 1
+A
+1 -4
+A
+12 100
+#1801
+obsidian longsword~
+an {Dobsidian{x longsword~
+A huge obsidian sword has been left here.~
+obsidian~
+weapon AE AN
+sword 9 14 slash CEF
+80 80 8 83 P
+A
+18 7
+A
+19 7
+#1802
+tattered wedding veil~
+a tattered wedding veil~
+A crumpled piece of lace lies discarded on the floor.~
+lace~
+armor BSY AR
+BE BE BE AD 0
+90 85 8 23 P
+A
+4 1
+#1803
+fancy shoes~
+a fancy pair of shoes~
+A pair of oddly pristine shoes are sitting in the corner of the room.~
+leather~
+armor GMU AG
+ABE ABE ABE AD 0
+90 90 10 27 P
+F
+A 0 1 V
+#1804
+fleshcrafter fleshcrafters mitts~
+{Da pair of {mfleshcrafter's {Dmitts{x~
+A grotesque looking pair of gloves has been left here.~
+unknown~
+armor ABEG AH
+ACE ACE ACE BD 0
+100 100 12 33 P
+A
+4 1
+A
+3 1
+A
+5 -1
+#1890
+broken gizmo~
+a broken gizmo~
+There is a broken gizmo laying on the ground.~
+unknown~
+trash 0 0
+0 0 0 0 0
+60 60 4 10 P
+#1891
+diamond necklace~
+{wa {Wdiamond{w necklace~
+A small glint of silver catches your eye.~
+diamond~
+trash 0 AC
+0 0 0 0 0
+60 60 1 1000 P
+A
+5 -1
+A
+4 1
+A
+3 1
+#0
+
+
+
+#ROOMS
+#1800
+Cave Enterance~
+~
+0 9 11
+D0
+~
+~
+0 0 1801
+D1
+~
+~
+0 0 1803
+D2
+~
+wall~
+5 0 909
+S
+#1801
+A Cave~
+~
+0 9 11
+D0
+~
+~
+0 0 1802
+D1
+~
+~
+0 0 1804
+D2
+~
+~
+0 0 1800
+S
+#1802
+A Cave~
+~
+0 9 11
+D0
+~
+~
+0 0 1812
+D1
+~
+~
+0 0 1805
+D2
+~
+~
+0 0 1801
+D3
+~
+~
+0 0 1806
+S
+#1803
+A Cave~
+~
+0 9 11
+D0
+~
+~
+0 0 1804
+D1
+~
+~
+0 0 1819
+D3
+~
+~
+0 0 1800
+S
+#1804
+A Cave~
+~
+0 9 11
+D0
+~
+~
+0 0 1805
+D1
+~
+~
+0 0 1818
+D2
+~
+~
+0 0 1803
+D3
+~
+~
+0 0 1801
+S
+#1805
+A Cave~
+~
+0 9 11
+D0
+~
+~
+0 0 1813
+D1
+~
+~
+0 0 1817
+D2
+~
+~
+0 0 1804
+D3
+~
+~
+0 0 1802
+S
+#1806
+Cavern Junction~
+~
+0 9 11
+D1
+~
+~
+0 0 1802
+D3
+~
+~
+0 0 1811
+S
+#1807
+Pegglepop's General Shoppe~
+~
+0 9 0
+D2
+~
+door~
+1 0 1808
+S
+#1808
+A Cave~
+~
+0 9 11
+D0
+~
+door~
+1 0 1807
+D2
+~
+secret~
+5 0 1837
+D3
+~
+~
+0 0 1809
+S
+#1809
+A Cave~
+~
+0 9 11
+D0
+~
+~
+0 0 1810
+D1
+~
+~
+0 0 1808
+D3
+~
+~
+0 0 1815
+S
+#1810
+A Cave~
+~
+0 9 11
+D0
+~
+~
+0 0 1811
+D2
+~
+~
+0 0 1809
+D3
+~
+~
+0 0 1814
+S
+#1811
+A Cave~
+~
+0 9 11
+D1
+~
+~
+0 0 1806
+D2
+~
+~
+0 0 1810
+S
+#1812
+A Cave~
+~
+0 9 11
+D1
+~
+~
+0 0 1813
+D2
+~
+~
+0 0 1802
+S
+#1813
+A Cave~
+~
+0 9 11
+D1
+~
+~
+0 0 1816
+D2
+~
+~
+0 0 1805
+D3
+~
+~
+0 0 1812
+S
+#1814
+A Cave~
+~
+0 9 11
+D0
+~
+door~
+1 0 1822
+D1
+~
+~
+0 0 1810
+D2
+~
+~
+0 0 1815
+D3
+~
+secret~
+5 0 1834
+S
+#1815
+A Cave~
+~
+0 9 11
+D0
+~
+~
+0 0 1814
+D1
+~
+~
+0 0 1809
+S
+#1816
+A Cave~
+~
+0 9 11
+D0
+~
+secret~
+5 0 1824
+D2
+~
+~
+0 0 1817
+D3
+~
+~
+0 0 1813
+S
+#1817
+A Cave~
+~
+0 9 11
+D0
+~
+~
+0 0 1816
+D2
+~
+~
+0 0 1818
+D3
+~
+~
+0 0 1805
+S
+#1818
+A Cave~
+~
+0 9 11
+D0
+~
+~
+0 0 1817
+D2
+~
+~
+0 0 1819
+D3
+~
+~
+0 0 1804
+S
+#1819
+A Cave~
+~
+0 9 11
+D0
+~
+~
+0 0 1818
+D2
+~
+door~
+1 0 1821
+D3
+~
+~
+0 0 1803
+S
+#1820
+Stone Room~
+~
+0 9 0
+D1
+~
+~
+0 0 1821
+S
+#1821
+Stone Room~
+~
+0 9 0
+D0
+~
+door~
+1 0 1819
+D3
+~
+~
+0 0 1820
+S
+#1822
+Pet Shop of Horrors~
+~
+0 1061897 0
+D2
+~
+door~
+1 0 1814
+S
+#1823
+Warehouse of Horrors~
+~
+0 0 0
+D4
+~
+~
+0 0 1822
+S
+#1824
+A Dark Cave~
+~
+0 9 11
+D2
+~
+secret~
+5 0 1816
+D3
+~
+~
+0 0 1825
+S
+#1825
+A Dark Cave~
+~
+0 9 11
+D1
+~
+~
+0 0 1824
+D3
+~
+~
+0 0 1826
+S
+#1826
+A Dark Cave~
+~
+0 9 11
+D1
+~
+~
+0 0 1825
+D3
+~
+~
+0 0 1827
+S
+#1827
+A Dark Cave~
+~
+0 9 11
+D1
+~
+~
+0 0 1826
+D2
+~
+~
+0 0 1828
+D3
+~
+~
+0 0 1830
+S
+#1828
+A Dark Cave~
+~
+0 9 11
+D0
+~
+~
+0 0 1827
+D3
+~
+~
+0 0 1829
+S
+#1829
+A Dark Cave~
+~
+0 9 11
+D0
+~
+~
+0 0 1830
+D1
+~
+~
+0 0 1828
+D3
+~
+~
+0 0 1831
+S
+#1830
+A Dark Cave~
+~
+0 9 11
+D1
+~
+~
+0 0 1827
+D2
+~
+~
+0 0 1829
+S
+#1831
+A Dark Cave~
+~
+0 9 11
+D0
+~
+door~
+1 0 1836
+D1
+~
+~
+0 0 1829
+D3
+~
+~
+0 0 1832
+S
+#1832
+A Dark Cave~
+~
+0 9 11
+D0
+~
+door~
+1 0 1835
+D1
+~
+~
+0 0 1831
+D2
+~
+~
+0 0 1833
+S
+#1833
+A Dark Cave~
+~
+0 9 11
+D0
+~
+~
+0 0 1832
+D2
+~
+~
+0 0 1834
+S
+#1834
+A Dark Cave~
+~
+0 9 11
+D0
+~
+~
+0 0 1833
+D1
+~
+secret~
+5 0 1814
+S
+#1835
+A Crypt~
+~
+0 0 0
+D2
+~
+door~
+1 0 1832
+S
+#1836
+A Crypt~
+~
+0 0 0
+D2
+~
+door~
+1 0 1831
+S
+#1837
+Hidden Crypt~
+~
+0 0 0
+D0
+~
+secret~
+5 0 1808
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 1800 2 5
+D 0 1807 2 1
+D 0 1808 0 1
+D 0 1808 2 5
+D 0 1814 0 1
+D 0 1814 3 5
+D 0 1816 0 5
+D 0 1819 2 1
+D 0 1821 0 1
+D 0 1822 2 1
+D 0 1824 2 5
+D 0 1831 0 1
+D 0 1832 0 1
+D 0 1834 1 5
+D 0 1835 2 1
+D 0 1836 2 1
+D 0 1837 0 5
+M 0 1802 20 1800 2
+M 0 1801 20 1801 2
+M 0 1802 20 1806 2
+M 0 1800 1 1807 1
+G 0 1891 0
+G 0 1890 0
+M 0 1802 20 1808 2
+M 0 1803 1 1809 1
+E 0 1800 0 1
+M 0 1801 20 1810 2
+M 0 1802 20 1812 2
+M 0 1801 20 1815 2
+M 0 1801 20 1816 2
+M 0 1805 1 1822 1
+M 0 1804 20 1823 20
+M 0 1808 20 1823 20
+M 0 1806 1 1828 1
+E 0 1801 0 16
+M 0 1807 1 1836 1
+E 0 1802 0 20
+M 0 1809 1 1837 1
+E 0 1804 0 9
+S
+
+
+
+#SHOPS
+1800 32 8 0 33 13 110 90 6 18
+1805 0 0 0 0 0 120 87 12 24
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

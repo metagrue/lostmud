@@ -1,0 +1,2228 @@
+#AREADATA
+Name Mountain Pass~
+Builders Chaos~
+VNUMs 700 799
+Credits { 15  30} Chaos   - Mountain Pass~
+Security 9
+RepopMsg The sound of shouting rings throughout the mountains.~
+End
+
+
+
+#MOBILES
+#700
+chipmunk~
+a chipmunk~
+A small brown rodent is here.
+~
+~
+rodent~
+ACGU Z 0 500 0
+13 10 0 21d3+91 10d9+1 1d2+1 bite
+3 3 3 5
+FHU 0 0 0
+stand stand either 0
+AGV ACDEFHJK tiny unknown
+#701
+black bear~
+a black bear~
+A huge black bear is here, scratching itself.
+~
+~
+bear~
+AGU 0 0 0 0
+21 15 0 37d5+152 15d10+3 2d6+4 claw
+0 0 0 2
+DEO 0 EI 0
+stand stand either 0
+AGV ABCDEFHJKUV large unknown
+#702
+mountain goat~
+A mountain goat~
+A mountain goat gazes down upon you.
+~
+~
+bovine~
+A 0 0 -600 0
+23 12 0 30d4+122 12d10+2 2d2+3 charge
+1 1 1 3
+FI 0 Q 0
+stand stand either 0
+AGV ACDEFHJKLQW medium unknown
+M RANDOM 702 1~
+M RANDOM 703 10~
+M GREET 703 20~
+#703
+domestic mountain goat~
+A mountain goat~
+A mountain goat frolics around in the pen.
+~
+~
+bovine~
+ABU 0 0 -300 0
+18 12 0 30d4+122 12d10+2 2d2+3 charge
+1 1 1 3
+FHIU AB Q 0
+stand stand none 0
+AGV ACDEFHJKLQW medium unknown
+M RANDOM 703 5~
+#704
+annoying song bird~
+an annoying songbird~
+A small red bird chirps loudly.
+~
+~
+song bird~
+ACU T 0 0 0
+22 12 0 1d1+129 12d10+2 1d2+3 peck
+1 1 1 3
+FH 0 0 0
+stand stand either 0
+AGW ACDEFHKP small unknown
+#705
+tunnel worm~
+a tunnel worm~
+A black worm roughly the size of a banana is making an awful racket.
+~
+~
+unique~
+ACFUY DFO H 0 0
+26 19 6 40d6+173 19d9+1 1d2+1 bite
+-2 -2 -2 1
+AH ABQSUW GLSUW E
+stand stand none 0
+ABR DMQV small unknown
+#706
+giant tunnel queen worm~
+The Tunnel Queen~
+There is a grotesque giant black tunnel worm here.
+~
+~
+unique~
+ABFU DF H 0 0
+30 18 2 54d7+182 18d11+7 2d6+8 digestion
+-4 -4 -4 0
+AHO ABQ GL E
+stand stand female 0
+ABR DMQV giant unknown
+#707
+dire wolf~
+A Direwolf~
+A gigantic wolf is here.
+~
+~
+dog~
+AFG DFHO 0 -200 0
+30 20 2 60d7+243 20d11+8 6d2+14 bite
+-5 -5 -5 -1
+H IJSUW FGIJSUW 0
+stand stand either 0
+AGV ACDEFHJKUV huge unknown
+#708
+mountain lion~
+a mountain lion~
+A giant yellow cat is here.
+~
+~
+cat~
+AFG Z 0 0 0
+30 20 0 60d7+243 20d11+8 6d2+14 scratch
+-5 -5 -5 -1
+FH 0 EFG 0
+stand stand either 0
+AGV ACDEFHJKQUV large unknown
+#710
+orc shepherd~
+an orcish shepherd~
+An old orc is here, resting on a cane.
+~
+~
+orc~
+AB J 0 -300 0
+25 20 0 50d6+203 20d10+4 3d2+5 pound
+-3 -3 -3 0
+IQR 0 Q S
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#711
+orc sentry~
+An orc sentry~
+A huge orc glares at you from behind a hide mask.
+~
+~
+orc~
+ABF J 0 -500 0
+25 15 0 37d5+152 15d10+3 2d2+4 punch
+0 0 0 2
+INR 0 Q S
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#712
+ubrak orking fat orc king~
+Ubrak Orking~
+A gigantic and fat orc sits on a chair fashioned from bones.
+~
+~
+orc~
+ABH DFJ 0 -1000 0
+27 25 0 62d8+253 25d10+5 3d2+6 slap
+-7 -7 -7 -1
+CIO AB Q S
+stand stand male 0
+ABHMV ABCDEFGHIJK huge unknown
+M GREET 712 100~
+#713
+dagome orc chef~
+Dagome, the Chef~
+An orc dressed in a bloody white apron stands here, chopping meat.
+~
+~
+orc~
+AB J 0 0 0
+300 300 1080 900d101+18181 300d11+120 76d15+155 cleave
+-205 -205 -205 -144
+0 0 Q S
+stand stand male 5000
+AHMV ABCDEFGHIJK medium unknown
+#714
+orc laborer~
+an orc laborer~
+An orc laborer toils away.
+~
+~
+orc~
+ACH J 0 -600 0
+23 12 0 25d4+110 12d9+1 1d2+1 punch
+1 1 1 4
+IR 0 Q S
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+M RANDOM 706 1~
+#715
+elite orc guard~
+an elite orc guard~
+A huge orc in battered plate is standing here, glaring at you.
+~
+~
+orc~
+ABCF DFJa 0 -800 0
+25 20 0 50d6+83 20d10+4 3d2+5 punch
+-3 -3 -3 0
+FKRU 0 Q S
+stand stand male 0
+AHMV ABCDEFGHIJK large unknown
+#716
+naked harem girl~
+A naked girl~
+There is a beautiful naked girl chained to the bed. She can't be much older than sixteen.
+~
+She is gorgeous, nubile and young.  And save for a metal ankle bracelet,
+she is also very naked.  She blushes as you inspect her predicament.  
+~
+human~
+AB 0 H 100 0
+20 10 0 21d3+21 10d9+1 1d2+1 scratch
+3 3 3 5
+FH AB EFG 0
+stand stand none 0
+AHMV ABCDEFGHIJK small unknown
+M GREET 716 10~
+#0
+
+
+
+#OBJECTS
+#700
+goat dung~
+some goat dung~
+There is a pile of dung.~
+poop~
+light 0 A
+0 0 CD 0 0
+10 10 1 0 P
+#701
+worm carapace shield~
+worm carapace shield~
+A large grotesque looking shield fashioned from wormhide is here.~
+wormhide~
+armor 0 AJ
+BC BC BC AB 0
+20 25 1 5 P
+A
+13 100
+A
+14 50
+#703
+orc hide sleeves~
+some hide sleeves~
+A pair of hide sleeves have been left here.~
+hide~
+armor 0 AI
+AC AC AC B 0
+15 20 21 0 P
+#704
+orc lumberjack axe~
+a {Dblack iron {raxe{x~
+A large axe meant for cutting logs has been left here.~
+black iron~
+weapon 0 AN
+axe 2 6 cleave DF
+15 10 1 5 P
+#705
+orc work hammer~
+a work hammer~
+A large stone construction hammer is here.~
+stone~
+weapon 0 AN
+mace 2 10 crush F
+15 15 1 5 P
+A
+18 1
+A
+19 1
+#706
+orc labor gloves~
+some labor gloves~
+A pair of leather gloves has been left here.~
+hide~
+armor 0 AH
+AC AC AC B 0
+15 20 1 5 P
+#707
+bear claw~
+a bear claw~
+A severed bear's paw is laying here.~
+bear~
+weapon M AN
+exotic 1 14 claw D
+10 9 1 5 P
+A
+19 1
+A
+18 1
+#708
+orc shepherd cane~
+shepherd cane~
+A long wooden cane is discarded here.~
+wood~
+weapon 0 AN
+polearm 2 8 thwack F
+15 10 1 5 P
+#709
+black iron shortsword short sword~
+a {Dblack iron{x short sword~
+A ragged looking orcish sword is here.~
+black iron~
+weapon 0 AN
+sword 2 6 slash D
+15 10 1 5 P
+A
+19 1
+A
+18 1
+#710
+orc hide mask~
+a hide mask~
+A pile of leather scraps lays here.~
+hide~
+armor 0 AR
+AC AC AC B 0
+15 20 1 5 P
+#711
+orc hide armor~
+hide armor~
+A suit of rough leather armor rests here, undisturbed.~
+hide~
+armor 0 AD
+AC AC AC B 0
+15 20 1 5 P
+#712
+very airy robes~
+very airy robes~
+A pile of silk cloth lays here.~
+silk~
+armor 0 AK
+BC BC BC AB 0
+15 25 1 5 P
+A
+3 1
+#713
+crown of bones~
+a crown of bones~
+There is a crown fashioned from human jawbones here.~
+bone~
+armor 0 AE
+BC BC BC AB 0
+15 25 1 5 P
+#714
+orc shepherd pants~
+a pair of shepherd's pants~
+An old pair of pants which reeks of goat lays here.~
+hide~
+armor 0 AF
+AC AC AC B 0
+15 20 1 5 P
+A
+2 1
+A
+18 2
+#715
+orc work boots~
+some old work boots~
+A pair of old work boots has been left here. At least they're both together.~
+hide~
+armor 0 AG
+AC AC AC B 0
+10 20 1 5 P
+#716
+silken cord~
+a silken cord~
+A fine silken cord is resting here.~
+silk~
+armor G AL
+BC BC BC AB 0
+15 25 1 5 P
+A
+20 -1
+#717
+wolfpelt~
+a Wolfpelt~
+A discarded wolfpelt lays here.~
+fur~
+armor 0 AK
+AB AB AB ABC 0
+20 30 1 5 P
+#718
+claw ring~
+a claw ring~
+A small ring fashioned from a claw has been left here.~
+unknown~
+jewelry G AB
+0 0 0 0 0
+20 30 0 0 P
+A
+19 1
+A
+2 1
+#719
+beaten iron pants~
+beaten iron pants~
+An old pair of iron leggings is here gathering rust.~
+iron~
+armor 0 AF
+ABC ABC ABC AB 0
+20 30 1 5 P
+A
+1 1
+#720
+iron bracelet~
+an iron bracelet~
+There is a heavy loop of iron sitting on the ground.~
+iron~
+armor 0 AM
+ABC ABC ABC AB 0
+20 30 1 5 P
+A
+13 50
+#721
+cord beads~
+a cord of beads~
+A flimsy hoop of beads is here.~
+pearl~
+jewelry BM AL
+0 0 0 0 0
+10 15 1 1000 P
+A
+5 1
+A
+6 2
+#722
+serpentine cord~
+a serpentine cord~
+A hoop made of onyx rests here.~
+onyx~
+jewelry G AI
+0 0 0 0 0
+0 0 1 1000 P
+A
+3 1
+#752
+fire pit firepit~
+a firepit~
+A huge firepit crackles and burns. Several logs are scattered around it.~
+unknown~
+furniture A 0
+CE DFGHIJ DGJ BCDFG ADFG
+0 0 0 0 P
+#789
+bloody apron~
+a {rbloody {Wapron{x~
+A bloody apron has been left here.~
+cloth~
+armor 0 AD
+0 0 0 0 0
+1 1 0 0 P
+#790
+rump roast~
+a {rrump roast{x~
+A large chunk of charred flesh is collecting maggots.~
+mystery meat~
+food 0 A
+BC BC 0 0 0
+0 0 2 100 P
+#791
+chunk mystery meat~
+a chunk of {mmystery {rmeat{x~
+A large chunk of meat is here collecting maggots.~
+mystery meat~
+food 0 A
+CD BD 0 0 0
+0 0 1 250 P
+#792
+fresh berries~
+some fresh berries~
+A handful of fresh picked berries are here.~
+berries~
+food V A
+AB AB 0 0 0
+0 0 1 50 P
+#793
+dark red jar blood~
+a {rdark red{x jar~
+A jar filled with a dark red liquid is here.~
+glass~
+drink Y AO
+200 200 'blood' 0 0
+0 0 2 200 P
+#798
+muddy water hole pool~
+a muddy watering hole~
+A muddy pool of water rests here.~
+mud~
+fountain 0 0
+0 0 'water' 0 0
+0 0 0 0 P
+#799
+berry bush~
+a berry bush~
+There is a large bush here.~
+plant~
+container 0 0
+0 0 0 1 0
+0 0 0 0 P
+E
+bush~
+There appears to be some berries growing here.
+~
+#0
+
+
+
+#ROOMS
+#700
+Mountain Pass~
+~
+0 0 3
+D0
+~
+~
+0 0 396
+D2
+~
+~
+0 0 701
+S
+#701
+A Mountain Pass~
+~
+0 0 3
+D0
+~
+~
+0 0 700
+D3
+~
+~
+0 0 703
+S
+#702
+Foothills~
+~
+0 0 3
+D1
+~
+~
+0 0 703
+D2
+~
+~
+0 0 734
+D3
+~
+~
+0 0 736
+S
+#703
+Foothills~
+~
+0 0 3
+D1
+~
+~
+0 0 701
+D2
+~
+~
+0 0 704
+D3
+~
+~
+0 0 702
+S
+#704
+Foothills~
+~
+0 0 4
+D0
+~
+~
+0 0 703
+D2
+~
+~
+0 0 705
+D3
+~
+~
+0 0 734
+S
+#705
+Foothills~
+~
+0 0 4
+D0
+~
+~
+0 0 704
+D1
+~
+rockface~
+5 0 793
+D3
+~
+~
+0 0 706
+S
+#706
+Foothills~
+~
+0 0 4
+D0
+~
+~
+0 0 734
+D1
+~
+~
+0 0 705
+D3
+~
+~
+0 0 707
+S
+#707
+Foothills~
+~
+0 0 4
+D0
+~
+~
+0 0 735
+D1
+~
+~
+0 0 706
+D2
+~
+~
+0 0 708
+S
+#708
+Path up the Mountain~
+~
+0 0 4
+D0
+~
+~
+0 0 707
+D4
+~
+~
+0 0 709
+S
+#709
+A Mountain Path~
+You are on a mountain path.  The air sure is clean up here.  The path
+continues south.  There is a rocky exposure where you can climb down into
+the valley.  
+~
+0 0 5
+D2
+~
+~
+0 0 710
+D5
+~
+~
+0 0 708
+S
+#710
+A Mountain Path~
+You are on a mountain path.  The air sure is clean up here.  The path
+continues north and south.  
+~
+0 0 5
+D0
+~
+~
+0 0 709
+D2
+~
+~
+0 0 711
+S
+#711
+A Mountain Path~
+You are on a mountain path.  The air sure is clean up here.  The path
+continues north and south.  There is a clearing east of here.  
+~
+0 0 5
+D0
+~
+~
+0 0 710
+D1
+~
+~
+0 0 740
+D2
+~
+~
+0 0 712
+S
+#712
+A Mountain Path~
+You are on a mountain path.  The air sure is clean up here.  The path
+continues north and south.  There is a clearing east of here.  You think you
+might see smoke.  
+~
+0 0 5
+D0
+~
+~
+0 0 711
+D1
+~
+~
+0 0 713
+D2
+~
+~
+0 0 737
+S
+#713
+Mountain Region~
+~
+0 0 5
+D0
+~
+~
+0 0 740
+D1
+~
+~
+0 0 745
+D2
+~
+~
+0 0 714
+D3
+~
+~
+0 0 712
+S
+#714
+Mountain Region~
+~
+0 0 5
+D0
+~
+~
+0 0 713
+D1
+~
+~
+0 0 739
+D2
+~
+~
+0 0 715
+D3
+~
+~
+0 0 737
+S
+#715
+A Mountain Path~
+You are on a mountain path.  The air sure is clean up here.  The path
+continues east and west.  To the north is a clearing.  
+~
+0 0 5
+D0
+~
+~
+0 0 714
+D1
+~
+~
+0 0 716
+D3
+~
+~
+0 0 738
+S
+#716
+A Mountain Path~
+You are on a mountain path.  The air sure is clean up here.  The path
+continues east and west.  To the north is a clearing.  
+~
+0 0 5
+D0
+~
+~
+0 0 739
+D1
+~
+~
+0 0 717
+D3
+~
+~
+0 0 715
+S
+#717
+A Mountain Path~
+The path is extremely narrow and treacherous here.  On one side is a
+practically sheer cliff and on the other is a hundred foot vertical drop. 
+The path continues east and west.  
+
+There is a worn sign here that reads: "PATH AHEAD DANGEROUS. BE CAREFUL!"
+~
+0 0 5
+D1
+~
+~
+0 0 718
+D3
+~
+~
+0 0 716
+S
+#718
+A Mountain Path~
+You are on a narrow mountain path.  On one side is a sheer rock wall, on
+the other is a vertical drop.  The path seems to continue up and west.  
+~
+0 0 5
+D3
+~
+~
+0 0 717
+D4
+~
+~
+0 0 719
+S
+#719
+A Mountain Path~
+~
+0 0 5
+D2
+~
+~
+0 0 720
+D5
+~
+~
+0 0 718
+S
+#720
+A Mountain Path~
+~
+0 0 5
+D0
+~
+~
+0 0 719
+D2
+~
+~
+0 0 721
+S
+#721
+A Mountain Path~
+~
+0 0 5
+D0
+~
+~
+0 0 720
+D2
+~
+~
+0 0 741
+D3
+~
+~
+0 0 722
+S
+#722
+A Great Cliff~
+~
+0 0 5
+D1
+~
+~
+0 0 721
+D2
+~
+~
+0 0 723
+S
+#723
+A Great Cliff~
+~
+0 0 5
+D0
+~
+~
+0 0 722
+D1
+~
+~
+0 0 741
+D2
+~
+~
+0 0 724
+S
+#724
+A Great Cliff~
+~
+0 0 5
+D0
+~
+~
+0 0 723
+D1
+~
+~
+0 0 742
+D2
+~
+~
+0 0 725
+S
+#725
+A Great Cliff~
+~
+0 0 5
+D0
+~
+~
+0 0 724
+D1
+~
+~
+0 0 726
+S
+#726
+A Mountain Path~
+~
+0 0 5
+D0
+~
+~
+0 0 742
+D1
+~
+~
+0 0 727
+D3
+~
+~
+0 0 725
+S
+#727
+A Mountain Path~
+~
+0 0 5
+D0
+~
+~
+0 0 743
+D1
+~
+~
+0 0 728
+D3
+~
+~
+0 0 726
+S
+#728
+A Mountain Path~
+~
+0 0 5
+D3
+~
+~
+0 0 727
+D5
+~
+~
+0 0 729
+S
+#729
+A Stoney Path~
+~
+0 0 5
+D2
+~
+~
+0 0 730
+D4
+~
+~
+0 0 728
+S
+#730
+A Stoney Path~
+~
+0 0 5
+D0
+~
+~
+0 0 729
+D1
+~
+~
+0 0 731
+S
+#731
+A Stoney Path~
+~
+0 0 5
+D1
+~
+~
+0 0 732
+D2
+~
+~
+0 0 744
+D3
+~
+~
+0 0 730
+S
+#732
+A Craggy Exposure~
+~
+0 0 5
+D2
+~
+~
+0 0 733
+D3
+~
+~
+0 0 731
+S
+#733
+Before the Sand Sea~
+~
+0 0 10
+D0
+~
+~
+0 0 732
+D1
+~
+~
+0 0 902
+D3
+~
+~
+0 0 744
+S
+#734
+Foothills~
+~
+0 0 3
+D0
+~
+~
+0 0 702
+D1
+~
+~
+0 0 704
+D2
+~
+~
+0 0 706
+D3
+~
+~
+0 0 735
+S
+#735
+Foothills~
+~
+0 0 4
+D0
+~
+~
+0 0 736
+D1
+~
+~
+0 0 734
+D2
+~
+~
+0 0 707
+S
+#736
+Foothills~
+~
+0 0 3
+D1
+~
+~
+0 0 702
+D2
+~
+~
+0 0 735
+S
+#737
+A Mountain Path~
+You are on a mountain path.  The air sure is clean up here.  The path
+continues north and south.  There is a clearing east of here.  
+~
+0 0 5
+D0
+~
+~
+0 0 712
+D1
+~
+~
+0 0 714
+D2
+~
+~
+0 0 738
+S
+#738
+Mountain Vista~
+You stand at a majestic mountain peak.  The visibility here is insane and
+you can see for miles.  To the south appears to be a desert.  To the north
+is a large town.
+~
+0 0 5
+D0
+~
+~
+0 0 737
+D1
+~
+~
+0 0 715
+S
+#739
+Mountain Region~
+~
+0 0 5
+D0
+~
+~
+0 0 745
+D2
+~
+~
+0 0 716
+D3
+~
+~
+0 0 714
+S
+#740
+Mountain Region~
+~
+0 0 5
+D2
+~
+~
+0 0 713
+D3
+~
+~
+0 0 711
+S
+#741
+A Mountain Path~
+~
+0 0 5
+D0
+~
+~
+0 0 721
+D2
+~
+~
+0 0 742
+D3
+~
+~
+0 0 723
+S
+#742
+A Mountain Path~
+~
+0 0 5
+D0
+~
+~
+0 0 741
+D2
+~
+~
+0 0 726
+D3
+~
+~
+0 0 724
+S
+#743
+A Mountain Cave~
+~
+0 9 11
+D0
+~
+secret~
+5 0 775
+D2
+~
+~
+0 0 727
+D5
+~
+secret~
+5 0 774
+S
+#744
+A Stoney Path~
+~
+0 0 5
+D0
+~
+~
+0 0 731
+D1
+~
+~
+0 0 733
+S
+#745
+A Crude Orc Gate~
+~
+0 0 5
+D1
+~
+gate~
+1 0 748
+D2
+~
+~
+0 0 739
+D3
+~
+gate~
+0 0 713
+S
+#746
+Orc Cave~
+~
+0 0 11
+D2
+~
+~
+0 0 771
+D3
+~
+gateway~
+1 0 765
+S
+#747
+Dirt Path~
+~
+0 0 1
+D0
+~
+~
+0 0 757
+D1
+~
+~
+0 0 752
+D2
+~
+~
+0 0 748
+S
+#748
+Enterance to an Orc Village~
+~
+0 0 1
+D0
+~
+~
+0 0 747
+D1
+~
+~
+0 0 751
+D2
+~
+gate~
+0 0 749
+D3
+~
+gate~
+1 0 745
+S
+#749
+Mess Hall~
+~
+0 0 11
+D0
+~
+~
+0 0 748
+S
+#750
+Farm~
+~
+0 0 1
+D0
+~
+~
+0 0 751
+D1
+~
+~
+0 0 762
+S
+#751
+Dirt Path~
+~
+0 0 1
+D0
+~
+~
+0 0 752
+D1
+~
+~
+0 0 761
+D2
+~
+~
+0 0 750
+D3
+~
+~
+0 0 748
+S
+#752
+Firepit~
+~
+0 0 1
+D0
+~
+~
+0 0 758
+D1
+~
+~
+0 0 763
+D2
+~
+~
+0 0 751
+D3
+~
+~
+0 0 747
+S
+#753
+Dirt Path~
+~
+0 0 1
+D1
+~
+~
+0 0 757
+D3
+~
+gate~
+0 0 754
+S
+#754
+Barracks~
+~
+0 0 11
+D0
+~
+~
+0 0 755
+D1
+~
+~
+0 0 753
+S
+#755
+Barracks~
+~
+0 0 11
+D0
+~
+~
+0 0 772
+D1
+~
+~
+0 0 756
+D2
+~
+~
+0 0 754
+S
+#756
+Barracks~
+~
+0 0 11
+D1
+~
+gate~
+1 0 759
+D3
+~
+~
+0 0 755
+S
+#757
+Dirt Path~
+~
+0 0 1
+D1
+~
+~
+0 0 758
+D2
+~
+~
+0 0 747
+D3
+~
+~
+0 0 753
+S
+#758
+Dirt Path~
+~
+0 0 1
+D0
+~
+gate~
+1 0 760
+D1
+~
+~
+0 0 764
+D2
+~
+~
+0 0 752
+D3
+~
+~
+0 0 757
+S
+#759
+Orc Fortress~
+~
+0 0 11
+D0
+~
+~
+0 0 767
+D1
+~
+~
+0 0 760
+D3
+~
+gate~
+1 0 756
+S
+#760
+Orc Fortress~
+~
+0 0 11
+D1
+~
+~
+0 0 765
+D2
+~
+gate~
+1 0 758
+D3
+~
+~
+0 0 759
+S
+#761
+Dirt Path~
+~
+0 0 1
+D0
+~
+~
+0 0 763
+D2
+~
+~
+0 0 762
+D3
+~
+~
+0 0 751
+S
+#762
+Farm~
+~
+0 0 1
+D0
+~
+~
+0 0 761
+D3
+~
+~
+0 0 750
+S
+#763
+Dirt Path~
+~
+0 0 1
+D0
+~
+~
+0 0 764
+D1
+~
+~
+0 0 770
+D2
+~
+~
+0 0 761
+D3
+~
+~
+0 0 752
+S
+#764
+Dirt Path~
+~
+0 0 1
+D2
+~
+~
+0 0 763
+D3
+~
+~
+0 0 758
+S
+#765
+Orc Fortress~
+~
+0 0 11
+D0
+~
+~
+0 0 766
+D1
+~
+gateway~
+1 0 746
+D3
+~
+~
+0 0 760
+S
+#766
+Orc Fortress~
+~
+0 0 11
+D2
+~
+~
+0 0 765
+D3
+~
+~
+0 0 768
+S
+#767
+Orc Fortress~
+~
+0 0 11
+D1
+~
+~
+0 0 768
+D2
+~
+~
+0 0 759
+S
+#768
+Orc Fortress~
+~
+0 0 11
+D0
+~
+gate~
+1 0 769
+D1
+~
+~
+0 0 766
+D3
+~
+~
+0 0 767
+S
+#769
+The Throne Room~
+~
+0 0 11
+D2
+~
+gate~
+1 0 768
+D5
+~
+~
+0 0 796
+S
+#770
+Orc Cave~
+~
+0 0 11
+D0
+~
+~
+0 0 771
+D3
+~
+gate~
+0 0 763
+S
+#771
+Orc Cave~
+~
+0 0 11
+D0
+~
+~
+0 0 746
+D2
+~
+~
+0 0 770
+S
+#772
+Barracks~
+~
+0 0 11
+D1
+~
+gate~
+1 0 773
+D2
+~
+~
+0 0 755
+S
+#773
+Armory~
+~
+0 0 11
+D3
+~
+gate~
+1 0 772
+S
+#774
+Inside the Mountain~
+~
+0 0 11
+D4
+~
+~
+5 0 743
+S
+#775
+A Tight Passage~
+~
+0 1048585 11
+D1
+~
+~
+0 0 776
+D2
+~
+secret~
+5 0 743
+S
+#776
+A Tight Passage~
+It's a narrow, dark and uncomfortable passage through a rock.  Judging
+from the height it may have been carved by a dwarf.  Obvious paths continue
+east and west.  
+~
+0 1048585 11
+D1
+~
+~
+0 0 777
+D3
+~
+~
+0 0 775
+S
+#777
+A Tight Passage~
+It's a narrow, dark and uncomfortable passage through a rock.  Judging
+from the height it may have been carved by a dwarf.  Obvious paths continue
+north and west.  
+~
+0 1048585 11
+D0
+~
+~
+0 0 778
+D3
+~
+~
+0 0 776
+S
+#778
+A Tight Passage~
+It's a narrow, dark and uncomfortable passage through a rock.  Obvious
+paths continue east and south.  
+~
+0 1048585 11
+D1
+~
+~
+0 0 779
+D2
+~
+~
+0 0 777
+S
+#779
+A Tight Passage~
+It's a narrow, dark and uncomfortable passage through a rock.  An obvious
+path continues west.  There appears to be a hole in the floor here.  
+~
+0 1048585 11
+D3
+~
+~
+0 0 778
+D5
+~
+~
+0 0 780
+S
+#780
+A Tight Passage~
+It's a narrow, dark and uncomfortable passage through a rock.  An obvious
+path continues south.  There appears to be a hole in the ceiling here.  
+~
+0 1048585 11
+D2
+~
+~
+0 0 781
+D4
+~
+~
+0 0 779
+S
+#781
+A Tight Passage~
+It's a narrow, dark and uncomfortable passage through a rock.  There is a
+thin layer of slime on a nearby rock.  Obvious paths continue north and
+south.  
+~
+0 1048585 11
+E
+slime~
+It's still warm.
+~
+D0
+~
+~
+0 0 780
+D2
+~
+~
+0 0 782
+S
+#782
+A Tight Passage~
+It's a narrow, dark and uncomfortable passage through a rock.  Obvious
+paths continue north and east.  
+~
+0 1048585 11
+D0
+~
+~
+0 0 781
+D1
+~
+~
+0 0 783
+S
+#783
+A Tight Passage~
+It's a narrow, dark and uncomfortable passage through a rock.  Obvious
+paths continue south and west.  
+~
+0 1048585 11
+D2
+~
+~
+0 0 784
+D3
+~
+~
+0 0 782
+S
+#784
+A Tight Passage~
+It's a narrow, dark and uncomfortable passage through a rock.  Obvious
+paths continue north and south.  
+~
+0 1048585 11
+D0
+~
+~
+0 0 783
+D2
+~
+~
+0 0 785
+S
+#785
+A Tight Passage~
+It's a narrow, dark and uncomfortable passage through a rock.  Obvious
+paths continue north and south.  
+~
+0 1048585 11
+D0
+~
+~
+0 0 784
+D2
+~
+~
+0 0 786
+S
+#786
+A Tight Passage~
+It's a narrow, dark and uncomfortable passage through a rock.  An obvious
+path continues north.  There is a rocky exposure you can use to climb
+further down.  
+~
+0 1048585 11
+D0
+~
+~
+0 0 785
+D5
+~
+~
+0 0 787
+S
+#787
+A Tight Passage~
+~
+0 1048585 11
+D2
+~
+~
+0 0 788
+D4
+~
+~
+0 0 786
+S
+#788
+A Tight Passage~
+~
+0 1048585 11
+D0
+~
+~
+0 0 787
+D2
+~
+~
+0 0 789
+S
+#789
+A Tight Passage~
+~
+0 1048585 11
+D0
+~
+~
+0 0 788
+D5
+~
+~
+0 0 790
+S
+#790
+An Underground Hive~
+~
+0 1048585 11
+D2
+~
+~
+0 0 791
+D4
+~
+~
+0 0 789
+S
+#791
+An Underground Hive~
+~
+0 1048585 11
+D0
+~
+~
+0 0 790
+D5
+~
+~
+0 0 792
+S
+#792
+Deep Underground~
+~
+0 1048585 11
+D4
+~
+~
+0 0 791
+S
+#793
+Forest Cave~
+~
+0 0 0
+D2
+~
+~
+0 0 794
+D3
+~
+secret~
+5 0 705
+S
+#794
+Forest Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 793
+D5
+~
+~
+0 0 795
+S
+#795
+Deep Inside a Forest Cave~
+~
+0 0 0
+D4
+~
+~
+0 0 794
+S
+#796
+Private Chambers~
+~
+0 0 0
+D0
+~
+~
+0 0 797
+D4
+~
+~
+0 0 769
+S
+#797
+Orc Harem~
+~
+0 0 0
+D0
+~
+~
+0 0 798
+D2
+~
+~
+0 0 796
+S
+#798
+Orc Harem~
+~
+0 0 0
+D2
+~
+~
+0 0 797
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 705 1 5
+D 0 743 0 5
+D 0 743 5 5
+D 0 745 1 1
+D 0 746 3 1
+D 0 748 3 1
+D 0 756 1 1
+D 0 758 0 1
+D 0 759 3 1
+D 0 760 2 1
+D 0 765 1 1
+D 0 768 0 1
+D 0 769 2 1
+D 0 772 1 1
+D 0 773 3 1
+D 0 774 4 5
+D 0 775 2 5
+D 0 793 3 5
+M 0 700 10 701 1
+M 0 700 40 703 1
+M 0 704 40 705 1
+M 0 700 10 705 1
+M 0 700 20 707 1
+M 0 701 10 708 1
+G 0 707 0
+M 0 704 40 709 1
+M 0 704 40 711 1
+M 0 701 10 712 1
+G 0 707 0
+M 0 714 20 714 1
+E 0 704 0 16
+M 0 700 20 714 1
+M 0 700 20 715 1
+M 0 702 20 716 1
+M 0 701 10 717 1
+G 0 707 0
+M 0 704 40 718 1
+M 0 700 20 718 1
+M 0 702 20 720 1
+M 0 700 40 721 1
+M 0 704 40 722 1
+O 0 799 0 722
+P 0 792 10 799 1
+M 0 701 10 722 1
+G 0 707 0
+M 0 700 20 723 1
+M 0 700 20 724 1
+M 0 700 20 725 1
+M 0 704 40 726 1
+M 0 702 20 726 1
+M 0 700 20 728 1
+M 0 700 20 730 1
+M 0 701 10 732 1
+G 0 707 0
+M 0 704 40 734 1
+M 0 700 40 735 1
+M 0 704 40 736 1
+M 0 700 10 736 1
+M 0 702 20 737 1
+M 0 708 2 738 1
+G 0 718 0
+O 0 799 0 738
+P 0 792 10 799 1
+M 0 702 40 739 1
+O 0 799 0 740
+P 0 792 10 799 1
+M 0 702 20 740 1
+M 0 700 40 742 1
+M 0 705 20 743 2
+M 0 704 40 744 1
+M 0 711 10 745 1
+E 0 710 0 20
+E 0 711 0 5
+M 0 714 1 746 1
+E 0 715 0 8
+M 0 711 10 748 1
+E 0 710 0 20
+E 0 703 0 10
+M 0 713 1 749 1
+G 0 793 0
+E 0 789 0 5
+G 0 791 0
+G 0 790 0
+G 0 792 0
+M 0 704 40 750 1
+O 0 799 0 750
+P 0 792 10 799 1
+M 0 714 20 751 1
+M 0 704 40 751 1
+O 0 752 0 752
+M 0 714 20 753 1
+M 0 700 40 753 1
+M 0 714 20 756 1
+M 0 714 20 757 1
+E 0 706 0 9
+M 0 714 20 758 1
+O 0 798 0 762
+M 0 710 1 762 1
+E 0 708 0 16
+E 0 714 0 7
+M 0 703 4 762 4
+M 0 703 4 762 4
+M 0 714 20 763 1
+E 0 714 0 7
+M 0 700 40 764 1
+M 0 714 20 767 1
+M 0 715 10 768 1
+E 0 709 0 16
+M 0 712 1 769 1
+E 0 716 0 13
+E 0 713 0 6
+E 0 712 0 12
+M 0 715 10 769 4
+E 0 709 0 16
+E 0 719 0 7
+M 0 715 10 769 4
+E 0 709 0 16
+E 0 719 0 7
+E 0 720 0 15
+M 0 714 20 771 1
+E 0 705 0 16
+M 0 711 10 772 1
+E 0 711 0 5
+E 0 710 0 20
+E 0 709 0 16
+M 0 705 20 776 2
+M 0 705 20 778 2
+M 0 705 20 782 2
+M 0 705 20 784 2
+M 0 705 20 787 2
+M 0 706 1 788 1
+E 0 701 0 11
+M 0 705 20 789 2
+M 0 705 20 790 2
+M 0 705 20 790 2
+M 0 705 20 791 2
+M 0 705 20 792 2
+M 0 705 20 792 2
+M 0 705 20 792 2
+M 0 707 2 795 1
+G 0 717 0
+M 0 715 4 796 10
+E 0 720 0 15
+E 0 719 0 7
+E 0 709 0 16
+M 0 716 4 797 10
+E 0 721 0 13
+M 0 716 4 798 10
+E 0 722 0 10
+S
+
+
+
+#SHOPS
+713 0 19 17 0 0 100 100 6 18
+0
+
+
+
+#MOBPROGS
+#700
+mob remove self 702
+em derp
+~
+#702
+emote craps casually.
+mob oload 700 1
+mob otransfer dung
+~
+#703
+em bleats loudly.
+mppurge $i
+~
+#706
+say Work, work.
+~
+#712
+say Kill them! Kill all of them!!!
+~
+#716
+emote panics and screams.
+say "Aaahh! Don't look - I'm naked!"
+~
+#0
+
+#$

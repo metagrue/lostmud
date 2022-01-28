@@ -1,0 +1,11 @@
+#GROUP
+Name rom basics~
+Rate 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0~
+End~
+#SPELLS
+scrolls~
+staves~
+wands~
+recall~
+End~
+#END
