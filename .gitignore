@@ -9,3 +9,5 @@
 /build/player/*.plr
 /live/player/*.bak
 /live/player/*.plr
+/build/WinRot.exe
+/live/WinRot.exe
