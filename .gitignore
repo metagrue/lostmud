@@ -5,3 +5,7 @@
 /WinRot.sdf
 /WinRot.v11.suo
 /WinRot.vcxproj.user
+/build/player/*.bak
+/build/player/*.plr
+/live/player/*.bak
+/live/player/*.plr
