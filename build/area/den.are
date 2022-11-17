@@ -332,6 +332,14 @@ unknown~
 fountain 0 0
 0 0 'water' 0 0
 0 0 0 0 P
+#32
+warpstone~
+a {gwarpstone{x~
+A strange green stone floats here.~
+warpstone~
+warp_stone AGU AO
+0 0 0 0 0
+50 5 1 0 P
 #50
 glow glowing pill quest~
 a {Yglowing {Wpill{x~
@@ -538,9 +546,9 @@ weapon U AN
 dagger 20 59 stab EH
 1 1 202 0 P
 A
-19 19
-A
 18 19
+A
+19 19
 #81
 quest short sword~
 an quest's shortsword~
@@ -550,9 +558,9 @@ weapon U AN
 sword 21 60 slash 0
 201 201 202 0 P
 A
-19 19
-A
 18 19
+A
+19 19
 #82
 quest club~
 an quest's club~
@@ -562,9 +570,9 @@ weapon U AN
 mace 21 59 crush 0
 1 1 202 0 P
 A
-19 19
-A
 18 19
+A
+19 19
 #83
 quest axe~
 an quest's axe~

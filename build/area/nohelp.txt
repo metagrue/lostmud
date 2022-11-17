@@ -19,3 +19,4 @@
 [  300] Chaos: addapply
 [ 1087] Chaos: off
 [ 1049] Chaos: ITEM_FOUNTAIN
+[  325] Chaos: skedit

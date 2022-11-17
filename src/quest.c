@@ -48,6 +48,7 @@ DECLARE_DO_FUN( do_say );
 #define QUEST_REWARD_SHIELD 88
 #define QUEST_REWARD_DRINK 99
 #define QUEST_REWARD_CHAIR 98
+#define QUEST_REWARD_WARPSTONE 32
 
 /* Object vnums for object quest 'tokens'. In Moongate, the tokens are
    things like 'the Shield of Moongate', 'the Sceptre of Moongate'. These
@@ -214,6 +215,7 @@ void do_quest(CHAR_DATA *ch, char *argument)
 750qp..........Quest Stone\n\r\
 750qp..........Quest Bandana\n\r\
 550qp..........Decanter of Endless Water\n\r\
+250qp..........A warpstone\n\r\
 500qp..........10 platinum coins\n\r\
 500qp..........30 Practices\n\r\
 To buy an item, type 'QUEST BUY <item>'.\n\r");
@@ -419,6 +421,15 @@ To buy an item, type 'QUEST BUY <item>'.\n\r");
             if (ch->questpoints >= 750) {
                 ch->questpoints -= 750;
                 obj = create_object(get_obj_index(QUEST_REWARD_FLOAT),ch->level);
+            } else {
+                sprintf(buf, "Sorry, %s, but you don't have enough quest points for that.",ch->name);
+                do_say(questman,buf);
+                return;
+            }
+		} else if (is_name(arg2, "warpstone warp")) {
+            if (ch->questpoints >= 250) {
+                ch->questpoints -= 250;
+                obj = create_object(get_obj_index(QUEST_REWARD_WARPSTONE),ch->level);
             } else {
                 sprintf(buf, "Sorry, %s, but you don't have enough quest points for that.",ch->name);
                 do_say(questman,buf);
